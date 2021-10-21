@@ -189,7 +189,6 @@ class Scrapper(Thread):
             build_year = re.search(r"[0-9]{4}", field)
             if build_year:
                 build_year = build_year.group(0)
-                print(build_year)
                 return build_year
         return None
 
@@ -204,7 +203,6 @@ class Scrapper(Thread):
             epc = re.search(r"[0-9]{3}", field)
             if epc:
                 epc = epc.group(0)
-                print(epc)
                 return epc
         return None
 

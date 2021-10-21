@@ -1,0 +1,43 @@
+,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Ottignies,Appartement,,300000,notariale,3,90,0,0,0,True,6,0,,,,2,0,,,,https://www.zimmo.be/fr/ottignies-1340/a-vendre/appartement/JY3Z3/
+1,,Projet,,171600,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/perwez-1360/a-vendre/projet-immobilier/10044IX/
+2,Wavre,Maison,,650000,notariale,9,245,0,0,0,True,39,1,,,,4,0,,2014,141,https://www.zimmo.be/fr/wavre-1300/a-vendre/maison/JY3L3/
+3,Mont-Saint-Guibert,Appartement,,345000,notariale,4,118,0,0,0,True,55,0,,,,4,0,,2020,,https://www.zimmo.be/fr/mont-saint-guibert-1435/a-vendre/appartement/JY351/
+4,Limal,Maison,,735000,notariale,8,300,0,0,1,,,1,,,,4,0,,1972,326,https://www.zimmo.be/fr/limal-1300/a-vendre/maison/JY2KF/
+5,,Projet,,279000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/wavre-1300/a-vendre/projet-immobilier/10045LC/
+6,Chaumont-Gistoux,Appartement,,675000,notariale,5,79,0,0,0,True,30,0,,,,3,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FP/
+7,Chaumont-Gistoux,Appartement,,775000,notariale,6,78,0,0,0,True,31,0,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FT/
+8,Chaumont-Gistoux,Appartement,Duplex,885000,notariale,6,59,0,0,0,True,19,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FU/
+9,Chaumont-Gistoux,Appartement,App. rez-de-chaussée,599000,notariale,5,71,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FV/
+0,Waterloo,Garage,,55000,notariale,1,24,0,0,0,,,0,,,,,0,,2005,,https://www.zimmo.be/fr/waterloo-1410/a-vendre/garage/JXYQL/
+1,Genval,Maison,,465000,notariale,6,221,0,0,0,,,1,,,,2,0,,1930,266,https://www.zimmo.be/fr/genval-1332/a-vendre/maison/JXXMG/
+2,,Projet,,186000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/mont-saint-guibert-1435/a-vendre/projet-immobilier/10044GY/
+3,Lillois-Witterzée,Maison,Maison de ville,525000,notariale,6,150,0,0,0,,,0,,,,,0,,,626,https://www.zimmo.be/fr/lillois-witterzee-1428/a-vendre/maison/JXWK5/
+4,Bierges,Maison,Villa,1150000,notariale,7,360,0,0,0,,,0,,,,,0,,,439,https://www.zimmo.be/fr/bierges-1301/a-vendre/maison/JXWK2/
+5,Beauvechain,Maison,,387512,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/beauvechain-1320/a-vendre/maison/JXWG6/
+6,Beauvechain,Maison,,398298,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/beauvechain-1320/a-vendre/maison/JXWG7/
+7,Wavre,Appartement,Duplex,245000,notariale,3,93,0,0,0,,,0,,,,2,0,,2022,,https://www.zimmo.be/fr/wavre-1300/a-vendre/appartement/JXV3L/
+8,Chaumont-Gistoux,Terrain,Terrain agricole,20000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/terrain/JXV34/
+9,Ottignies,Maison,Villa,725000,notariale,6,170,0,0,1,True,14,1,,,,4,0,,1972,350,https://www.zimmo.be/fr/ottignies-1340/a-vendre/maison/JXUSQ/
+0,Chaumont-Gistoux,Appartement,App. rez-de-chaussée,397000,notariale,4,82,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FO/
+1,Chaumont-Gistoux,Appartement,,550000,notariale,5,27,0,0,0,True,13,0,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FR/
+2,Chaumont-Gistoux,Appartement,,675000,notariale,5,07,0,0,0,True,30,0,,,,3,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FS/
+3,Chaumont-Gistoux,Appartement,App. rez-de-chaussée,399000,notariale,4,74,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FQ/
+4,Chaumont-Gistoux,Appartement,App. rez-de-chaussée,399000,notariale,4,50,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FN/
+5,Chaumont-Gistoux,Appartement,App. rez-de-chaussée,390000,notariale,4,54,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/chaumont-gistoux-1325/a-vendre/appartement/JY2FM/
+6,Waterloo,Appartement,,490000,notariale,7,170,0,0,0,True,20,1,,,,,0,,,214,https://www.zimmo.be/fr/waterloo-1410/a-vendre/appartement/JY1UV/
+7,Rixensart,Maison,,415000,notariale,8,175,0,0,0,True,20,1,,,,3,0,,1967,597,https://www.zimmo.be/fr/rixensart-1330/a-vendre/maison/JY1MD/
+8,Ottignies-Louvain-la-Neuve,Terrain,Terrain à bâtir,370000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ottignies-louvain-la-neuve-1340/a-vendre/terrain/JY1MC/
+9,Perwez,Maison,,170000,agence,3,96,0,0,0,,,1,,,,3,0,,1962,819,https://www.zimmo.be/fr/perwez-1360/a-vendre/maison/JY122/
+0,Rebecq,Maison,Villa,325000,notariale,8,200,0,0,0,True,50,1,,,,,0,,,422,https://www.zimmo.be/fr/rebecq-1430/a-vendre/maison/JY0YQ/
+1,,Projet,,228718,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/tubize-1480/a-vendre/projet-immobilier/1003YZL/
+2,Hélécine,Maison,,292000,notariale,5,,0,0,0,,,1,,,,3,0,,2020,112,https://www.zimmo.be/fr/helecine-1357/a-vendre/maison/JY095/
+3,Limal,Terrain,Terrain agricole,14990,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/limal-2450/a-vendre/terrain/JY07P/
+4,Wavre,Bien professionnel,Bâtiment commercial,1045000,notariale,0,461,0,0,0,,,0,,,,3,0,,2010,,https://www.zimmo.be/fr/wavre-1300/a-vendre/bien-professionnel/JXZZM/
+5,Grez-Doiceau,Maison,,330000,notariale,3,,0,0,0,,,1,,,,3,0,,,401,https://www.zimmo.be/fr/grez-doiceau-1390/a-vendre/maison/JXZVT/
+6,Grez-Doiceau,Maison,Villa,1395000,notariale,11,424,0,0,0,,,1,,,,4,0,,1999,324,https://www.zimmo.be/fr/grez-doiceau-1390/a-vendre/maison/JXZDN/
+7,Wavre,Maison,Maison de ville,525000,notariale,13,384,0,0,0,,,0,,,,,0,,,400,https://www.zimmo.be/fr/wavre-1300/a-vendre/maison/JXYZO/
+8,Braine-l'Alleud,Appartement,,780000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/braine-l%27alleud-1420/a-vendre/appartement/JXYXM/
+9,Genval,Appartement,,310000,notariale,2,40,0,0,0,True,60,1,,,,,0,,2016,,https://www.zimmo.be/fr/genval-1332/a-vendre/appartement/JXYUG/
+0,Wavre,Appartement,,479000,notariale,5,135,0,0,0,True,38,0,,,,2,0,,2022,,https://www.zimmo.be/fr/wavre-1300/a-vendre/appartement/JXUMW/
+1,Wavre,Appartement,,399000,notariale,4,131,0,0,0,True,22,1,,,,2,0,,2022,,https://www.zimmo.be/fr/wavre-1300/a-vendre/appartement/JXUFS/

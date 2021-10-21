@@ -29,7 +29,7 @@ class UrlGrabber(Thread):
         self.driver = WebDriver()
 
         # debug mode limits the amount of links that are pulled
-        self.debug_mode = True
+        self.debug_mode = False
         self.province = province
 
     def get_urls(self):

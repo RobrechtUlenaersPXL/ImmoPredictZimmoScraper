@@ -1,4 +1,6 @@
 ,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Hamont-Achel,Terrain,Terrain à bâtir,119000,notariale,0,,0,0,0,,,0.0,,,,4,0,,,,https://www.zimmo.be/fr/hamont-achel-3930/a-vendre/terrain/JY3G9/
+1,Houthalen-Helchteren,Appartement,Duplex,269000,notariale,5,150,0,0,0,True,62,0.0,,,,,0,,2020,,https://www.zimmo.be/fr/houthalen-helchteren-3530/a-vendre/appartement/JY3F5/
 0,,Maison,Maison de vacances,80000,notariale,0,,0,0,0,,,0.0,,,,4,0,,2010,,https://www.zimmo.be/fr/zutendaal-3690/a-vendre/maison/JXYZH/
 1,,Maison,Maison de vacances,90000,notariale,0,,0,0,0,,,0.0,,,,4,0,,2010,,https://www.zimmo.be/fr/zutendaal-3690/a-vendre/maison/JXYZG/
 0,Ham,Appartement,,219000,notariale,3,85,0,0,0,,,1.0,,,,,0,,2021,,https://www.zimmo.be/fr/ham-3945/a-vendre/appartement/JXZ8X/
@@ -23,8 +25,28 @@
 7,Maaseik,Appartement,,450000,notariale,3,,0,0,0,,,0.0,,,,,0,,2008,,https://www.zimmo.be/fr/maaseik-3680/a-vendre/appartement/JXZ9B/
 8,Ham,Appartement,,249000,notariale,4,97,0,0,0,,,1.0,,,,,0,,2021,,https://www.zimmo.be/fr/ham-3945/a-vendre/appartement/JXZ97/
 9,Hasselt,Appartement,Immeuble d'appartements,750000,notariale,12,500,0,0,0,,,0.0,,,,2,0,,,557,https://www.zimmo.be/fr/hasselt-3500/a-vendre/appartement/JXZ93/
+0,,Projet,,215700,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/hamont-achel-3930/a-vendre/projet-immobilier/10043TW/
+1,,Projet,,249000,notariale,0,,0,0,0,,,0.0,,,,,0,,2018,,https://www.zimmo.be/fr/lommel-3920/a-vendre/projet-immobilier/10045FY/
+2,Leopoldsburg,Appartement,,209000,notariale,4,102,0,0,0,,,0.0,,,,3,0,,2008,225,https://www.zimmo.be/fr/leopoldsburg-3970/a-vendre/appartement/JY3NI/
+3,Tongeren,Maison,Villa,559000,notariale,7,274,0,0,0,True,50,1.0,,,,4,0,,,419,https://www.zimmo.be/fr/tongeren-3700/a-vendre/maison/JY3NH/
+4,Hasselt,Appartement,,270000,notariale,5,115,0,0,0,True,40,0.0,,,,2,0,,1978,110,https://www.zimmo.be/fr/hasselt-3500/a-vendre/appartement/JY3NG/
+5,Zonhoven,Maison,,530000,notariale,6,235,0,0,0,,,1.0,,,,4,0,,2009,219,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/maison/JY3LL/
+6,Tessenderlo,Terrain,Zone de projet,180000,notariale,0,,0,0,0,,,0.0,,,,,0,,,,https://www.zimmo.be/fr/tessenderlo-3980/a-vendre/terrain/JY3L5/
+7,Tessenderlo,Maison,,399000,notariale,3,,0,0,0,,,1.0,,,,3,0,,2018,163,https://www.zimmo.be/fr/tessenderlo-3980/a-vendre/maison/JY3L4/
+8,Genk,Appartement,,168000,notariale,3,110,0,0,0,True,8,0.0,,,,,0,,1968,265,https://www.zimmo.be/fr/genk-3600/a-vendre/appartement/JY3L1/
+9,Bree,Appartement,,169000,notariale,4,90,0,0,0,,,0.0,,,,,0,,1994,439,https://www.zimmo.be/fr/bree-3960/a-vendre/appartement/JY3KX/
 0,,Maison,Maison de vacances,80000,notariale,0,,0,0,0,,,0.0,,,,4,0,,2010,202,https://www.zimmo.be/fr/zutendaal-3690/a-vendre/maison/JXYZH/
 1,,Maison,Maison de vacances,90000,notariale,0,,0,0,0,,,0.0,,,,4,0,,2010,201,https://www.zimmo.be/fr/zutendaal-3690/a-vendre/maison/JXYZG/
+0,Genk,Bien professionnel,Hôtel,1800000,notariale,5,592,0,1,0,,,1.0,,,,,0,,1973,634,https://www.zimmo.be/fr/genk-3600/a-vendre/bien-professionnel/JY3ZF/
+1,Bilzen,Maison,,249990,notariale,8,200,0,0,0,,,1.0,,,,3,0,,1979,718,https://www.zimmo.be/fr/bilzen-3740/a-vendre/maison/JY3XM/
+2,Zonhoven,Appartement,,260000,notariale,3,97,0,0,0,True,10,1.0,,,,,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/appartement/JY3W3/
+3,Zonhoven,Appartement,,250000,notariale,3,92,0,0,0,True,12,1.0,,,,,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/appartement/JY3W2/
+4,Zonhoven,Maison,,316500,notariale,4,,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/maison/JY3W1/
+5,Zonhoven,Maison,,319500,notariale,4,,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/maison/JY3VZ/
+6,Zonhoven,Maison,,317500,notariale,4,,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/maison/JY3W0/
+7,Zonhoven,Maison,,318500,notariale,4,,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/zonhoven-3520/a-vendre/maison/JY3VX/
+8,Tongeren,Appartement,,195000,notariale,3,,0,0,0,,,0.0,,,,,0,,1979,157,https://www.zimmo.be/fr/tongeren-3700/a-vendre/appartement/JY3U1/
+9,Hoeselt,Appartement,,110000,notariale,3,45,0,0,0,,,0.0,,,,,0,,1975,197,https://www.zimmo.be/fr/hoeselt-3730/a-vendre/appartement/JY3S1/
 0,Beringen,Maison,Maison unifamiliale,339000,notariale,7,157,0,0,0,,,1.0,,,,4,0,,1967,242,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JXZHD/
 1,,Maison,,150000,notariale,7,,0,0,0,,,0.0,,,,3,0,,1975,476,https://www.zimmo.be/fr/houthalen-3530/a-vendre/maison/JXZGG/
 2,,Maison,Usage mixte,150000,notariale,6,143,0,0,0,,,0.0,,,,2,0,,,,https://www.zimmo.be/fr/sint-truiden-3800/a-vendre/maison/JXZGF/
@@ -75,6 +97,16 @@
 7,,Maison,,190000,notariale,5,,0,0,0,,,0.0,,,,4,0,,1999,,https://www.zimmo.be/fr/lommel-3920/a-vendre/maison/JXZAU/
 8,Bocholt,Maison,Maison exceptionnelle,349000,notariale,10,220,0,0,0,,,1.0,,,,4,0,,1964,,https://www.zimmo.be/fr/bocholt-3950/a-vendre/maison/JXZBG/
 9,Houthalen-Helchteren,Maison,Maison unifamiliale,309500,notariale,5,155,0,0,0,,,0.0,,,,,0,,2020,,https://www.zimmo.be/fr/houthalen-helchteren-3530/a-vendre/maison/JXZBA/
+0,Vliermaalroot,Maison,,239000.0,notariale,7,171,0,0,0,,,1.0,,,,3,0,,,115,https://www.zimmo.be/fr/vliermaalroot-3721/a-vendre/maison/JY3KT/
+1,,Maison,Château,,notariale,1,108,0,0,0,,,1.0,,,,4,0,,,,https://www.zimmo.be/fr/tongeren-3700/a-vendre/maison/JY3KE/
+2,Bree,Appartement,,194500.0,notariale,3,21,0,0,0,True,44,0.0,,,,2,0,,2021,,https://www.zimmo.be/fr/bree-3960/a-vendre/appartement/JY3KD/
+3,Beringen,Maison,,359000.0,notariale,9,292,0,0,0,True,11,1.0,,,,,0,,1973,183,https://www.zimmo.be/fr/beringen-3582/a-vendre/maison/JY3GY/
+4,Gerdingen,Maison,,395000.0,notariale,6,168,0,0,0,,,1.0,,,,4,0,,1976,292,https://www.zimmo.be/fr/gerdingen-3960/a-vendre/maison/JY3GO/
+5,Beringen,Maison,,290000.0,notariale,3,160,0,0,0,,,0.0,,,,3,0,,,,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JY3GJ/
+6,Beringen,Maison,,335000.0,notariale,3,192,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JY3GL/
+7,Beringen,Maison,,285000.0,notariale,3,160,0,0,0,,,0.0,,,,3,0,,,,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JY3GF/
+8,Beringen,Maison,,359000.0,notariale,4,220,0,0,0,,,0.0,,,,4,0,,,,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JY3GG/
+9,Beringen,Maison,,359000.0,notariale,4,220,0,0,0,,,0.0,,,,4,0,,,,https://www.zimmo.be/fr/beringen-3580/a-vendre/maison/JY3GH/
 0,Maasmechelen,Maison,,199000,notariale,4,,0,0,0,,,1.0,,,,3,0,,,,https://www.zimmo.be/fr/maasmechelen-3630/a-vendre/maison/JXZB9/
 1,Kortessem,Appartement,App. rez-de-chaussée,249000,notariale,3,95,0,0,0,,,1.0,,,,,0,,2004,,https://www.zimmo.be/fr/kortessem-3720/a-vendre/appartement/JXZB2/
 2,Bocholt,Maison,Maison unifamiliale,255000,notariale,6,120,0,0,0,,,0.0,,,,4,0,,1934,,https://www.zimmo.be/fr/bocholt-3950/a-vendre/maison/JXZAY/
@@ -85,3 +117,13 @@
 7,Maaseik,Appartement,,450000,notariale,3,,0,0,0,,,0.0,,,,,0,,2008,,https://www.zimmo.be/fr/maaseik-3680/a-vendre/appartement/JXZ9B/
 8,Ham,Appartement,,249000,notariale,4,97,0,0,0,,,1.0,,,,,0,,2021,,https://www.zimmo.be/fr/ham-3945/a-vendre/appartement/JXZ97/
 9,Hasselt,Appartement,Immeuble d'appartements,750000,notariale,12,500,0,0,0,,,0.0,,,,2,0,,,,https://www.zimmo.be/fr/hasselt-3500/a-vendre/appartement/JXZ93/
+0,Dilsen-Stokkem,Bien professionnel,Commerce,195000,notariale,0,214,0,0,0,,,0.0,,,,,0,,,,https://www.zimmo.be/fr/dilsen-stokkem-3650/a-vendre/bien-professionnel/JY3OY/
+1,,Projet,,278800,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/kinrooi-3640/a-vendre/projet-immobilier/100446W/
+2,,Projet,,184500,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/halen-3545/a-vendre/projet-immobilier/10042LX/
+3,,Projet,,294000,notariale,0,,0,0,0,,,0.0,,,,,0,,,,https://www.zimmo.be/fr/hasselt-3500/a-vendre/projet-immobilier/100458Q/
+4,,Projet,,257500,notariale,0,,0,0,0,,,0.0,,,,,0,,,,https://www.zimmo.be/fr/lommel-3920/a-vendre/projet-immobilier/10045FX/
+5,,Projet,,399000,notariale,0,,0,0,0,,,0.0,,,,,0,,2020,,https://www.zimmo.be/fr/overpelt-3900/a-vendre/projet-immobilier/10045FZ/
+6,,Projet,,308700,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/kortessem-3720/a-vendre/projet-immobilier/10042WJ/
+7,,Projet,,179000,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/sint-truiden-3800/a-vendre/projet-immobilier/100454A/
+8,,Projet,,235000,notariale,0,,0,0,0,,,0.0,,,,,0,,2022,,https://www.zimmo.be/fr/lommel-3920/a-vendre/projet-immobilier/10044JE/
+9,,Projet,,303200,notariale,0,,0,0,0,,,0.0,,,,,0,,2021,,https://www.zimmo.be/fr/hamont-achel-3930/a-vendre/projet-immobilier/10044RD/

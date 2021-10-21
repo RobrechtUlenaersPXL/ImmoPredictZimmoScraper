@@ -1,0 +1,53 @@
+,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Mechelen,Appartement,,309000,notariale,4,126,0,0,0,True,9,0,,,,,0,,,138,https://www.zimmo.be/fr/mechelen-2800/a-vendre/appartement/JY400/
+1,Herenthout,Maison,Maison unifamiliale,329000,notariale,4,50,0,0,0,True,90,1,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/maison/JY3ZX/
+2,Herenthout,Appartement,,199000,notariale,2,30,0,0,0,True,80,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/appartement/JY3ZV/
+3,Herenthout,Appartement,,274000,notariale,3,80,0,0,0,True,70,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/appartement/JY3ZW/
+4,Tongerlo,Maison,Chalet,59000,notariale,1,45,0,0,0,,,0,,,,4,0,,1969,222,https://www.zimmo.be/fr/tongerlo-2260/a-vendre/maison/JY3ZQ/
+5,Herentals,Maison,Maison unifamiliale,349000,notariale,6,169,0,0,0,,,0,,,,4,0,,1963,530,https://www.zimmo.be/fr/herentals-2200/a-vendre/maison/JY3ZS/
+6,Herentals,Appartement,,139000,notariale,2,,0,0,0,,,0,,,,3,0,,1963,715,https://www.zimmo.be/fr/herentals-2200/a-vendre/appartement/JY3ZL/
+7,,Projet,,199000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/projet-immobilier/100463F/
+8,Hoboken,Appartement,,179000,notariale,3,,0,0,0,,,0,,,,,0,,,141,https://www.zimmo.be/fr/hoboken-2660/a-vendre/appartement/JY3XF/
+9,Borgerhout,Maison,,285000,notariale,8,,0,0,0,,,0,,,,,0,,,275,https://www.zimmo.be/fr/borgerhout-2140/a-vendre/maison/JY3YV/
+0,Burcht,Appartement,,218000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/burcht-2070/a-vendre/appartement/JY3YW/
+1,Kontich,Maison,Maison unifamiliale,270000,notariale,5,137,0,0,0,,,1,,,,2,0,,1955,306,https://www.zimmo.be/fr/kontich-2550/a-vendre/maison/JY3YR/
+2,Sint-Job-in-'t-Goor,Bien professionnel,Bien commercial,219000,notariale,0,65,0,0,0,,,0,,,,2,0,,2011,,https://www.zimmo.be/fr/sint-job-in-%27t-goor-2960/a-vendre/bien-professionnel/JY3VB/
+3,Zwijndrecht,Terrain,,195000,notariale,0,,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/zwijndrecht-2070/a-vendre/terrain/JY3V5/
+4,Merksem,Maison,,359900,notariale,5,170,0,0,0,,,0,,,,2,0,,,344,https://www.zimmo.be/fr/merksem-2170/a-vendre/maison/JY3U5/
+5,Borgerhout,Appartement,,159900,notariale,3,90,0,0,0,True,18,0,,,,4,0,,1973,138,https://www.zimmo.be/fr/borgerhout-2140/a-vendre/appartement/JY3U0/
+6,Schilde,Terrain,Terrain à bâtir,195000,notariale,0,,0,0,0,,,1,,,,4,0,,,725,https://www.zimmo.be/fr/schilde-2970/a-vendre/terrain/JY3R5/
+7,,Appartement,,165000,notariale,3,,0,0,0,,,0,,,,,0,,1974,200,https://www.zimmo.be/fr/borgerhout-2140/a-vendre/appartement/JY3RY/
+8,,Garage,Place de stationnement,8000,notariale,1,,0,0,0,,,0,,,,,0,,1974,,https://www.zimmo.be/fr/borgerhout-2140/a-vendre/garage/JY3RZ/
+9,Kontich,Maison,,599000,notariale,6,216,0,0,0,,,1,,,547,3,0,old,2021,,https://www.zimmo.be/fr/kontich-2550/a-vendre/maison/JX8II/
+0,,Projet,,203800,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/turnhout-2300/a-vendre/projet-immobilier/10043DR/
+1,,Projet,,357900,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/kessel-2560/a-vendre/projet-immobilier/10043DP/
+2,,Projet,,455000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/bornem-2880/a-vendre/projet-immobilier/10044IV/
+3,Antwerpen,Maison,,365000,notariale,5,,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/antwerpen-2000/a-vendre/maison/JY3NY/
+4,Hemiksem,Garage,,40000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/hemiksem-2620/a-vendre/garage/JY3NK/
+5,Hemiksem,Garage,,60000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/hemiksem-2620/a-vendre/garage/JY3NJ/
+6,Schelle,Garage,Place de stationnement,30000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/schelle-2627/a-vendre/garage/JY3NL/
+7,Eindhout,Maison,,325000,notariale,7,138,0,0,0,,,1,,,,4,0,,1999,368,https://www.zimmo.be/fr/eindhout-2430/a-vendre/maison/JY3NF/
+8,Niel,Maison,,345000,notariale,6,168,0,0,0,,,1,,,,3,0,,1951,382,https://www.zimmo.be/fr/niel-2845/a-vendre/maison/JY3M9/
+9,Kontich,Appartement,Serviceflat,224000,notariale,3,79,0,0,0,True,7,0,,,,,0,,1976,135,https://www.zimmo.be/fr/kontich-2550/a-vendre/appartement/JY3MA/
+0,Puurs,Appartement,,329000.0,notariale,6,120,0,0,0,,,1,,,,3,0,,2010,110,https://www.zimmo.be/fr/puurs-2870/a-vendre/appartement/JY3R0/
+1,Lier,Maison,,299000.0,notariale,8,,0,0,0,,,0,,,,3,0,,1967,898,https://www.zimmo.be/fr/lier-2500/a-vendre/maison/JY3Q5/
+2,Herentals,Bien professionnel,Entrepôt avec habitation,424000.0,notariale,4,289,0,0,0,True,23,0,,,,2,0,,1958,424,https://www.zimmo.be/fr/herentals-2200/a-vendre/bien-professionnel/JY3PR/
+3,Antwerpen,Appartement,,399000.0,notariale,4,148,0,0,0,True,6,0,,,,2,0,,,163,https://www.zimmo.be/fr/antwerpen-2018/a-vendre/appartement/JY3PH/
+4,Bornem,Appartement,,329000.0,notariale,6,120,0,0,0,,,1,,,,3,0,,2010,110,https://www.zimmo.be/fr/bornem-2880/a-vendre/appartement/JY3P8/
+5,,Garage,Place de stationnement,,notariale,0,,0,0,0,,,1,,,,2,0,,2021,,https://www.zimmo.be/fr/puurs-2870/a-vendre/garage/JWOSB/
+6,Heist-op-den-Berg,Maison,,325000.0,notariale,5,204,0,0,0,,,1,,,,,0,,1963,328,https://www.zimmo.be/fr/heist-op-den-berg-2220/a-vendre/maison/JXM0A/
+7,Mol,Maison,,230000.0,notariale,7,167,0,0,0,,,1,,,,3,0,,1959,709,https://www.zimmo.be/fr/mol-2400/a-vendre/maison/JY3OT/
+8,,Projet,,227000.0,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/mol-2400/a-vendre/projet-immobilier/10045G1/
+9,,Projet,,159800.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/turnhout-2300/a-vendre/projet-immobilier/10042WL/
+0,Brasschaat,Appartement,,249000,notariale,5,104,0,0,0,,,0,,,,3,0,,1988,241,https://www.zimmo.be/fr/brasschaat-2930/a-vendre/appartement/JY3JT/
+1,Deurne,Appartement,,259000,notariale,5,98,0,0,0,True,24,1,,,,2,0,,,123,https://www.zimmo.be/fr/deurne-2100/a-vendre/appartement/JY3LQ/
+0,Mechelen,Appartement,,309000,notariale,4,126,0,0,0,True,9,0,,,,,0,,,138,https://www.zimmo.be/fr/mechelen-2800/a-vendre/appartement/JY400/
+1,Herenthout,Maison,Maison unifamiliale,329000,notariale,4,50,0,0,0,True,90,1,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/maison/JY3ZX/
+2,Herenthout,Appartement,,199000,notariale,2,30,0,0,0,True,80,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/appartement/JY3ZV/
+3,Herenthout,Appartement,,274000,notariale,3,80,0,0,0,True,70,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/appartement/JY3ZW/
+4,Tongerlo,Maison,Chalet,59000,notariale,1,45,0,0,0,,,0,,,,4,0,,1969,222,https://www.zimmo.be/fr/tongerlo-2260/a-vendre/maison/JY3ZQ/
+5,Herentals,Maison,Maison unifamiliale,349000,notariale,6,169,0,0,0,,,0,,,,4,0,,1963,530,https://www.zimmo.be/fr/herentals-2200/a-vendre/maison/JY3ZS/
+6,Herentals,Appartement,,139000,notariale,2,,0,0,0,,,0,,,,3,0,,1963,715,https://www.zimmo.be/fr/herentals-2200/a-vendre/appartement/JY3ZL/
+7,,Projet,,199000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/herenthout-2270/a-vendre/projet-immobilier/100463F/
+8,Hoboken,Appartement,,179000,notariale,3,,0,0,0,,,0,,,,,0,,,141,https://www.zimmo.be/fr/hoboken-2660/a-vendre/appartement/JY3XF/
+9,Borgerhout,Maison,,285000,notariale,8,,0,0,0,,,0,,,,,0,,,275,https://www.zimmo.be/fr/borgerhout-2140/a-vendre/maison/JY3YV/

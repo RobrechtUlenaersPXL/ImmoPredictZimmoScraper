@@ -1,0 +1,43 @@
+,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Aywaille,Maison,,465000,notariale,1,190,0,0,0,,,1,,,,,0,,2013,,https://www.zimmo.be/fr/aywaille-4920/a-vendre/maison/JY2B8/
+1,Faymonville,Terrain,Terrain à bâtir,119000,notariale,0,689,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/faymonville-4950/a-vendre/terrain/JY296/
+2,Liège,Maison,Maison de ville,199000,notariale,3,100,0,0,0,True,50,1,,,,2,0,,1899,237,https://www.zimmo.be/fr/liege-4000/a-vendre/maison/JY259/
+3,Villers-le-Bouillet,Maison,,323132,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/villers-le-bouillet-4530/a-vendre/maison/JY1ZC/
+4,Héron,Maison,,357099,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/heron-4217/a-vendre/maison/JY1Z6/
+5,Nandrin,Maison,,339760,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/nandrin-4550/a-vendre/maison/JY1ZA/
+6,Villers-le-Bouillet,Maison,,281688,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/villers-le-bouillet-4530/a-vendre/maison/JY1ZB/
+7,Marchin,Maison,,325975,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/marchin-4570/a-vendre/maison/JY1Z8/
+8,Clavier,Maison,,291760,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/clavier-4560/a-vendre/maison/JY1Z4/
+9,Braives,Maison,,298131,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/braives-4260/a-vendre/maison/JY1Z2/
+0,Grand-Rechain,Maison,,259000,notariale,4,,0,0,0,,,1,,,,,0,,,192,https://www.zimmo.be/fr/grand-rechain-4650/a-vendre/maison/JY2ZN/
+1,Hombourg,Maison,,150000,notariale,3,,0,0,0,,,1,,,,,0,,,447,https://www.zimmo.be/fr/hombourg-4852/a-vendre/maison/JY2ZM/
+2,Jemeppe-sur-Meuse,Appartement,,149000,notariale,4,59,0,0,0,,,0,,,,2,0,,2012,157,https://www.zimmo.be/fr/jemeppe-sur-meuse-4101/a-vendre/appartement/JY2JL/
+3,Comblain-au-Pont,Terrain,Terrain à bâtir,64500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/comblain-au-pont-4170/a-vendre/terrain/JY2IT/
+4,Ferrières,Maison,,250000,notariale,8,328,0,0,0,,,1,,,,4,0,,,574,https://www.zimmo.be/fr/ferrieres-4190/a-vendre/maison/JY2IR/
+5,Ferrières,Maison,,139000,notariale,4,117,0,0,0,,,0,,,,2,0,,1948,493,https://www.zimmo.be/fr/ferrieres-4190/a-vendre/maison/JY2IS/
+6,Berloz,Appartement,Duplex,199000,notariale,5,115,0,0,0,True,11,0,,,,3,0,,2019,,https://www.zimmo.be/fr/berloz-4257/a-vendre/appartement/JY2DU/
+7,Berloz,Maison,,299000,notariale,6,180,0,0,0,True,15,1,,,,2,0,,2020,,https://www.zimmo.be/fr/berloz-4257/a-vendre/maison/JY2DV/
+8,Berloz,Maison,,249000,notariale,5,155,0,0,0,True,20,1,,,,3,0,,2020,,https://www.zimmo.be/fr/berloz-4257/a-vendre/maison/JY2DW/
+9,Seraing,Maison,,136000,agence,3,98,0,0,0,,,1,,,,2,0,,1831,508,https://www.zimmo.be/fr/seraing-4100/a-vendre/maison/JY2C6/
+0,,Projet,,290130,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/retinne-4621/a-vendre/projet-immobilier/100463E/
+1,Cheratte,Maison,,249000,notariale,5,205,0,0,0,True,49,1,,,,3,0,,,369,https://www.zimmo.be/fr/cheratte-4602/a-vendre/maison/JY3MG/
+2,Verviers,Appartement,Duplex,298080,notariale,4,40,0,0,0,True,07,0,,,,2,0,,2021,,https://www.zimmo.be/fr/verviers-4800/a-vendre/appartement/JXTQZ/
+3,Trooz,Maison,,139000,notariale,3,95,0,0,0,True,30,1,,,,4,0,,1977,739,https://www.zimmo.be/fr/trooz-4870/a-vendre/maison/JY3KS/
+4,Saint-Nicolas,Maison,Maison unifamiliale,149000,notariale,4,90,0,0,0,True,33,1,,,,3,0,,,468,https://www.zimmo.be/fr/saint-nicolas-4420/a-vendre/maison/JWST3/
+5,Hody,Maison,Maison unifamiliale,99000,notariale,5,100,0,0,0,,,1,,,,4,0,,,,https://www.zimmo.be/fr/hody-4162/a-vendre/maison/JY3JO/
+6,Neuville-en-Condroz,Maison,Maison unifamiliale,289000,notariale,4,85,0,0,0,,,1,,,,4,0,,,,https://www.zimmo.be/fr/neuville-en-condroz-4121/a-vendre/maison/JY3G7/
+7,Henri-Chapelle,Maison,,220000,notariale,4,,0,0,0,,,1,,,,,0,,,418,https://www.zimmo.be/fr/henri-chapelle-4841/a-vendre/maison/JY2ZR/
+8,Grand-Rechain,Maison,,410000,notariale,10,,0,0,0,,,1,,,,,0,,,230,https://www.zimmo.be/fr/grand-rechain-4650/a-vendre/maison/JY2ZQ/
+9,Grand-Rechain,Maison,,160000,notariale,6,,0,0,0,,,1,,,,,0,,,230,https://www.zimmo.be/fr/grand-rechain-4650/a-vendre/maison/JY2ZP/
+0,Neufchâteau,Terrain,Terrain à bâtir,110000,notariale,0,668,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/neufchateau-4608/a-vendre/terrain/JY0SZ/
+1,,Projet,,185000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/glain-4000/a-vendre/projet-immobilier/100445X/
+0,Braives,Maison,,528735,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/braives-4260/a-vendre/maison/JY1Z0/
+1,Berloz,Maison,,348975,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/berloz-4257/a-vendre/maison/JY1Z5/
+2,Faimes,Maison,,339173,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/faimes-4317/a-vendre/maison/JY1Z3/
+3,Donceel,Maison,,337000,notariale,9,300,0,0,0,,,1,,,,3,0,,,349,https://www.zimmo.be/fr/donceel-4357/a-vendre/maison/JY1GA/
+4,,Maison,,90000,notariale,3,,0,0,0,True,53,0,,,,2,0,,,341,https://www.zimmo.be/fr/angleur-4031/a-vendre/maison/JY1FC/
+5,Sourbrodt,Maison,,170000,notariale,5,125,0,0,0,True,45,0,,,,4,0,,,607,https://www.zimmo.be/fr/sourbrodt-4950/a-vendre/maison/JY1IN/
+6,Sourbrodt,Maison,,170000,notariale,5,125,0,0,0,True,45,0,,,,4,0,,,607,https://www.zimmo.be/fr/sourbrodt-4950/a-vendre/maison/JY1IM/
+7,Sourbrodt,Appartement,Duplex,170000,notariale,5,125,0,0,0,True,45,0,,,,4,0,,,607,https://www.zimmo.be/fr/sourbrodt-4950/a-vendre/appartement/JY1IL/
+8,Modave,Maison,,275000,notariale,6,200,0,0,0,,,1,,,,4,0,,,506,https://www.zimmo.be/fr/modave-4577/a-vendre/maison/JY1E3/
+9,Flémalle,Maison,,209000,notariale,4,114,0,0,0,,,0,,,,3,0,,,254,https://www.zimmo.be/fr/flemalle-4400/a-vendre/maison/JY0TD/

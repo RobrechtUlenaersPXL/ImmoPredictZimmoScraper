@@ -1,0 +1,43 @@
+,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Tremelo,Maison,,530000,notariale,6,295,0,0,0,,,1,,,,4,0,,1960,540,https://www.zimmo.be/fr/tremelo-3120/a-vendre/maison/JY3LU/
+1,Rotselaar,Maison,,349000,notariale,5,240,0,0,0,True,30,1,,,,4,0,,2021,,https://www.zimmo.be/fr/rotselaar-3110/a-vendre/maison/JY3LV/
+2,Vilvoorde,Maison,,400000,notariale,5,168,0,0,0,True,30,0,,,,2,0,,1931,333,https://www.zimmo.be/fr/vilvoorde-1800/a-vendre/maison/JY3KZ/
+3,Merchtem,Appartement,,199000,notariale,3,60,0,0,0,,,0,,,,3,0,,2008,124,https://www.zimmo.be/fr/merchtem-1785/a-vendre/appartement/JY3KH/
+4,Diest,Bien professionnel,,379000,notariale,7,341,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/diest-3290/a-vendre/bien-professionnel/JY3JK/
+5,Rotselaar,Maison,,290000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/rotselaar-3110/a-vendre/maison/JY3FT/
+6,Leuven,Appartement,Duplex,455000,notariale,4,109,0,0,0,True,60,0,,,,2,0,,2012,,https://www.zimmo.be/fr/leuven-3000/a-vendre/appartement/JY3HK/
+7,Leuven,Appartement,Penthouse,455000,notariale,4,109,0,0,0,True,60,0,,,,2,0,,2012,,https://www.zimmo.be/fr/leuven-3000/a-vendre/appartement/JY3HJ/
+8,Diest,Bien professionnel,,549000,notariale,8,366,0,0,0,True,8,0,,,,3,0,,,201,https://www.zimmo.be/fr/diest-3290/a-vendre/bien-professionnel/JY3HF/
+9,Diest,Bien professionnel,Bureaux,199900,notariale,0,,0,0,0,True,7,0,,,,2,0,,,,https://www.zimmo.be/fr/diest-3290/a-vendre/bien-professionnel/JY3HD/
+0,Boutersem,Terrain,Prairie,30000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/boutersem-3370/a-vendre/terrain/JY3GU/
+1,Boutersem,Terrain,,25000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/boutersem-3370/a-vendre/terrain/JY3G6/
+0,Overijse,Appartement,,225000,notariale,2,68,0,0,0,,,0,,,,2,0,,1934,176,https://www.zimmo.be/fr/overijse-3090/a-vendre/appartement/JY3O6/
+1,Merchtem,Maison,,388000,notariale,6,210,0,0,0,,,1,,,,2,0,,1969,606,https://www.zimmo.be/fr/merchtem-1785/a-vendre/maison/JY3O0/
+2,Vilvoorde,Appartement,Penthouse,385000,notariale,6,90,0,0,0,True,80,0,,,,,0,,2020,,https://www.zimmo.be/fr/vilvoorde-1800/a-vendre/appartement/JY3NX/
+3,Geetbets,Maison,,285000,notariale,5,233,0,0,0,,,1,,,,3,0,,1959,297,https://www.zimmo.be/fr/geetbets-3450/a-vendre/maison/JY3NW/
+4,Kortenberg,Maison,Villa,554533,notariale,6,170,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/kortenberg-3070/a-vendre/maison/JY3NN/
+5,Affligem,Maison,,269000,notariale,6,202,0,0,0,,,1,,,,3,0,,1956,676,https://www.zimmo.be/fr/affligem-1790/a-vendre/maison/JY3N1/
+6,Keerbergen,Maison,,359000,notariale,5,122,0,0,0,,,0,,,,3,0,,1970,178,https://www.zimmo.be/fr/keerbergen-3140/a-vendre/maison/JY3MC/
+7,Zaventem,Maison,,419000,notariale,7,155,0,0,0,,,1,,,,3,0,,1969,539,https://www.zimmo.be/fr/zaventem-1930/a-vendre/maison/JY3LZ/
+8,Haacht,Maison,,299000,notariale,4,115,0,0,0,,,1,,,,4,0,,1990,695,https://www.zimmo.be/fr/haacht-3150/a-vendre/maison/JY3LX/
+9,Aarschot,Appartement,,249000,notariale,4,118,0,0,0,,,0,,,,3,0,,1984,557,https://www.zimmo.be/fr/aarschot-3200/a-vendre/appartement/JY3LW/
+0,Diest,Maison,Maison unifamiliale,179000,notariale,6,123,0,0,0,,,0,,,,2,0,,,492,https://www.zimmo.be/fr/diest-3290/a-vendre/maison/JY3R8/
+1,Leuven,Garage,Place de stationnement,17000,notariale,1,,0,0,0,,,0,,,,,0,,1970,,https://www.zimmo.be/fr/leuven-3001/a-vendre/garage/JY3R9/
+2,Leuven,Maison,,425000,notariale,2,129,0,1,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/leuven-3000/a-vendre/maison/JY3Q7/
+3,Meise,Appartement,,359000,notariale,4,100,0,0,0,True,6,1,,,,2,0,,1960,237,https://www.zimmo.be/fr/meise-1860/a-vendre/appartement/JY3RU/
+4,Aarschot,Maison,,385000,notariale,5,183,0,0,0,,,0,,,,4,0,,1967,791,https://www.zimmo.be/fr/aarschot-3200/a-vendre/maison/JY3RL/
+5,Asse,Maison,,374000,notariale,6,270,0,0,0,,,0,,,,3,0,,1973,200,https://www.zimmo.be/fr/asse-1730/a-vendre/maison/JY3QB/
+6,,Appartement,,150000,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/halle-1500/a-vendre/appartement/JY3PY/
+7,,Projet,,369000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/leuven-3000/a-vendre/projet-immobilier/100446Z/
+8,,Projet,,285100,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/leuven-3000/a-vendre/projet-immobilier/10044Z0/
+9,Zaventem,Maison,,995000,notariale,8,358,0,0,0,True,50,1,,,,3,0,,1958,126,https://www.zimmo.be/fr/zaventem-1930/a-vendre/maison/JY3OC/
+0,Wezembeek-Oppem,Terrain,Terrain à bâtir,230000,notariale,0,,0,0,0,,,0,,,292,2,0,,,,https://www.zimmo.be/fr/wezembeek-oppem-1970/a-vendre/terrain/JXG53/
+1,Liedekerke,Appartement,,179000,notariale,4,96,0,0,0,True,8,0,,,,4,0,,,,https://www.zimmo.be/fr/liedekerke-1770/a-vendre/appartement/JY3Z0/
+2,Liedekerke,Appartement,,167000,notariale,4,96,0,0,0,True,8,0,,,,4,0,,,,https://www.zimmo.be/fr/liedekerke-1770/a-vendre/appartement/JY3YZ/
+3,Liedekerke,Appartement,,179000,notariale,4,96,0,0,0,True,8,0,,,,4,0,,,,https://www.zimmo.be/fr/liedekerke-1770/a-vendre/appartement/JY3YY/
+4,Elewijt,Appartement,,369000,notariale,6,155,0,0,0,True,10,0,,,,2,0,,2007,187,https://www.zimmo.be/fr/elewijt-1982/a-vendre/appartement/JY3YX/
+5,Tienen,Maison,Maison de ville,275000,notariale,5,196,0,0,0,True,44,1,,,,2,0,,,355,https://www.zimmo.be/fr/tienen-3300/a-vendre/maison/JY3VV/
+6,Bekkerzeel,Maison,,385000,notariale,4,191,0,0,0,,,1,,,,4,0,,1974,321,https://www.zimmo.be/fr/bekkerzeel-1730/a-vendre/maison/JUTMB/
+7,Bekkerzeel,Maison,Fermette,385000,notariale,4,191,0,0,0,,,1,,,,4,0,,1974,321,https://www.zimmo.be/fr/bekkerzeel-1730/a-vendre/maison/JUTM9/
+8,Bekkerzeel,Maison,Villa,385000,notariale,4,191,0,0,0,,,1,,,,4,0,,1974,321,https://www.zimmo.be/fr/bekkerzeel-1730/a-vendre/maison/JUTMA/
+9,Tervuren,Maison,,1195000,notariale,10,340,0,0,0,True,25,1,,,,4,0,,1969,198,https://www.zimmo.be/fr/tervuren-3080/a-vendre/maison/JY3TH/
