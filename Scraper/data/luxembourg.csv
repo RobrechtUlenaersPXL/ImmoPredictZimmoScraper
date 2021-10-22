@@ -181,6 +181,16 @@
 7,Torgny,Maison,Autre,710000.0,notariale,22,478,0,0,0,,,0,,,755,,0,,,,https://www.zimmo.be/fr/torgny-6767/a-vendre/maison/JMO11/
 8,Torgny,Bien professionnel,Entrepôt avec habitation,710000.0,notariale,22,478,0,0,0,,,0,,,755,,0,,,,https://www.zimmo.be/fr/torgny-6767/a-vendre/bien-professionnel/JMO17/
 9,Torgny,Maison,Usage mixte,710000.0,notariale,22,478,0,0,0,,,0,,,755,,0,,,,https://www.zimmo.be/fr/torgny-6767/a-vendre/maison/JMO14/
+0,Bertrix,Bien professionnel,Bâtiment commercial,299000,notariale,6,565,0,0,0,True,65,0,,,,2,0,,,327,https://www.zimmo.be/fr/bertrix-6880/a-vendre/bien-professionnel/JXBYT/
+1,Barvaux-sur-Ourthe,Maison,Chalet,175000,notariale,4,70,0,0,0,,,0,,,978,4,0,,,,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JX70S/
+2,Barvaux-sur-Ourthe,Maison,Usage mixte,1150000,notariale,17,460,0,0,0,,,0,288,478,766,4,0,new,,143,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JX24H/
+3,Barvaux-sur-Ourthe,Maison,Usage mixte,315000,notariale,6,,0,0,0,,,0,,,,3,0,,,388,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JX24F/
+4,Barvaux-sur-Ourthe,Appartement,Immeuble d'appartements,1150000,notariale,17,460,0,0,0,,,0,288,478,766,4,0,new,,143,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/appartement/JX24D/
+5,Habay,Maison,,1700000,notariale,26,929,0,0,0,,,0,,,,3,0,new,,,https://www.zimmo.be/fr/habay-6720/a-vendre/maison/JWLX4/
+6,Bras,Maison,Villa,349900,notariale,7,542,0,0,0,,,0,,,548,4,0,,,337,https://www.zimmo.be/fr/bras-6800/a-vendre/maison/JWFR7/
+7,Wéris,Maison,,695000,notariale,13,490,0,1,0,,,0,,,449,4,0,,,343,https://www.zimmo.be/fr/weris-6940/a-vendre/maison/JWBA5/
+8,Bomal-sur-Ourthe,Terrain,Terrain à bâtir,55000,notariale,0,,0,0,0,,,0,,,041,4,0,,,,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/terrain/JW185/
+9,Barvaux-sur-Ourthe,Maison,Chalet,176000,notariale,4,63,0,1,0,,,1,75,453,528,4,0,new,1969,895,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JVYMH/
 0,Arlon,Appartement,,240000,notariale,4,100,0,0,0,,,0,,,,,0,old,,,https://www.zimmo.be/fr/arlon-6700/a-vendre/appartement/JVZJ7/
 1,Athus,Maison,,385000,notariale,6,168,0,0,0,True,1,1,,,056,4,0,,,,https://www.zimmo.be/fr/athus-6791/a-vendre/maison/JVZ4C/
 2,Durbuy,Maison,Chalet,176000,notariale,4,63,0,1,0,,,1,75,453,528,4,0,new,,,https://www.zimmo.be/fr/durbuy-6940/a-vendre/maison/JVYMH/
@@ -201,6 +211,23 @@
 7,Bouillon,Bien professionnel,Immeuble d’appartements,475000,notariale,7,203,0,0,0,,,1,,,910,4,0,,,,https://www.zimmo.be/fr/bouillon-6830/a-vendre/bien-professionnel/JNVAC/
 8,Vielsalm,Terrain,Terrain à bâtir,85000,notariale,0,,0,0,0,,,0,,,040,,0,,,,https://www.zimmo.be/fr/vielsalm-6690/a-vendre/terrain/JNSE9/
 9,Bouillon,Terrain,Zone de projet,190000,notariale,0,,0,0,0,,,0,,,387,4,0,,,,https://www.zimmo.be/fr/bouillon-6830/a-vendre/terrain/JNREI/
+0,Harre,Terrain,Terrain à bâtir,135000,notariale,0,,0,0,0,,,0,,,366,,0,,,,https://www.zimmo.be/fr/harre-6960/a-vendre/terrain/JPQ3I/
+1,Barvaux-sur-Ourthe,Appartement,Immeuble d'appartements,275000,notariale,9,,0,0,0,,,0,,,353,2,0,,,437,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/appartement/JOGJK/
+2,Barvaux-sur-Ourthe,Maison,,275000,notariale,9,,0,0,0,,,0,,,353,2,0,,,437,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JOGJL/
+3,Gouvy,Bien professionnel,Commerce,495000,notariale,0,870,0,0,0,,,0,,,400,4,0,,,,https://www.zimmo.be/fr/gouvy-6670/a-vendre/bien-professionnel/JO042/
+4,Bastogne,Terrain,Terrain à bâtir,80000,notariale,0,,0,0,0,,,0,,,644,,0,,,,https://www.zimmo.be/fr/bastogne-6600/a-vendre/terrain/JFWQT/
+5,Bomal-sur-Ourthe,Maison,Chalet,174900,notariale,4,150,0,0,0,,,1,,,477,4,0,old,2008,460,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/maison/JCHVE/
+6,Barvaux-sur-Ourthe,Terrain,,77000,notariale,0,,0,0,0,,,1,,,047,4,0,,,,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/terrain/BH27X/
+0,Marche-en-Famenne,Maison,,320000,notariale,6,140,0,0,0,,,0,,,,,0,,,581,https://www.zimmo.be/fr/marche-en-famenne-6900/a-vendre/maison/JY4QP/
+1,Marche-en-Famenne,Terrain,Terrain à bâtir,80000,notariale,0,,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/marche-en-famenne-6900/a-vendre/terrain/JY43U/
+2,Marche-en-Famenne,Terrain,Terrain à bâtir,80000,notariale,0,,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/marche-en-famenne-6900/a-vendre/terrain/JY43V/
+3,Bastogne,Appartement,App. rez-de-chaussée,169000,notariale,3,68,0,0,0,,,0,,,,2,0,,,144,https://www.zimmo.be/fr/bastogne-6600/a-vendre/appartement/JY43T/
+4,Rendeux,Maison,Villa-Manoir,195000,notariale,4,100,0,0,0,,,0,,,,3,0,,,546,https://www.zimmo.be/fr/rendeux-6987/a-vendre/maison/JY43R/
+5,Rendeux,Maison,Villa-Manoir,195000,notariale,5,113,0,0,0,,,0,,,,3,0,,,489,https://www.zimmo.be/fr/rendeux-6987/a-vendre/maison/JY43S/
+6,La Roche-en-Ardenne,Appartement,,189000,notariale,7,160,0,0,0,,,0,,,,2,0,,1973,254,https://www.zimmo.be/fr/la%20roche-en-ardenne-6980/a-vendre/appartement/JY43P/
+7,La Roche-en-Ardenne,Maison,Villa-Manoir,375000,notariale,19,423,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/la%20roche-en-ardenne-6980/a-vendre/maison/JY43Q/
+8,Wellin,Maison,,665000,notariale,7,280,0,0,0,,,1,,,,4,0,,1999,276,https://www.zimmo.be/fr/wellin-6920/a-vendre/maison/JXVZX/
+9,Bomal-sur-Ourthe,Maison,Maison unifamiliale,250000,notariale,6,170,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/maison/JXUV7/
 0,Wibrin,Terrain,Terrain à bâtir,32000,notariale,0,,0,0,0,,,0,,,384,,0,,,,https://www.zimmo.be/fr/wibrin-6666/a-vendre/terrain/JFWQG/
 1,Wibrin,Terrain,Terrain à bâtir,28000,notariale,0,,0,0,0,,,0,,,350,,0,,,,https://www.zimmo.be/fr/wibrin-6666/a-vendre/terrain/JFWQF/
 2,Wibrin,Terrain,Terrain à bâtir,35000,notariale,0,,0,0,0,,,0,,,454,,0,,,,https://www.zimmo.be/fr/wibrin-6666/a-vendre/terrain/JFWPU/
@@ -291,6 +318,16 @@
 7,Arlon,Terrain,,170000,notariale,0,,0,0,0,,,0,,,697,,0,,,,https://www.zimmo.be/fr/arlon-6700/a-vendre/terrain/JVH0X/
 8,La Roche-en-Ardenne,Maison,Villa-Manoir,375000,notariale,19,423,0,0,0,,,0,,,12,4,0,,,,https://www.zimmo.be/fr/la%20roche-en-ardenne-6980/a-vendre/maison/JVGNT/
 9,Marche-en-Famenne,Appartement,Duplex,245000,notariale,4,118,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/marche-en-famenne-6900/a-vendre/appartement/JVGJN/
+0,Bomal-sur-Ourthe,Appartement,,243500,notariale,8,230,0,0,0,,,0,,,,,0,,1993,332,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/appartement/JXNN5/
+1,On,Maison,,169000,notariale,4,114,0,0,0,,,0,,,,,0,,,314,https://www.zimmo.be/fr/on-6900/a-vendre/maison/JXNBA/
+2,Barvaux-sur-Ourthe,Maison,Chalet,229000,notariale,4,60,0,1,0,True,25,1,,,970,4,0,old,1994,440,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/maison/JXEVS/
+3,Forrières,Maison,,295000,notariale,5,250,0,0,0,,,1,,,653,4,0,,,394,https://www.zimmo.be/fr/forrieres-6953/a-vendre/maison/JXEF9/
+4,Neufchâteau,Bien professionnel,Bâtiment commercial,285000,notariale,6,,0,0,0,,,0,,,,2,0,,,330,https://www.zimmo.be/fr/neufchateau-6840/a-vendre/bien-professionnel/JXBZU/
+5,Les Hayons,Maison,,450000,notariale,4,,0,0,0,,,0,,,,2,0,,,122,https://www.zimmo.be/fr/les%20hayons-6830/a-vendre/maison/JXBZS/
+6,Paliseul,Bien professionnel,Bâtiment commercial,230000,notariale,0,,0,0,0,,,0,,,,2,0,,,262,https://www.zimmo.be/fr/paliseul-6850/a-vendre/bien-professionnel/JXBZT/
+7,Marche-en-Famenne,Bien professionnel,Bâtiment commercial,299000,notariale,0,144,0,0,0,,,1,,,,2,0,,,297,https://www.zimmo.be/fr/marche-en-famenne-6900/a-vendre/bien-professionnel/JXBZL/
+8,Libramont-Chevigny,Bien professionnel,Bâtiment commercial,650000,notariale,3,431,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/libramont-chevigny-6800/a-vendre/bien-professionnel/JXBZJ/
+9,Neufchâteau,Bien professionnel,Hôtel,2000000,notariale,37,,0,0,0,,,0,,,,4,0,,2012,,https://www.zimmo.be/fr/neufchateau-6840/a-vendre/bien-professionnel/JXBZH/
 0,Habay-la-Neuve,Maison,,290000,notariale,7,145,0,0,0,,,1,,,310,2,0,,,,https://www.zimmo.be/fr/habay-la-neuve-6720/a-vendre/maison/JWM5Z/
 1,Habay-la-Neuve,Maison,,1700000,notariale,26,929,0,0,0,,,0,,,,3,0,new,,,https://www.zimmo.be/fr/habay-la-neuve-6720/a-vendre/maison/JWLX4/
 2,Arlon,Maison,,270000,notariale,5,183,0,0,0,,,1,,,270,3,0,,,,https://www.zimmo.be/fr/arlon-6700/a-vendre/maison/JWLRY/
@@ -445,6 +482,16 @@
 5,Durbuy,Terrain,,77000,notariale,0,,0,0,0,,,1,,,047,4,0,,,,https://www.zimmo.be/fr/durbuy-6940/a-vendre/terrain/BH27X/
 6,Tohogne,Terrain,,15000,notariale,2,,0,0,0,,,1,,,600,4,0,,,,https://www.zimmo.be/fr/tohogne-6941/a-vendre/terrain/A6HVX/
 7,Bouillon,Terrain,Terrain à bâtir,52000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bouillon-6830/a-vendre/terrain/9MBGJ/
+0,Wéris,Maison,,295000,notariale,10,513,0,0,0,,,0,,,940,3,0,,,668,https://www.zimmo.be/fr/weris-6940/a-vendre/maison/JVUU6/
+1,Bomal-sur-Ourthe,Terrain,Terrain à bâtir,69000,notariale,0,,0,0,0,,,0,,,800,4,0,,,,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/terrain/JVQ6L/
+2,Bomal-sur-Ourthe,Terrain,Terrain à bâtir,89000,notariale,0,,0,0,0,,,0,,,200,4,0,,,,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/terrain/JVQ6K/
+3,Wéris,Maison,,229000,notariale,4,86,0,1,0,True,40,1,,,588,4,0,new,1977,367,https://www.zimmo.be/fr/weris-6940/a-vendre/maison/JVJ6Z/
+4,Bomal-sur-Ourthe,Maison,,249000,notariale,8,165,0,0,0,,,0,,,592,4,0,old,1975,416,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/maison/JVA7W/
+5,Bomal-sur-Ourthe,Terrain,Terrain à bâtir,89000,notariale,0,,0,0,0,,,0,,,789,,0,,,,https://www.zimmo.be/fr/bomal-sur-ourthe-6941/a-vendre/terrain/JUXI4/
+6,Wéris,Terrain,Terrain à bâtir,65460,notariale,0,,0,0,0,,,0,,,091,,0,,,,https://www.zimmo.be/fr/weris-6940/a-vendre/terrain/JTOIA/
+7,Barvaux-sur-Ourthe,Terrain,Terrain à bâtir,50300,notariale,0,,0,0,0,,,0,,,006,,0,,,,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/terrain/JTOI8/
+8,Barvaux-sur-Ourthe,Terrain,Terrain à bâtir,75000,notariale,0,,0,0,0,,,0,,,019,4,0,,,,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/terrain/JT9ZW/
+9,Barvaux-sur-Ourthe,Terrain,,76000,notariale,0,,0,0,0,,,0,,,169,4,0,,,,https://www.zimmo.be/fr/barvaux-sur-ourthe-6940/a-vendre/terrain/JRZWI/
 0,Vielsalm,Terrain,,60000,notariale,0,,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/vielsalm-6690/a-vendre/terrain/JM3B0/
 1,Vielsalm,Terrain,,60000,notariale,0,,0,0,0,,,0,,,669,,0,,,,https://www.zimmo.be/fr/vielsalm-6690/a-vendre/terrain/JM3AZ/
 2,Vielsalm,Terrain,,35000,notariale,0,,0,0,0,,,0,,,619,,0,,,,https://www.zimmo.be/fr/vielsalm-6690/a-vendre/terrain/JM1G1/

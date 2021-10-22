@@ -1,4 +1,44 @@
 ,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Cerfontaine,Maison,,200000,notariale,7,175,0,0,0,True,15,1,,,866,,0,,,403,https://www.zimmo.be/fr/cerfontaine-5630/a-vendre/maison/JX5TP/
+1,Fosses-la-Ville,Maison,Bel-étage,165000,notariale,4,,0,0,0,True,77,0,110,0,110,3,0,old,1980,148,https://www.zimmo.be/fr/fosses-la-ville-5070/a-vendre/maison/JX5JQ/
+2,Feschaux,Terrain,Terrain à bâtir,115000,notariale,0,,0,0,0,,,0,,,217,,0,,,,https://www.zimmo.be/fr/feschaux-5570/a-vendre/terrain/JX5HK/
+3,Dinant,Appartement,Duplex,210000,notariale,3,110,0,0,0,,,0,,,,,0,old,2007,302,https://www.zimmo.be/fr/dinant-5500/a-vendre/appartement/JX5GN/
+4,Couvin,Bien professionnel,Bureaux,995000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/bien-professionnel/JWHTU/
+5,Gembloux,Maison,Maison de ville,415000,notariale,7,246,0,0,0,True,50,1,,,402,2,0,new,1910,314,https://www.zimmo.be/fr/gembloux-5030/a-vendre/maison/JX3VN/
+6,Namur,Maison,Villa,575000,notariale,8,300,0,0,0,,,0,,,624,4,0,old,1965,245,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JX3VO/
+7,Olloy-sur-Viroin,Terrain,,29000,notariale,0,,0,0,0,,,0,,,040,,0,,,,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/terrain/JX3T2/
+8,Couvin,Maison,Maison jumelée,485000,notariale,9,400,0,0,1,True,38,0,,,200,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JX31S/
+9,Morialmé,Terrain,Terrain à bâtir,72036,notariale,0,783,0,0,0,,,0,,,783,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/terrain/JX30K/
+0,Heer,Terrain,Terrain à bâtir,39500,notariale,0,,0,0,0,,,0,,,817,,0,,,,https://www.zimmo.be/fr/heer-5543/a-vendre/terrain/JVQLX/
+1,Dion,Maison,,385000,notariale,10,,0,1,0,,,1,,,060,4,0,old,2005,502,https://www.zimmo.be/fr/dion-5570/a-vendre/maison/JVPL2/
+2,Namur,Appartement,,99900,notariale,1,50,0,0,0,,,0,,,,,0,old,1976,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JVP7Y/
+3,Yves-Gomezée,Maison,,150000,notariale,5,120,0,0,0,True,7,1,,,507,3,0,,,425,https://www.zimmo.be/fr/yves-gomezee-5650/a-vendre/maison/JVP1J/
+4,Dinant,Maison,,321802,notariale,3,,0,0,0,,,0,,,055,,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JVOOR/
+5,Dinant,Maison,,288141,notariale,3,,0,0,0,,,0,,,965,,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JVOOQ/
+6,Couvin,Bien professionnel,Bâtiment commercial,950000,notariale,5,330,0,0,1,True,200,0,,,000,,0,old,1890,208,https://www.zimmo.be/fr/couvin-5660/a-vendre/bien-professionnel/JVN1G/
+7,Namur,Appartement,,169000,notariale,5,,0,0,0,True,7,0,,,,2,0,,,492,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JVL5J/
+8,Bouge,Bien professionnel,Bâtiment commercial,700000,notariale,0,635,0,0,0,,,0,,,000,,0,,,402,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JVKK4/
+9,Bouge,Bien professionnel,Entrepôt avec habitation,700000,notariale,0,,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JVKFF/
+0,Erpent,Bien professionnel,Bureaux,685000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/erpent-5101/a-vendre/bien-professionnel/JUA41/
+1,Namur,Bien professionnel,Bureaux,177500,notariale,0,193,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JU7C4/
+2,Olloy-sur-Viroin,Maison,,185000,notariale,4,500,0,0,0,,,0,,,174,3,0,old,1978,488,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JU6XL/
+3,Mariembourg,Bien professionnel,Bâtiment commercial,800000,notariale,0,000,0,0,0,,,0,,,073,,0,,,,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/bien-professionnel/JU6YL/
+4,Cul-des-Sarts,Terrain,Terrain à bâtir,324000,notariale,0,,0,0,0,,,0,,,412,,0,,,,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/terrain/JU6YW/
+5,Nismes,Terrain,Terrain à bâtir,95000,notariale,0,,0,0,0,,,1,,,822,,0,,,,https://www.zimmo.be/fr/nismes-5670/a-vendre/terrain/JU6YH/
+6,Olloy-sur-Viroin,Terrain,Terrain à bâtir,85000,notariale,0,,0,0,0,,,1,,,534,,0,,,,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/terrain/JU6XK/
+7,Dinant,Maison,,197000,notariale,5,142,0,0,0,,,0,,,,2,0,,,794,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JU3Z1/
+8,Dinant,Bien professionnel,Bien commercial,197000,notariale,5,142,0,0,0,,,0,,,,2,0,,,794,https://www.zimmo.be/fr/dinant-5500/a-vendre/bien-professionnel/JU3Z2/
+9,Gedinne,Maison,Usage mixte,340000,notariale,2,300,0,0,0,True,150,1,,,800,4,0,old,2012,110,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JTZCA/
+0,Roly,Terrain,,39000,notariale,0,,0,0,0,,,0,,,091,,0,,,,https://www.zimmo.be/fr/roly-5600/a-vendre/terrain/JWZ0Q/
+1,Hingeon,Maison,Maison unifamiliale,235000,notariale,4,121,0,0,0,,,0,,,177,,0,new,,251,https://www.zimmo.be/fr/hingeon-5380/a-vendre/maison/JWYXQ/
+2,Wépion,Terrain,Terrain à bâtir,140000,notariale,0,,0,0,0,,,0,,,008,,0,,,,https://www.zimmo.be/fr/wepion-5100/a-vendre/terrain/JWYS1/
+3,Ohey,Terrain,Terrain à bâtir,62620,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/terrain/JWXU2/
+4,Ohey,Terrain,Terrain à bâtir,59930,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/terrain/JWXU5/
+5,Ohey,Terrain,Terrain à bâtir,84760,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/terrain/JWXU6/
+6,Haillot,Terrain,Terrain à bâtir,59930,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haillot-5351/a-vendre/terrain/JWXU3/
+7,Haillot,Terrain,Terrain à bâtir,62620,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haillot-5351/a-vendre/terrain/JWXU4/
+8,Namur,Appartement,,130000,notariale,0,30,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JWXQM/
+9,Ciney,Maison,,165000,notariale,4,120,0,0,0,,,0,,,148,2,0,,,783,https://www.zimmo.be/fr/ciney-5590/a-vendre/maison/JWXQK/
 0,Bouge,Appartement,,190000,notariale,3,80,0,0,0,,,0,,,,3,0,,1997,,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JXXG7/
 1,Namur,Appartement,,172800,notariale,3,50,0,0,0,,,0,,,,,0,,1964,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXXAF/
 2,Sosoye,Appartement,Duplex,360000,notariale,3,118,0,0,0,True,35,1,,,,,0,,,,https://www.zimmo.be/fr/sosoye-5537/a-vendre/appartement/JXX5Z/
@@ -9,6 +49,86 @@
 7,Rochefort,Maison,Maison de ville,250000,notariale,9,260,0,0,0,,,1,,,,2,0,,1870,,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JXV2N/
 8,Morialmé,Maison,,342709,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/maison/JXV6N/
 9,Ciney,Bien professionnel,,415000,notariale,12,25,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ciney-5590/a-vendre/bien-professionnel/JXV4N/
+0,,Projet,,295000,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/projet-immobilier/1003ZG3/
+1,Hastière,Maison,Chalet,79900,notariale,1,30,0,0,0,,,0,,,,,0,,,157,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JXT0Q/
+2,Faulx-les-Tombes,Maison,,521837,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/faulx-les-tombes-5340/a-vendre/maison/JXSVW/
+3,Naomé,Terrain,,90000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/naome-5555/a-vendre/terrain/JXSRE/
+4,Courrière,Maison,,295000,notariale,4,190,0,0,0,,,0,,,,4,0,,,408,https://www.zimmo.be/fr/courriere-5336/a-vendre/maison/JXSFB/
+5,Florennes,Maison,,775000,notariale,9,400,0,0,0,,,1,,,,,0,,,528,https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JXS5M/
+6,Dinant,Maison,,250000,notariale,7,162,0,0,1,,,1,,,,4,0,,1967,873,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JXRU9/
+7,Namur,Appartement,,225000,notariale,2,60,0,0,0,True,101,1,,,,3,0,,2021,142,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXRRV/
+8,Yvoir,Maison,Usage mixte,278000,notariale,3,210,0,0,0,True,12,1,,,,3,0,,1934,282,https://www.zimmo.be/fr/yvoir-5530/a-vendre/maison/JXRWY/
+9,Mariembourg,Maison,,299000,notariale,36,405,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/maison/JXRL1/
+0,Morville,Maison,,195000,notariale,6,272,0,0,0,True,72,1,,,,2,0,,,336,https://www.zimmo.be/fr/morville-5620/a-vendre/maison/JXIEG/
+1,Daussoulx,Maison,,541459,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/daussoulx-5020/a-vendre/maison/JXI8S/
+2,Daussoulx,Maison,,482216,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/daussoulx-5020/a-vendre/maison/JXI8R/
+3,Hastière,Maison,Usage mixte,115000,notariale,4,,0,0,0,,,0,,,,2,0,,,431,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JXI1F/
+4,Dinant,Appartement,,170000,notariale,3,86,0,0,0,True,8,0,,,,,0,,1998,183,https://www.zimmo.be/fr/dinant-5500/a-vendre/appartement/JXI1E/
+5,Vitrival,Maison,,235000,notariale,9,310,0,0,0,,,0,,,,3,0,,,195,https://www.zimmo.be/fr/vitrival-5070/a-vendre/maison/JXI0I/
+6,Olloy-sur-Viroin,Maison,,99000,notariale,3,110,0,0,0,,,1,,,,4,0,,,566,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JXHTE/
+7,Namur,Bien professionnel,Immeuble d’appartements,1000000,notariale,2,830,0,0,0,,,0,,,,2,0,,,418,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JXHRU/
+8,Namur,Maison,,1000000,notariale,2,830,0,0,0,,,0,,,,2,0,,,418,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JXHRV/
+9,Belgrade,Maison,Villa,269000,notariale,5,142,0,0,0,,,1,,,,4,0,,,462,https://www.zimmo.be/fr/belgrade-5001/a-vendre/maison/JXHNA/
+0,Nismes,Maison,,99000,notariale,8,145,0,0,0,,,1,,,685,,0,,,639,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JSO0H/
+1,Naninne,Bien professionnel,Immeuble de bureaux,1200000,notariale,0,,0,0,0,,,0,,,800,,0,,,,https://www.zimmo.be/fr/naninne-5100/a-vendre/bien-professionnel/JSM4K/
+2,Blaimont,Maison,Bungalow,64000,notariale,3,40,0,1,0,True,16,1,,,256,4,0,old,2008,,https://www.zimmo.be/fr/blaimont-5542/a-vendre/maison/JRZ91/
+3,Andenne,Terrain,Terrain agricole,195000,notariale,0,,0,0,0,,,0,,,945,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/terrain/JRY6H/
+4,Namur,Appartement,,130000,notariale,1,33,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JRY32/
+5,Namur,Appartement,Studio avec coin lit,130000,notariale,1,33,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JRY31/
+6,Bouge,Appartement,,149000,notariale,2,92,0,0,0,,,0,,,,,0,,,646,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JQXUG/
+7,Gonrieux,Maison,,140000,notariale,5,200,0,0,0,,,1,,,778,3,0,,,571,https://www.zimmo.be/fr/gonrieux-5660/a-vendre/maison/JR3X4/
+8,Bouge,Appartement,,199000,notariale,3,158,0,0,0,,,1,,,400,2,0,,,402,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JQXUF/
+9,Graide,Maison,Bel-étage,230000,notariale,5,160,0,0,0,,,1,,,220,3,0,old,2020,,https://www.zimmo.be/fr/graide-5555/a-vendre/maison/JR184/
+0,Bouge,Appartement,Duplex,199000,notariale,3,158,0,0,0,,,1,,,,2,0,,,402,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JUGX3/
+1,Bouge,Appartement,,149000,notariale,3,92,0,0,0,,,1,,,,2,0,,,646,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JUGX4/
+2,Mettet,Bien professionnel,Entrepôt,269000,notariale,12,386,0,0,0,,,0,,,200,4,0,old,2011,,https://www.zimmo.be/fr/mettet-5640/a-vendre/bien-professionnel/JUE1C/
+3,Mettet,Maison,Villa,269000,notariale,12,386,0,0,0,,,0,,,200,4,0,old,2011,,https://www.zimmo.be/fr/mettet-5640/a-vendre/maison/JUE1B/
+4,Rognée,Maison,,85000,notariale,4,210,0,0,0,,,1,,,,2,0,,,440,https://www.zimmo.be/fr/rognee-5651/a-vendre/maison/JUC67/
+5,Morialmé,Terrain,Terrain à bâtir,73324,notariale,0,797,0,0,0,,,0,,,797,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/terrain/JSQFA/
+6,Morialmé,Terrain,Terrain à bâtir,72036,notariale,0,783,0,0,0,,,0,,,783,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/terrain/JSNG0/
+7,Florennes,Terrain,Terrain à bâtir,72036,notariale,0,783,0,0,0,,,0,,,783,,0,,,,https://www.zimmo.be/fr/florennes-5620/a-vendre/terrain/JPJH3/
+8,Jambes,Bien professionnel,Rez-de-chaussée commercial,75000,notariale,1,,0,0,0,,,0,,,,,0,old,1960,,https://www.zimmo.be/fr/jambes-5100/a-vendre/bien-professionnel/JUBLB/
+9,Rochefort,Bien professionnel,Immeuble d’appartements,250000,notariale,0,220,0,0,0,,,0,,,76,2,0,,,199,https://www.zimmo.be/fr/rochefort-5580/a-vendre/bien-professionnel/JUAPT/
+0,Namur,Appartement,Studio avec coin lit,130000,notariale,0,30,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXPFU/
+1,Floreffe,Maison,,349000,notariale,10,50,0,0,0,True,17,1,,,,4,0,,1995,254,https://www.zimmo.be/fr/floreffe-5150/a-vendre/maison/JXP9N/
+2,Rochefort,Maison,Maison de ville,135000,notariale,3,120,0,0,0,,,0,,,,,0,,,428,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JXOYB/
+3,Gedinne,Maison,Chalet,264800,notariale,4,20,0,0,0,True,87,1,,,,4,0,,,,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JXOTY/
+4,Vresse-sur-Semois,Maison,,230000,notariale,7,264,0,0,0,True,46,1,,,,4,0,,2009,206,https://www.zimmo.be/fr/vresse-sur-semois-5550/a-vendre/maison/JXOTR/
+5,Ciney,Appartement,,130000,notariale,3,92,0,0,0,,,0,,,,,0,,,325,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JXOOZ/
+6,Namur,Appartement,,315000,notariale,3,84,0,0,0,True,10,1,,,,4,0,,2021,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXOOS/
+7,Rochefort,Maison,,399000,notariale,4,200,0,0,0,,,1,,,,4,0,,2019,,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JXOJA/
+8,Leuze,Maison,,160000,notariale,4,58,0,0,0,,,1,,,,3,0,,,845,https://www.zimmo.be/fr/leuze-5310/a-vendre/maison/JXOI5/
+9,Jemeppe-sur-Sambre,Maison,,132500,notariale,4,103,0,0,0,,,1,,,,2,0,,,393,https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/maison/JXODI/
+0,Wépion,Terrain,,108500,notariale,0,,0,0,0,,,0,,,516,,0,,,,https://www.zimmo.be/fr/wepion-5100/a-vendre/terrain/JWABI/
+1,Agimont,Maison,,157500,notariale,4,149,0,0,0,,,0,149,481,630,3,0,,,553,https://www.zimmo.be/fr/agimont-5544/a-vendre/maison/JW9YQ/
+2,Jambes,Appartement,,325000,notariale,3,95,0,0,0,True,50,0,,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JW9VP/
+3,Hastière,Terrain,Terrain à bâtir,60000,notariale,0,,0,0,0,,,1,,,017,,0,,,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/terrain/JW9CN/
+4,Jambes,Appartement,,265000,notariale,2,20,0,0,0,True,50,0,,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JW97T/
+5,Couvin,Maison,,109000,notariale,11,114,0,0,0,,,0,,,,,0,,,429,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JW8PO/
+6,Winenne,Maison,,155000,notariale,6,,0,0,0,,,1,,,323,2,0,,,590,https://www.zimmo.be/fr/winenne-5570/a-vendre/maison/JW5UD/
+7,Dinant,Maison,,158000,notariale,8,201,0,0,0,,,0,,,,2,0,new,,274,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JW4E2/
+8,Florennes,Maison,,249000,notariale,6,155,0,0,0,,,1,,,735,4,0,old,1975,286,https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JW443/
+9,Havelange,Terrain,Bois,495000,notariale,0,,0,0,1,,,0,,,560,,0,,,,https://www.zimmo.be/fr/havelange-5370/a-vendre/terrain/JW40Y/
+0,Nismes,Bien professionnel,Bâtiment commercial,145000,notariale,0,86,0,0,0,,,1,,,324,2,0,old,2021,,https://www.zimmo.be/fr/nismes-5670/a-vendre/bien-professionnel/JUXFY/
+1,Dinant,Maison,,125000,notariale,5,161,0,0,0,,,0,,,,2,0,,,681,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JUX1O/
+2,Clermont,Maison,,30000,notariale,3,150,0,0,0,,,1,,,,2,0,,,564,https://www.zimmo.be/fr/clermont-5650/a-vendre/maison/JUS61/
+3,Auvelais,Appartement,,232000,notariale,3,85,0,0,0,True,19,0,,,,,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUUZT/
+4,Auvelais,Appartement,,299000,notariale,4,111,0,0,0,,,0,,,,4,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUUZS/
+5,Gembloux,Bien professionnel,Bâtiment commercial,230000,notariale,0,170,0,0,0,,,0,,,,2,0,new,1960,278,https://www.zimmo.be/fr/gembloux-5030/a-vendre/bien-professionnel/JUUVJ/
+6,Auvelais,Appartement,,280000,notariale,4,105,0,0,0,True,8,0,,,,4,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUU50/
+7,Auvelais,Appartement,,232000,notariale,4,85,0,0,0,True,60,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUU51/
+8,Auvelais,Appartement,,405000,notariale,5,136,0,0,0,True,61,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUU53/
+9,Auvelais,Appartement,,504000,notariale,5,161,0,0,0,True,8,0,,,,,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUU54/
+0,Walcourt,Maison,,95000,notariale,10,263,0,0,0,,,1,,,,2,0,,,537,https://www.zimmo.be/fr/walcourt-5650/a-vendre/maison/JXHL3/
+1,Laneffe,Maison,,125000,notariale,5,180,0,0,0,True,25,1,,,,2,0,,,393,https://www.zimmo.be/fr/laneffe-5651/a-vendre/maison/JXHL2/
+2,Membre,Appartement,,62000,notariale,1,36,0,1,0,True,12,0,,,,2,0,,1977,656,https://www.zimmo.be/fr/membre-5550/a-vendre/appartement/JXH2S/
+3,Olloy-sur-Viroin,Maison,,29000,notariale,4,70,0,0,0,,,0,,,,2,0,,,704,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JXGZA/
+4,Mariembourg,Maison,,140000,notariale,1,48,0,0,0,,,1,,,,2,0,,2015,,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/maison/JXGZB/
+5,Jambes,Bien professionnel,Bureaux,275000,notariale,0,86,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/jambes-5100/a-vendre/bien-professionnel/JXGXL/
+6,Namur,Appartement,,269000,notariale,2,95,0,0,0,True,4,0,,,,2,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXGXJ/
+7,Namur,Appartement,,50000,notariale,0,50,0,0,0,True,40,0,,,,,0,,,169,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXGXK/
+8,Walcourt,Maison,,65000,notariale,1,51,0,0,0,True,9,1,,,584,,0,,,601,https://www.zimmo.be/fr/walcourt-5650/a-vendre/maison/JXGP9/
+9,Sart-Bernard,Maison,Maison unifamiliale,325000,notariale,6,195,0,0,1,,,0,,,683,4,0,old,1987,292,https://www.zimmo.be/fr/sart-bernard-5330/a-vendre/maison/JXFY5/
 0,,Terrain,,149000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/hamois-5360/a-vendre/terrain/JXY7X/
 1,Assesse,Maison,,325000,notariale,6,187,0,0,0,True,25,0,,,,3,0,,,,https://www.zimmo.be/fr/assesse-5332/a-vendre/maison/JXY11/
 2,Dinant,Maison,Ferme,550000,notariale,5,500,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JXY12/
@@ -29,6 +149,19 @@
 7,Namur,Bien professionnel,Bureaux,248500,notariale,0,164,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JY0Z1/
 8,Namur,Bien professionnel,Bureaux,298500,notariale,0,216,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JY0YR/
 9,Jambes,Maison,,199900,notariale,5,168,0,0,1,,,1,,,,,0,,,369,https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JY0WW/
+0,Landenne,Bien professionnel,Atelier,199000,notariale,0,,0,0,0,,,0,,,200,4,0,,,,https://www.zimmo.be/fr/landenne-5300/a-vendre/bien-professionnel/DIQEH/
+1,Noiseux,Terrain,,55000,notariale,1,40,0,0,0,,,1,,,949,4,0,,,,https://www.zimmo.be/fr/noiseux-5377/a-vendre/terrain/A6HW1/
+2,Bohan,Bien professionnel,Horeca,350000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bohan-5550/a-vendre/bien-professionnel/8L5OH/
+0,Jambes,Appartement,,295000,notariale,3,112,0,0,0,,,0,,,,,0,old,2018,140,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JRXYN/
+1,Yves-Gomezée,Appartement,,215000,notariale,3,180,0,0,0,,,1,,,,3,0,,,432,https://www.zimmo.be/fr/yves-gomezee-5650/a-vendre/appartement/JT4N2/
+2,Cerfontaine,Terrain,Terrain à bâtir,75000,notariale,0,,0,0,0,,,1,,,500,,0,,,,https://www.zimmo.be/fr/cerfontaine-5630/a-vendre/terrain/JT14N/
+3,Dinant,Maison,Usage mixte,298000,notariale,6,236,0,1,0,,,1,,,474,2,0,new,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JT0PE/
+4,Dinant,Maison,Usage mixte,430000,notariale,9,254,0,1,0,True,13,1,,,920,4,0,old,1950,477,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JT0PF/
+5,La Bruyère,Bien professionnel,Bâtiment d’entreprise,1500000,notariale,0,500,0,0,0,,,0,500,-90,410,,0,,,,https://www.zimmo.be/fr/la%20bruyere-5081/a-vendre/bien-professionnel/JSZMP/
+6,Jambes,Maison,,335000,notariale,3,40,0,0,0,True,60,1,,,74,2,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JOK9W/
+7,Couvin,Maison,,120000,notariale,3,160,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JSVYB/
+8,Bièvre,Maison,Maison de maître,245000,notariale,11,,0,0,0,,,0,585,-557,028,,0,,,602,https://www.zimmo.be/fr/bievre-5555/a-vendre/maison/JSUUY/
+9,Winenne,Bien professionnel,Bâtiment commercial,250000,notariale,0,,0,0,0,,,0,,,645,2,0,,,,https://www.zimmo.be/fr/winenne-5570/a-vendre/bien-professionnel/JSOLA/
 0,Ham-sur-Sambre,Bien professionnel,Bâtiment commercial,599000,notariale,1,90,0,0,0,,,0,,,,4,0,,1920,,https://www.zimmo.be/fr/ham-sur-sambre-5190/a-vendre/bien-professionnel/JY2JI/
 1,Falmagne,Maison,Ferme,135000,notariale,3,116,0,0,0,,,1,,,,4,0,,,479,https://www.zimmo.be/fr/falmagne-5500/a-vendre/maison/JY2IU/
 2,Ciney,Maison,,365000,notariale,6,175,0,0,0,,,1,,,,4,0,,2008,216,https://www.zimmo.be/fr/ciney-5590/a-vendre/maison/JY2G7/
@@ -49,8 +182,238 @@
 7,Nismes,Maison,,149000.0,notariale,4,80,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JXYKM/
 8,Dinant,Appartement,Duplex,189000.0,notariale,6,141,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/appartement/JXYCB/
 9,,Appartement,,,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/appartement/JXY8O/
+0,Namur,Appartement,Studio avec coin lit,130000,notariale,0,30,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JWXQL/
+1,Berzée,Appartement,,148000,notariale,3,120,0,0,0,,,1,,,197,,0,,,,https://www.zimmo.be/fr/berzee-5651/a-vendre/appartement/JWXCW/
+2,Berzée,Appartement,,198000,notariale,6,149,0,0,0,True,10,1,,,548,3,0,,,,https://www.zimmo.be/fr/berzee-5651/a-vendre/appartement/JWXCV/
+3,Naninne,Bien professionnel,Bureaux,750000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/naninne-5100/a-vendre/bien-professionnel/JU2QB/
+4,Gedinne,Maison,Ferme,1250000,notariale,10,264,0,0,0,,,1,,,246,4,0,,,292,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JWWB9/
+5,Ciney,Appartement,Immeuble d'appartements,285000,notariale,7,183,0,0,0,,,0,,,96,2,0,new,1900,340,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JWVZB/
+6,Namur,Bien professionnel,Immeuble d’appartements,385000,notariale,7,165,0,1,0,,,0,,,167,2,0,new,,210,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JWVG6/
+7,Haversin,Maison,,299075,notariale,4,,0,0,0,,,0,,,231,,0,,,,https://www.zimmo.be/fr/haversin-5590/a-vendre/maison/JWV8N/
+8,Olloy-sur-Viroin,Maison,,249000,notariale,6,170,0,0,0,,,1,,,367,3,0,,,400,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JWV47/
+9,Petigny,Maison,,75000,notariale,3,70,0,1,0,True,9,1,,,285,4,0,,,568,https://www.zimmo.be/fr/petigny-5660/a-vendre/maison/JWUW3/
+0,Gedinne,Maison,,250000,notariale,6,120,0,0,0,True,20,1,,,618,3,0,,,,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JWL5C/
+1,Gedinne,Maison,,255000,notariale,6,120,0,0,0,True,20,1,,,677,3,0,,,,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JWL5B/
+2,Rochefort,Maison,Usage mixte,395000,notariale,6,310,0,0,0,,,1,,,299,3,0,old,1946,560,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JWL4C/
+3,Bouge,Maison,Villa,495000,notariale,7,170,0,0,0,True,42,1,,,131,4,0,new,1958,317,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JWKM1/
+4,Monceau-en-Ardenne,Maison,,600000,notariale,7,204,0,0,0,,,1,559,-169,390,4,0,old,1989,305,https://www.zimmo.be/fr/monceau-en-ardenne-5555/a-vendre/maison/JWKDQ/
+5,Gelbressée,Maison,,860000,notariale,5,360,0,0,1,,,1,,,800,4,0,old,1750,507,https://www.zimmo.be/fr/gelbressee-5024/a-vendre/maison/JWJT0/
+6,Couvin,Maison,,165000,notariale,7,206,0,0,0,,,1,,,540,,0,,,867,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JWJ8S/
+7,Castillon,Terrain,Terrain agricole,708000,notariale,0,,0,0,0,,,0,,,821,,0,,,,https://www.zimmo.be/fr/castillon-5650/a-vendre/terrain/JWHXO/
+8,Walcourt,Maison,,225000,notariale,3,137,0,0,0,True,24,1,,,430,,0,,,418,https://www.zimmo.be/fr/walcourt-5650/a-vendre/maison/JWGQE/
+9,Oret,Terrain,Terrain à bâtir,95000,notariale,0,,0,0,0,,,1,,,159,,0,,,,https://www.zimmo.be/fr/oret-5640/a-vendre/terrain/JWGQC/
+0,Beauraing,Maison,,400000,notariale,9,231,0,0,0,True,55,1,,,,4,0,old,2005,149,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JVEC9/
+1,Jemeppe-sur-Sambre,Appartement,,120000,notariale,4,64,0,0,0,,,0,,,,,0,old,1969,219,https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/appartement/JVEC1/
+2,Wépion,Maison,Maison bourgeoise,440000,notariale,11,310,0,0,0,,,0,155,150,305,4,0,new,2006,168,https://www.zimmo.be/fr/wepion-5100/a-vendre/maison/JVE92/
+3,Beauraing,Maison,,149000,notariale,7,160,0,0,0,True,10,1,,,245,2,0,,,545,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JVCH0/
+4,Gesves,Maison,,325802,notariale,3,,0,0,0,,,0,,,928,,0,,,,https://www.zimmo.be/fr/gesves-5340/a-vendre/maison/JVAPW/
+5,Gesves,Maison,,318290,notariale,4,,0,0,0,,,0,,,900,,0,,,,https://www.zimmo.be/fr/gesves-5340/a-vendre/maison/JVAPU/
+6,Bois-de-Villers,Maison,,325802,notariale,3,,0,0,0,,,0,,,979,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JVAPV/
+7,Berzée,Maison,Villa,425000,notariale,7,228,0,0,0,True,42,1,,,785,,0,,,339,https://www.zimmo.be/fr/berzee-5651/a-vendre/maison/JVA8Y/
+8,Couvin,Maison,,125000,notariale,4,88,0,0,0,True,31,1,,,102,2,0,,,465,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JVA8Z/
+9,Bouge,Bien professionnel,Commerce,395000,notariale,0,379,0,0,0,,,0,379,,,,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JV9OK/
+0,Noiseux,Terrain,,35000,notariale,0,,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/noiseux-5377/a-vendre/terrain/JXIW5/
+1,Annevoie-Rouillon,Maison,,225000,notariale,5,130,0,0,0,,,0,,,,,0,,1850,468,https://www.zimmo.be/fr/annevoie-rouillon-5537/a-vendre/maison/JXIWO/
+2,Godinne,Appartement,,135000,notariale,2,45,0,0,0,True,50,0,,,,,0,,,287,https://www.zimmo.be/fr/godinne-5530/a-vendre/appartement/JXIN4/
+3,Hogne,Maison,,299000,notariale,4,90,0,0,0,,,1,,,,4,0,,1977,402,https://www.zimmo.be/fr/hogne-5377/a-vendre/maison/JXIMQ/
+4,Treignes,Maison,,160000,notariale,3,90,0,0,0,,,1,,,,3,0,,,516,https://www.zimmo.be/fr/treignes-5670/a-vendre/maison/JXIEY/
+5,Somzée,Maison,,110000,notariale,0,75,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/somzee-5651/a-vendre/maison/JXIEX/
+6,Vitrival,Maison,,235000,notariale,4,185,0,0,0,True,17,1,,,,,0,,,,https://www.zimmo.be/fr/vitrival-5070/a-vendre/maison/JXIEZ/
+7,Couvin,Maison,Villa,150000,notariale,6,135,0,0,0,,,1,,,,,0,,,436,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JNCOC/
+8,Couvin,Terrain,Terrain à bâtir,50000,notariale,4,166,0,0,0,True,24,1,,,,2,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JXIEH/
+9,Couvin,Maison,,50000,notariale,4,166,0,0,0,True,24,1,,,,2,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JXIEC/
 0,Hastière-Lavaux,Maison,Chalet,79900,notariale,1,30,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/hastiere-lavaux-5540/a-vendre/maison/JXT0Q/
 1,Faulx-les-Tombes,Maison,,483671,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/faulx-les-tombes-5340/a-vendre/maison/JXSVV/
+0,Auvelais,Appartement,,280000.0,notariale,4,105,0,0,0,True,50,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/auvelais-5060/a-vendre/appartement/JUU52/
+1,Nismes,Maison,,130000.0,notariale,3,138,0,0,0,True,2,1,,,110,3,0,,,651,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JUTXV/
+2,Vitrival,Maison,,336674.0,notariale,4,,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/vitrival-5070/a-vendre/maison/JURSA/
+3,Flavion,Maison,,279541.0,notariale,4,,0,0,0,,,0,,,708,,0,,,,https://www.zimmo.be/fr/flavion-5620/a-vendre/maison/JUO8J/
+4,Haillot,Maison,,292331.0,notariale,4,,0,0,0,,,0,,,326,,0,,,,https://www.zimmo.be/fr/haillot-5351/a-vendre/maison/JUO8L/
+5,Ohey,Appartement,,175000.0,notariale,2,56,0,0,0,,,0,,,,3,0,new,2018,138,https://www.zimmo.be/fr/ohey-5350/a-vendre/appartement/JUNEJ/
+6,,Appartement,,,notariale,3,30,0,0,0,True,44,0,,,,4,0,old,2021,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JUMR2/
+7,Walcourt,Maison,Maison unifamiliale,55000.0,notariale,5,127,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/walcourt-5650/a-vendre/maison/JUM60/
+8,Hastière,Terrain,,15000.0,notariale,0,,0,0,0,,,0,,,269,,0,,,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/terrain/JUL96/
+9,Ciney,Maison,,273200.0,notariale,5,115,0,0,0,,,1,,,213,4,0,,,,https://www.zimmo.be/fr/ciney-5590/a-vendre/maison/JUL75/
+0,Silenrieux,Maison,,185000.0,notariale,6,190,0,0,0,True,32,1,,,,2,0,,,538,https://www.zimmo.be/fr/silenrieux-5630/a-vendre/maison/JXODJ/
+1,Couvin,Maison,,440000.0,notariale,13,196,0,0,0,,,0,,,,,0,,2016,130,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JXOC3/
+2,Namur,Maison,,399000.0,notariale,9,250,0,0,0,,,1,,,,2,0,,,285,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JXNXL/
+3,,Projet,,,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/namur-5000/a-vendre/projet-immobilier/10044UD/
+4,Profondeville,Appartement,,135000.0,notariale,2,45,0,0,0,True,50,0,,,,,0,,,287,https://www.zimmo.be/fr/profondeville-5170/a-vendre/appartement/JXNQ6/
+5,Gochenée,Maison,,59000.0,notariale,5,222,0,0,0,,,1,,,,3,0,,,488,https://www.zimmo.be/fr/gochenee-5680/a-vendre/maison/JXNQG/
+6,Olloy-sur-Viroin,Maison,,59000.0,notariale,3,156,0,0,0,,,0,,,,2,0,,,383,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JXNQF/
+7,Vierves-sur-Viroin,Maison,,249000.0,notariale,8,208,0,0,0,,,1,,,,4,0,,,265,https://www.zimmo.be/fr/vierves-sur-viroin-5670/a-vendre/maison/JXNEX/
+8,Pesche,Maison,Villa,205000.0,notariale,5,245,0,0,0,,,1,,,,3,0,,2020,,https://www.zimmo.be/fr/pesche-5660/a-vendre/maison/JXNDH/
+9,Auvelais,Maison,,124999.0,notariale,3,60,0,0,0,,,1,,,,2,0,,1900,230,https://www.zimmo.be/fr/auvelais-5060/a-vendre/maison/JXN15/
+0,Presgaux,Maison,,289474,notariale,4,,0,0,0,,,0,,,040,,0,,,,https://www.zimmo.be/fr/presgaux-5660/a-vendre/maison/JV6RR/
+1,Bouge,Appartement,,155000,notariale,1,70,0,0,0,,,0,,,,,0,,,260,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JV6CD/
+2,Moustier-sur-Sambre,Maison,,230000,notariale,5,130,0,0,0,,,1,,,820,3,0,,,589,https://www.zimmo.be/fr/moustier-sur-sambre-5190/a-vendre/maison/JV5VR/
+3,Warisoulx,Bien professionnel,Entrepôt,350000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/warisoulx-5080/a-vendre/bien-professionnel/JV56K/
+4,Warisoulx,Maison,Autre,350000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/warisoulx-5080/a-vendre/maison/JV56I/
+5,Warisoulx,Maison,,255000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/warisoulx-5080/a-vendre/maison/JV56G/
+6,Warisoulx,Maison,,350000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/warisoulx-5080/a-vendre/maison/JV56H/
+7,Warisoulx,Bien professionnel,Entrepôt,255000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/warisoulx-5080/a-vendre/bien-professionnel/JV56J/
+8,Berzée,Maison,,125000,notariale,1,55,0,0,0,,,1,,,050,,0,,,732,https://www.zimmo.be/fr/berzee-5651/a-vendre/maison/JV4N3/
+9,Maizeret,Maison,,322688,notariale,4,,0,0,0,,,0,,,829,,0,,,,https://www.zimmo.be/fr/maizeret-5300/a-vendre/maison/JV478/
+0,Beauraing,Terrain,,58000,notariale,0,,0,0,0,,,0,,,238,,0,,,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/terrain/J5KYZ/
+1,Hastière,Terrain,Bois,275000,notariale,0,,0,0,0,,,0,,,384,,0,,,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/terrain/J1LH0/
+2,Wierde,Maison,,349000,notariale,6,,0,0,0,,,0,,,078,4,0,,,,https://www.zimmo.be/fr/wierde-5100/a-vendre/maison/J0YDR/
+3,Dion,Terrain,,46500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/dion-5570/a-vendre/terrain/I9XVH/
+4,Baronville,Terrain,,79500,notariale,0,,0,0,0,,,0,,,983,,0,,,,https://www.zimmo.be/fr/baronville-5570/a-vendre/terrain/I9XTJ/
+5,Namur,Maison,,899000,notariale,7,,0,0,0,,,1,,,,2,0,,,534,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/HISJL/
+6,Malonne,Maison,,449000,notariale,8,,0,0,0,,,0,,,,4,0,,,472,https://www.zimmo.be/fr/malonne-5020/a-vendre/maison/HEM17/
+7,Sinsin,Terrain,,49000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/sinsin-5377/a-vendre/terrain/H905N/
+8,Somme-Leuze,Maison,,299500,notariale,3,140,0,0,0,,,1,,,500,4,0,old,1980,499,https://www.zimmo.be/fr/somme-leuze-5377/a-vendre/maison/FJ711/
+9,Pussemange,Maison,Usage mixte,350000,notariale,7,350,0,0,0,,,1,,,213,4,0,,,388,https://www.zimmo.be/fr/pussemange-5550/a-vendre/maison/DVEPN/
+0,Jambes,Maison,Autre,249000.0,notariale,1,,0,0,0,,,0,297,0,297,2,0,,,,https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JIUI7/
+1,,Maison,Maison jumelée,,notariale,0,,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JILD5/
+2,Bois-de-Villers,Maison,,325000.0,notariale,7,,0,0,0,,,0,,,527,3,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JIKEL/
+3,Wierde,Terrain,,670000.0,notariale,0,,0,0,0,,,0,,,630,,0,,,,https://www.zimmo.be/fr/wierde-5100/a-vendre/terrain/JHR4Y/
+4,Wierde,Maison,,670000.0,notariale,3,,0,0,0,,,0,,,630,4,0,,,720,https://www.zimmo.be/fr/wierde-5100/a-vendre/maison/JHR4Z/
+5,Florennes,Maison,,150000.0,notariale,3,321,0,0,0,,,0,,,103,3,0,,,601,https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JFKKB/
+6,Jambes,Appartement,,199000.0,notariale,2,80,0,0,0,True,20,1,8,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7J4/
+7,Jambes,Appartement,,260000.0,notariale,3,20,0,0,0,True,60,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7JN/
+8,Jambes,Appartement,,325000.0,notariale,3,95,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7J2/
+9,Jambes,Appartement,,335000.0,notariale,3,80,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7J3/
+0,Hastière,Maison,,348216,notariale,3,,0,0,0,,,0,,,050,,0,,,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JV475/
+1,Walcourt,Terrain,,25000,notariale,0,,0,0,0,,,0,,,620,,0,,,,https://www.zimmo.be/fr/walcourt-5650/a-vendre/terrain/JV44D/
+2,Louette-Saint-Pierre,Maison,Ferme,180000,notariale,8,131,0,0,0,,,1,177,-166,011,3,0,,,453,https://www.zimmo.be/fr/louette-saint-pierre-5575/a-vendre/maison/JV42L/
+3,Cornimont,Terrain,,100000,notariale,0,,0,0,0,,,0,,,952,,0,,,,https://www.zimmo.be/fr/cornimont-5555/a-vendre/terrain/JV3Z1/
+4,Matagne-la-Petite,Maison,,375000,notariale,9,485,0,0,0,True,25,0,,,900,2,0,,,209,https://www.zimmo.be/fr/matagne-la-petite-5680/a-vendre/maison/JV3IM/
+5,Matagne-la-Petite,Maison,,375000,notariale,9,485,0,0,0,True,25,0,,,900,2,0,,,209,https://www.zimmo.be/fr/matagne-la-petite-5680/a-vendre/maison/JV3IN/
+6,Couvin,Maison,,250000,notariale,7,536,0,0,0,True,40,1,,,740,,0,old,2003,243,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JV3IL/
+7,Ciney,Bien professionnel,Immeuble de bureaux,750000,notariale,0,503,0,0,0,,,0,,,503,4,0,,,,https://www.zimmo.be/fr/ciney-5590/a-vendre/bien-professionnel/JV0UT/
+8,Houyet,Maison,,235250,notariale,5,120,0,0,0,,,1,80,166,246,4,0,,,,https://www.zimmo.be/fr/houyet-5560/a-vendre/maison/JUZ7L/
+9,Nismes,Bien professionnel,Bâtiment commercial,65000,notariale,0,55,0,0,0,,,1,,,324,2,0,old,2021,,https://www.zimmo.be/fr/nismes-5670/a-vendre/bien-professionnel/JUXFX/
+0,Gedinne,Maison,Chalet,264800,notariale,4,20,0,0,0,True,87,1,,,,4,0,,,,https://www.zimmo.be/fr/gedinne-5575/a-vendre/maison/JXL25/
+1,Auvelais,Maison,Villa,239000,notariale,5,,0,0,0,,,0,,,,4,0,,,464,https://www.zimmo.be/fr/auvelais-5060/a-vendre/maison/JXKWS/
+2,Ciney,Appartement,,232780,notariale,4,82,0,0,0,True,22,0,,,,2,0,,2020,,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JVZ67/
+3,Eghezée,Maison,Maison unifamiliale,285000,notariale,7,220,0,0,0,True,70,1,,,,4,0,,,377,https://www.zimmo.be/fr/eghezee-5310/a-vendre/maison/JXKUJ/
+4,,Projet,,265000,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/projet-immobilier/10044KZ/
+5,Namur,Maison,,225000,notariale,5,132,0,0,0,,,1,,,,3,0,,,641,https://www.zimmo.be/fr/namur-5100/a-vendre/maison/JXK2L/
+6,Namur,Maison,Villa,269000,notariale,5,142,0,0,0,,,1,,,,4,0,,,462,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JXJTV/
+7,Vedrin,Maison,,395000,notariale,7,150,0,0,0,True,45,1,,,,4,0,,1999,357,https://www.zimmo.be/fr/vedrin-5020/a-vendre/maison/JXJID/
+8,Villers-en-Fagne,Maison,Chalet,110000,notariale,4,70,0,0,0,True,20,1,,,,,0,,,571,https://www.zimmo.be/fr/villers-en-fagne-5600/a-vendre/maison/JXJ8Q/
+9,Profondeville,Maison,,370000,notariale,5,130,0,0,0,True,50,1,,,,4,0,,1981,310,https://www.zimmo.be/fr/profondeville-5170/a-vendre/maison/JXJ42/
+0,Philippeville,Maison,,157000,notariale,3,95,0,0,0,True,20,1,,,240,,0,old,2014,149,https://www.zimmo.be/fr/philippeville-5600/a-vendre/maison/JXFKM/
+1,Mariembourg,Maison,,150000,notariale,4,174,0,0,0,True,25,1,,,135,3,0,,,576,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/maison/JXFKL/
+2,Mariembourg,Maison,,125000,notariale,2,84,0,0,0,True,10,1,,,55,2,0,,,518,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/maison/JXFKJ/
+3,Somzée,Maison,Villa,270000,notariale,6,170,0,0,0,True,10,1,,,335,,0,,,552,https://www.zimmo.be/fr/somzee-5651/a-vendre/maison/JXFKI/
+4,Florennes,Maison,,100000,agence,4,,0,0,0,,,0,,,,2,0,,,325,https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JXFAJ/
+5,Vitrival,Terrain,,65000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/vitrival-5070/a-vendre/terrain/JXF8K/
+6,Agimont,Maison,,281017,notariale,3,,0,0,0,,,0,,,076,,0,,,,https://www.zimmo.be/fr/agimont-5544/a-vendre/maison/JXEO2/
+7,Profondeville,Maison,,315141,notariale,4,,0,0,0,,,0,,,013,,0,,,,https://www.zimmo.be/fr/profondeville-5170/a-vendre/maison/JXEO4/
+8,Floreffe,Maison,,366216,notariale,3,,0,0,0,,,0,,,580,,0,,,,https://www.zimmo.be/fr/floreffe-5150/a-vendre/maison/JXEO3/
+9,Spontin,Maison,Villa,290000,notariale,3,175,0,0,0,True,30,0,,,765,4,0,,,133,https://www.zimmo.be/fr/spontin-5530/a-vendre/maison/JXENH/
+0,Namur,Maison,Maison deux facades,269000.0,notariale,7,,0,0,0,,,0,,,,2,0,,,209,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JQKH1/
+1,Yvoir,Terrain,Terrain agricole,90000.0,notariale,0,,0,0,0,,,0,,,384,,0,,,,https://www.zimmo.be/fr/yvoir-5530/a-vendre/terrain/JQHZD/
+2,Gembloux,Bien professionnel,Espace de bureaux,720000.0,notariale,0,,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/gembloux-5030/a-vendre/bien-professionnel/JQGMT/
+3,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,600,,000,4,0,old,2007,,https://www.zimmo.be/fr/sambreville-5060/a-vendre/bien-professionnel/JQ88M/
+4,Namur,Bien professionnel,Entrepôt avec habitation,1800000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JQ03L/
+5,Beauraing,Maison,,268000.0,notariale,1,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JPZOV/
+6,Beauraing,Bien professionnel,Bâtiment commercial,268000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/bien-professionnel/JPZOU/
+7,Vresse-sur-Semois,Bien professionnel,Bâtiment commercial,299000.0,notariale,0,220,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/vresse-sur-semois-5550/a-vendre/bien-professionnel/JPY5X/
+8,Jemeppe-sur-Sambre,Maison,,265000.0,notariale,4,133,0,0,0,True,20,1,63,618,681,3,0,old,2020,,https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/maison/JPWSZ/
+9,Ciney,Maison,,435000.0,notariale,8,430,0,0,0,,,0,,,600,,0,,,,https://www.zimmo.be/fr/ciney-5590/a-vendre/maison/JPVKX/
+0,Membre,Appartement,,65000.0,notariale,2,35,0,1,0,True,50,0,,,,2,0,,1975,369,https://www.zimmo.be/fr/membre-5550/a-vendre/appartement/JXMSN/
+1,,Appartement,,,notariale,3,30,0,0,0,True,44,0,,,,4,0,,2021,,https://www.zimmo.be/fr/malonne-5020/a-vendre/appartement/JXM61/
+2,Nismes,Maison,,115000.0,notariale,2,75,0,0,0,,,0,,,,3,0,,1955,317,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JXLN9/
+3,Ciney,Appartement,,197760.0,notariale,3,68,0,0,0,True,62,0,,,,2,0,,2020,,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JXLLD/
+4,Ciney,Appartement,,180250.0,notariale,3,55,0,0,0,True,13,0,,,,2,0,,2020,,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JXLLB/
+5,Namur,Maison,Maison exceptionnelle,890000.0,notariale,6,255,0,0,0,True,110,1,,,,4,0,,2020,143,https://www.zimmo.be/fr/namur-5100/a-vendre/maison/JXLD6/
+6,Namur,Appartement,Penthouse,890000.0,notariale,6,255,0,0,0,True,110,1,,,,4,0,,2020,143,https://www.zimmo.be/fr/namur-5100/a-vendre/appartement/JXLD7/
+7,Jemelle,Maison,,195000.0,notariale,3,101,0,0,0,,,1,,,,3,0,,1874,384,https://www.zimmo.be/fr/jemelle-5580/a-vendre/maison/JXL22/
+8,Erpent,Maison,,495000.0,notariale,11,300,0,0,0,True,32,1,,,,4,0,,1994,236,https://www.zimmo.be/fr/erpent-5101/a-vendre/maison/JXL4Y/
+9,Flawinne,Maison,Maison de ville,340000.0,notariale,7,240,0,0,0,,,1,,,,4,0,,1904,419,https://www.zimmo.be/fr/flawinne-5020/a-vendre/maison/JXL4X/
+0,Jambes,Appartement,,225000,notariale,2,20,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IQ/
+1,Jambes,Appartement,,300000,notariale,3,50,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IZ/
+2,Cul-des-Sarts,Terrain,Terrain à bâtir,50000,notariale,0,,0,0,0,,,1,,,500,,0,,,,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/terrain/JDN7I/
+3,Florennes,Appartement,App. rez-de-chaussée,75000,notariale,0,103,0,0,0,,,0,,,103,3,0,,,,https://www.zimmo.be/fr/florennes-5620/a-vendre/appartement/JDN6N/
+4,Cerfontaine,Maison,,90000,notariale,3,82,0,0,0,True,5,1,,,164,2,0,,,381,https://www.zimmo.be/fr/cerfontaine-5630/a-vendre/maison/JDNB7/
+5,Florennes,Appartement,,75000,notariale,3,116,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/florennes-5620/a-vendre/appartement/JDN6O/
+6,Couvin,Terrain,Terrain à bâtir,54000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JDFCN/
+7,Saint-Servais,Maison,,255000,notariale,7,224,0,0,0,True,35,0,224,-41,183,3,0,,,370,https://www.zimmo.be/fr/saint-servais-5002/a-vendre/maison/JDB5T/
+8,Floreffe,Bien professionnel,Bâtiment d’entreprise,797000,notariale,0,866,0,0,0,,,0,,,,,0,old,2020,,https://www.zimmo.be/fr/floreffe-5150/a-vendre/bien-professionnel/JCRCA/
+9,Namur,Bien professionnel,Autre,485000,notariale,6,,0,1,0,True,100,0,,,190,2,0,,,276,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/J61NO/
+0,Vresse-sur-Semois,Maison,Usage mixte,299000,notariale,0,220,0,1,0,,,0,,,,2,0,,,423,https://www.zimmo.be/fr/vresse-sur-semois-5550/a-vendre/maison/JNS8J/
+1,Evelette,Terrain,Terrain à bâtir,64920,notariale,0,,0,0,0,,,0,,,082,,0,,,,https://www.zimmo.be/fr/evelette-5350/a-vendre/terrain/JNCFQ/
+2,Ohey,Terrain,Terrain à bâtir,89000,notariale,0,,0,0,0,,,0,,,806,,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/terrain/JN949/
+3,Ohey,Terrain,Terrain à bâtir,74000,notariale,0,,0,0,0,,,0,,,653,,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/terrain/JN94C/
+4,Winenne,Bien professionnel,Bâtiment commercial,150000,notariale,0,127,0,0,0,,,0,,,605,2,0,old,1969,,https://www.zimmo.be/fr/winenne-5570/a-vendre/bien-professionnel/JN92B/
+5,Dinant,Appartement,Penthouse,450000,notariale,5,200,0,0,0,,,0,,,,3,0,,,321,https://www.zimmo.be/fr/dinant-5500/a-vendre/appartement/JN61E/
+6,Andenne,Appartement,,210151,notariale,3,50,0,0,0,True,90,1,,,,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/appartement/JN5LV/
+7,Gembloux,Bien professionnel,Rez-de-chaussée commercial,150000,notariale,1,186,0,0,0,,,0,,,1,,0,old,2005,,https://www.zimmo.be/fr/gembloux-5030/a-vendre/bien-professionnel/JMOWH/
+8,Seilles,Terrain,Terrain à bâtir,55000,notariale,0,,0,0,0,,,0,,,206,3,0,,,,https://www.zimmo.be/fr/seilles-5300/a-vendre/terrain/JMLUK/
+9,Seilles,Terrain,Terrain à bâtir,65000,notariale,0,,0,0,0,,,0,,,708,4,0,,,,https://www.zimmo.be/fr/seilles-5300/a-vendre/terrain/JMLUJ/
+0,Ohey,Maison,,139000,notariale,4,115,0,0,0,,,1,,,446,4,0,,,630,https://www.zimmo.be/fr/ohey-5350/a-vendre/maison/JXB96/
+1,Celles,Maison,,395000,notariale,4,,0,0,0,,,1,,,508,3,0,,,487,https://www.zimmo.be/fr/celles-5561/a-vendre/maison/JXB1N/
+2,Beauraing,Maison,,225000,notariale,8,,0,0,0,,,1,,,,2,0,,,430,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JXAEV/
+3,Couvin,Terrain,,40000,notariale,0,,0,0,0,,,0,,,100,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JX9S9/
+4,Olloy-sur-Viroin,Maison,,199000,notariale,3,73,0,0,0,,,1,,,013,4,0,old,2015,185,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JX8ZC/
+5,Petit-Fays,Maison,,250000,notariale,2,130,0,0,0,,,1,,,036,4,0,,,410,https://www.zimmo.be/fr/petit-fays-5555/a-vendre/maison/JX89R/
+6,Namur,Appartement,Studio avec coin lit,140000,notariale,0,30,0,1,0,,,0,,,,,0,,,136,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JX846/
+7,Namur,Appartement,,140000,notariale,0,30,0,1,0,,,0,,,,,0,,,136,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JX847/
+8,Romerée,Maison,,130000,notariale,3,85,0,0,0,,,1,,,501,2,0,,,900,https://www.zimmo.be/fr/romeree-5680/a-vendre/maison/JX7SC/
+9,Tarcienne,Maison,Villa,310000,notariale,6,165,0,0,0,,,1,,,500,,0,,,340,https://www.zimmo.be/fr/tarcienne-5651/a-vendre/maison/JX7SG/
+0,Jambes,Appartement,,340000,notariale,3,80,0,0,0,True,60,1,,,,,0,old,2018,107,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JVVBR/
+1,Namur,Bien professionnel,Bureaux,110000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JVUWR/
+2,Namur,Bien professionnel,Bureaux,195000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JVUWT/
+3,Namur,Bien professionnel,Bureaux,110000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JVUWS/
+4,Neuville,Maison,,150000,notariale,4,160,0,0,0,True,15,1,,,071,3,0,,,483,https://www.zimmo.be/fr/neuville-5600/a-vendre/maison/JVUB4/
+5,Dinant,Bien professionnel,Bien commercial avec habitation,189000,notariale,6,141,0,0,0,,,0,,,,2,0,,,368,https://www.zimmo.be/fr/dinant-5500/a-vendre/bien-professionnel/JVTOA/
+6,Couvin,Maison,,110000,notariale,3,115,0,0,0,True,36,1,,,,2,0,,,371,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JVS2E/
+7,Gonrieux,Maison,Fermette,280000,notariale,7,240,0,0,0,True,100,1,,,458,3,0,,,463,https://www.zimmo.be/fr/gonrieux-5660/a-vendre/maison/JVR1O/
+8,Heer,Terrain,Terrain à bâtir,72000,notariale,0,,0,0,0,,,0,,,500,,0,,,,https://www.zimmo.be/fr/heer-5543/a-vendre/terrain/JVQLY/
+9,Heer,Terrain,Terrain à bâtir,49000,notariale,0,,0,0,0,,,0,,,491,,0,,,,https://www.zimmo.be/fr/heer-5543/a-vendre/terrain/JVQLW/
+0,Havelange,Maison,Villa,399000,notariale,6,436,0,0,0,,,0,,,256,4,0,old,2019,130,https://www.zimmo.be/fr/havelange-5370/a-vendre/maison/JXEJS/
+1,Beauraing,Maison,Maison unifamiliale,319999,notariale,7,200,0,0,0,,,1,132,683,815,2,0,,,254,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JXE0S/
+2,Beauraing,Maison,,284999,notariale,7,200,0,0,0,,,1,132,183,315,2,0,,,254,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JXE0T/
+3,Ham-sur-Sambre,Maison,,149000,notariale,3,120,0,0,0,True,40,1,,,430,3,0,,,511,https://www.zimmo.be/fr/ham-sur-sambre-5190/a-vendre/maison/JXDZZ/
+4,Morialmé,Terrain,Terrain à bâtir,109000,agence,0,,0,0,0,,,0,,,128,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/terrain/JXE13/
+5,Morialmé,Terrain,Terrain à bâtir,109000,agence,0,,0,0,0,,,0,,,158,,0,,,,https://www.zimmo.be/fr/morialme-5621/a-vendre/terrain/JXE14/
+6,Monceau-en-Ardenne,Maison,,145000,notariale,8,195,0,0,0,,,1,,,572,3,0,,,444,https://www.zimmo.be/fr/monceau-en-ardenne-5555/a-vendre/maison/JXDXG/
+7,Jambes,Appartement,,199000,notariale,4,95,0,0,0,,,0,,,,,0,,,243,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JXDQ8/
+8,Walcourt,Terrain,Terrain à bâtir,25000,notariale,0,,0,0,0,,,1,,,450,,0,,,,https://www.zimmo.be/fr/walcourt-5650/a-vendre/terrain/JXDIV/
+9,Yves-Gomezée,Maison,,95000,notariale,3,380,0,0,0,,,1,,,498,3,0,,,450,https://www.zimmo.be/fr/yves-gomezee-5650/a-vendre/maison/JXCPX/
+0,Berzée,Terrain,,168000.0,notariale,0,,0,0,0,,,1,,,999,,0,,,,https://www.zimmo.be/fr/berzee-5651/a-vendre/terrain/JW3VG/
+1,Fosses-la-Ville,Maison,,145000.0,notariale,4,104,0,0,0,,,0,171,,,2,0,new,1850,393,https://www.zimmo.be/fr/fosses-la-ville-5070/a-vendre/maison/JW35N/
+2,Namur,Appartement,Studio,99000.0,notariale,1,29,0,0,0,True,8,0,,,,,0,,,156,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JW266/
+3,Fosses-la-Ville,Maison,,710000.0,notariale,7,440,0,0,0,True,85,1,480,-230,250,4,0,new,1875,212,https://www.zimmo.be/fr/fosses-la-ville-5070/a-vendre/maison/JW0JR/
+4,Isnes,Bien professionnel,Bâtiment d’entreprise,3400000.0,notariale,0,249,0,0,0,,,0,,,605,,0,old,2005,,https://www.zimmo.be/fr/isnes-5032/a-vendre/bien-professionnel/JW05P/
+5,Mariembourg,Maison,,249000.0,notariale,6,153,0,0,0,,,1,,,050,4,0,old,1993,259,https://www.zimmo.be/fr/mariembourg-5660/a-vendre/maison/JVZAG/
+6,Fosses-la-Ville,Maison,Villa,189000.0,notariale,3,84,0,0,0,,,0,,,508,4,0,,,,https://www.zimmo.be/fr/fosses-la-ville-5070/a-vendre/maison/JVZ6G/
+7,Isnes,Bien professionnel,Bureaux,3400000.0,notariale,0,249,0,0,0,,,0,,,605,,0,old,2005,,https://www.zimmo.be/fr/isnes-5032/a-vendre/bien-professionnel/JVZ4M/
+8,Isnes,Bien professionnel,Bâtiment commercial,3400000.0,notariale,0,249,0,0,0,,,0,,,605,,0,old,2005,,https://www.zimmo.be/fr/isnes-5032/a-vendre/bien-professionnel/JVZ4N/
+9,,Maison,,,notariale,3,,0,0,0,,,0,,,,,0,old,2021,,https://www.zimmo.be/fr/hulsonniaux-5560/a-vendre/maison/JVYZH/
+0,Walcourt,Maison,,254000,notariale,3,,0,0,0,,,0,,,,,0,old,2021,,https://www.zimmo.be/fr/walcourt-5650/a-vendre/maison/JVYYL/
+1,Falmignoul,Maison,,490000,notariale,9,350,0,0,0,,,0,,,609,3,0,,,332,https://www.zimmo.be/fr/falmignoul-5500/a-vendre/maison/JVYKH/
+2,Nismes,Maison,,90000,notariale,2,90,0,0,0,,,1,,,226,2,0,,,591,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JVXFG/
+3,Couvin,Maison,,149000,notariale,4,90,0,0,0,,,1,,,283,3,0,,,376,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JVXFH/
+4,Olloy-sur-Viroin,Maison,,105000,notariale,3,101,0,0,0,,,1,59,260,319,3,0,,,,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JVWU7/
+5,Ernage,Maison,Maison unifamiliale,299000,notariale,10,261,0,0,0,,,0,,,500,4,0,,,,https://www.zimmo.be/fr/ernage-5030/a-vendre/maison/JVWL0/
+6,Pussemange,Maison,,250000,notariale,6,143,0,0,0,,,1,,,333,4,0,,,298,https://www.zimmo.be/fr/pussemange-5550/a-vendre/maison/JVVXV/
+7,Dinant,Maison,,189000,notariale,6,141,0,0,0,,,0,,,,2,0,,,368,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JVVJZ/
+8,Andenne,Maison,,550000,notariale,11,515,0,0,1,,,0,,,434,4,0,,,487,https://www.zimmo.be/fr/andenne-5300/a-vendre/maison/JVVJC/
+9,Chastrès,Maison,,150000,notariale,4,130,0,0,0,,,1,,,367,3,0,,,282,https://www.zimmo.be/fr/chastres-5650/a-vendre/maison/JVVG6/
+0,Aische-En-Refail,Terrain,Terrain à bâtir,150000,agence,0,,0,0,0,,,0,,,247,,0,,,,https://www.zimmo.be/fr/aische-en-refail-5310/a-vendre/terrain/JX2RM/
+1,Fosses-la-Ville,Maison,,595000,notariale,7,440,0,0,0,True,85,1,480,-364,116,4,0,new,1875,212,https://www.zimmo.be/fr/fosses-la-ville-5070/a-vendre/maison/JX2BU/
+2,Jambes,Maison,,600000,notariale,0,900,0,0,0,,,0,,,387,4,0,,,,https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JX29O/
+3,Jambes,Bien professionnel,Bâtiment commercial,600000,notariale,0,900,0,0,0,,,0,,,387,,0,,,,https://www.zimmo.be/fr/jambes-5100/a-vendre/bien-professionnel/JX29P/
+4,Merlemont,Maison,,150000,notariale,5,170,0,0,0,,,1,,,550,2,0,,,522,https://www.zimmo.be/fr/merlemont-5600/a-vendre/maison/JX1RY/
+5,Merlemont,Maison,,150000,notariale,6,125,0,0,0,True,20,1,,,560,2,0,,,292,https://www.zimmo.be/fr/merlemont-5600/a-vendre/maison/JX1RZ/
+6,Frasnes,Terrain,Terrain à bâtir,34000,notariale,0,,0,0,0,,,0,,,895,,0,,,,https://www.zimmo.be/fr/frasnes-5660/a-vendre/terrain/JX19B/
+7,Namur,Appartement,Studio,119000,notariale,2,40,0,1,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JX16F/
+8,Floreffe,Maison,,375000,notariale,5,175,0,0,0,,,0,175,575,750,4,0,,,115,https://www.zimmo.be/fr/floreffe-5150/a-vendre/maison/JX0XC/
+9,Philippeville,Maison,,360000,notariale,6,315,0,0,0,True,25,1,,,150,,0,,,251,https://www.zimmo.be/fr/philippeville-5600/a-vendre/maison/JX0Y1/
+0,Wépion,Maison,Villa,725000,notariale,6,280,0,0,0,,,0,,,433,,0,new,1910,347,https://www.zimmo.be/fr/wepion-5100/a-vendre/maison/JX76F/
+1,Cul-des-Sarts,Maison,,340000,notariale,13,196,0,0,0,,,0,,,838,,0,old,2016,130,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/maison/JX6UF/
+2,Bouge,Maison,,295503,notariale,4,,0,0,0,True,17,1,,,346,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SN/
+3,Bouge,Maison,,299235,notariale,4,,0,0,0,True,18,1,,,229,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SO/
+4,Bouge,Maison,,299632,notariale,4,,0,0,0,True,22,1,,,274,2,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SS/
+5,Bouge,Maison,,309989,notariale,4,,0,0,0,True,25,1,,,285,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6ST/
+6,Bouge,Maison,,300525,notariale,4,,0,0,0,True,24,1,,,288,2,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SR/
+7,Bouge,Maison,,298501,notariale,4,,0,0,0,True,20,1,,,370,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SL/
+8,Bouge,Maison,,312035,notariale,4,,0,0,0,True,24,1,,,339,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SP/
+9,Bouge,Maison,,308502,notariale,4,,0,0,0,True,18,1,,,267,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JX6SQ/
 0,,Terrain,Terrain à bâtir,70000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ernage-5030/a-vendre/terrain/JXUU3/
 1,Rhisnes,Maison,,550000,notariale,7,180,0,0,0,,,1,,,,4,0,,1990,,https://www.zimmo.be/fr/rhisnes-5080/a-vendre/maison/JXUSS/
 2,Ciney,Appartement,,170000,notariale,62,60,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JXUMH/
@@ -61,10 +424,150 @@
 7,,Projet,,67600,notariale,0,,0,0,0,,,0,,,,,0,,2015,,https://www.zimmo.be/fr/ohey-5350/a-vendre/projet-immobilier/1003ZQN/
 8,Beauraing,Maison,,248000,notariale,4,,0,0,0,,,1,,,,3,0,,,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JXTO8/
 9,Beauraing,Appartement,,295000,notariale,4,,0,0,0,,,1,,,,2,0,,2014,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/appartement/JXTO7/
+0,Maillen,Maison,,315000,notariale,4,147,0,0,0,,,0,,,671,4,0,,,291,https://www.zimmo.be/fr/maillen-5330/a-vendre/maison/JUYLJ/
+1,Couvin,Maison,Villa,280000,notariale,7,150,0,0,0,True,15,1,,,731,,0,,,277,https://www.zimmo.be/fr/couvin-5660/a-vendre/maison/JV92U/
+2,Silenrieux,Terrain,Terrain à bâtir,30000,notariale,0,,0,0,0,,,1,,,495,,0,,,,https://www.zimmo.be/fr/silenrieux-5630/a-vendre/terrain/JV92S/
+3,Hanzinne,Maison,,225000,notariale,3,112,0,0,0,True,24,1,,,389,3,0,,,,https://www.zimmo.be/fr/hanzinne-5621/a-vendre/maison/JV92W/
+4,Hanzinne,Appartement,Duplex,210000,notariale,4,148,0,0,0,True,5,1,,,,3,0,,,,https://www.zimmo.be/fr/hanzinne-5621/a-vendre/appartement/JV92V/
+5,Gourdinne,Maison,Villa,165000,notariale,4,115,0,0,0,,,1,,,820,,0,,,340,https://www.zimmo.be/fr/gourdinne-5651/a-vendre/maison/JV82T/
+6,Brûly-de-Pesche,Maison,,50000,notariale,2,50,0,0,0,,,1,,,039,,0,,,513,https://www.zimmo.be/fr/bruly-de-pesche-5660/a-vendre/maison/JV82R/
+7,Nismes,Maison,,35000,notariale,1,58,0,0,0,,,1,,,35,2,0,,,857,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JV7ZM/
+8,Hastière,Maison,Chalet,100000,notariale,4,,0,0,0,,,1,,,272,,0,,,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JV6W9/
+9,Wierde,Bien professionnel,Bâtiment d’entreprise,2100000,notariale,0,935,0,0,0,,,0,,,127,4,0,old,1980,,https://www.zimmo.be/fr/wierde-5100/a-vendre/bien-professionnel/JV6S7/
+0,Morialmé,Maison,,150000,notariale,4,125,0,0,0,True,22,1,,,536,2,0,,,305,https://www.zimmo.be/fr/morialme-5621/a-vendre/maison/JX7SF/
+1,Tarcienne,Terrain,Terrain à bâtir,80000,notariale,0,,0,0,0,,,1,,,899,,0,,,,https://www.zimmo.be/fr/tarcienne-5651/a-vendre/terrain/JX7SA/
+2,Couvin,Bien professionnel,Bâtiment commercial,65000,notariale,0,55,0,0,0,,,1,,,324,2,0,old,2021,,https://www.zimmo.be/fr/couvin-5660/a-vendre/bien-professionnel/JX7RM/
+3,Couvin,Bien professionnel,Bâtiment commercial,145000,notariale,0,86,0,0,0,,,1,,,324,2,0,old,2021,,https://www.zimmo.be/fr/couvin-5660/a-vendre/bien-professionnel/JX7RL/
+4,Havelange,Maison,Usage mixte,600000,notariale,9,310,0,0,0,,,0,,,980,4,0,,,,https://www.zimmo.be/fr/havelange-5370/a-vendre/maison/JX7GG/
+5,Jambes,Maison,Usage mixte,1695000,notariale,12,500,0,0,0,True,100,0,,,537,2,0,new,,304,https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JX7FG/
+6,Saint-Martin,Maison,,295000,notariale,5,120,0,0,0,True,27,1,67,358,425,3,0,old,2021,120,https://www.zimmo.be/fr/saint-martin-5190/a-vendre/maison/JX7FF/
+7,Bouge,Appartement,,169000,notariale,3,40,0,0,0,,,0,,,,2,0,old,1997,102,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JX7F6/
+8,Bouge,Appartement,,159000,notariale,3,40,0,0,0,,,0,,,,2,0,old,1997,131,https://www.zimmo.be/fr/bouge-5004/a-vendre/appartement/JX7F5/
+9,Alle,Maison,,395000,notariale,5,122,0,0,1,,,1,,,565,4,0,old,1961,665,https://www.zimmo.be/fr/alle-5550/a-vendre/maison/JX7E8/
+0,Couvin,Terrain,Terrain à bâtir,110000.0,notariale,0,,0,0,0,,,0,,,108,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JPJDF/
+1,Dinant,Maison,,265000.0,notariale,7,,0,0,0,,,0,,,373,3,0,,,248,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JPAJU/
+2,Namur,Bien professionnel,Bien commercial avec habitation,519000.0,notariale,6,,0,0,0,,,0,,,,2,0,new,1880,271,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JOZYC/
+3,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,720,,0,,,,https://www.zimmo.be/fr/floreffe-5150/a-vendre/bien-professionnel/JONW6/
+4,Pussemange,Maison,,70000.0,notariale,4,,0,0,0,,,0,,,127,2,0,,,,https://www.zimmo.be/fr/pussemange-5550/a-vendre/maison/JONIH/
+5,Dinant,Maison,Bel-étage,55000.0,notariale,2,112,0,0,0,,,1,,,131,2,0,,,,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JOK1V/
+6,Bouge,Maison,,295800.0,notariale,5,,0,0,0,,,1,,,295,3,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/maison/JK2SF/
+7,Florennes,Maison,,175000.0,notariale,13,,0,0,0,,,1,,,464,2,0,old,1750,485,https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JOD4Z/
+8,Berzée,Terrain,Terrain à bâtir,400000.0,notariale,0,,0,0,0,,,1,,,687,,0,,,,https://www.zimmo.be/fr/berzee-5651/a-vendre/terrain/JO9VS/
+9,Evelette,Terrain,Terrain agricole,144950.0,notariale,0,,0,0,0,,,0,,,990,,0,,,,https://www.zimmo.be/fr/evelette-5350/a-vendre/terrain/JO8R4/
+0,Andenne,Appartement,,227950,notariale,5,100,0,0,0,True,68,1,,,,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/appartement/JVIVH/
+1,Andenne,Appartement,,235500,notariale,5,100,0,0,0,True,94,1,,,,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/appartement/JVIVD/
+2,Andenne,Appartement,,229950,notariale,5,101,0,0,0,True,85,1,,,,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/appartement/JVIVE/
+3,Bois-de-Villers,Maison,,365108,notariale,3,,0,0,0,,,0,,,016,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JVHKK/
+4,Bois-de-Villers,Maison,,346896,notariale,4,,0,0,0,,,0,,,214,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JVHKJ/
+5,Fernelmont,Maison,,381826,notariale,3,,0,0,0,,,0,,,161,,0,,,,https://www.zimmo.be/fr/fernelmont-5380/a-vendre/maison/JVHKN/
+6,Fernelmont,Maison,,389359,notariale,3,,0,0,0,,,0,,,399,,0,,,,https://www.zimmo.be/fr/fernelmont-5380/a-vendre/maison/JVHKM/
+7,Tamines,Maison,,129999,notariale,5,225,0,0,0,,,0,,,310,3,0,,,405,https://www.zimmo.be/fr/tamines-5060/a-vendre/maison/JVFZK/
+8,Tarcienne,Maison,Villa,350000,notariale,5,290,0,0,0,,,1,,,632,,0,,,340,https://www.zimmo.be/fr/tarcienne-5651/a-vendre/maison/JVFBZ/
+9,Beauraing,Appartement,,1195000,notariale,25,840,0,1,0,,,1,,,000,4,0,old,1800,321,https://www.zimmo.be/fr/beauraing-5570/a-vendre/appartement/JVEC8/
+0,Olloy-sur-Viroin,Terrain,,19000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/terrain/JXRK3/
+1,Rochefort,Maison,,165000,notariale,6,200,0,0,0,,,0,,,,,0,,,101,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JXR4O/
+2,Namur,Appartement,,335000,notariale,3,90,0,0,0,True,9,1,,,,4,0,,2021,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXQRC/
+3,Pontillas,Maison,,259000,notariale,4,165,0,0,0,,,1,,,,3,0,,,254,https://www.zimmo.be/fr/pontillas-5380/a-vendre/maison/JXQR7/
+4,Keumiée,Bien professionnel,Horeca,175000,notariale,0,,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/keumiee-5060/a-vendre/bien-professionnel/JXQQ9/
+5,Mazée,Maison,Bel-étage,120000,notariale,7,79,0,0,0,,,1,,,,3,0,,1988,269,https://www.zimmo.be/fr/mazee-5670/a-vendre/maison/JXQEL/
+6,Philippeville,Maison,,185000,notariale,6,497,0,0,0,True,40,1,,,,,0,,,475,https://www.zimmo.be/fr/philippeville-5600/a-vendre/maison/JXPZR/
+7,Flavion,Maison,,235000,notariale,15,240,0,0,0,,,0,,,,,0,,,178,https://www.zimmo.be/fr/flavion-5620/a-vendre/maison/JXPZ3/
+8,Jemelle,Maison,,295000,notariale,6,175,0,0,0,,,0,,,,,0,,,216,https://www.zimmo.be/fr/jemelle-5580/a-vendre/maison/JXPXG/
+9,Namur,Appartement,,130000,notariale,0,30,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXPFV/
+0,Sambreville,Appartement,,225000,notariale,3,93,0,0,0,,,0,,,,,0,,,902,https://www.zimmo.be/fr/sambreville-5060/a-vendre/appartement/JTN4P/
+1,Sambreville,Bien professionnel,Bâtiment commercial,225000,notariale,0,110,0,0,0,,,0,,,,,0,,,508,https://www.zimmo.be/fr/sambreville-5060/a-vendre/bien-professionnel/JTMNA/
+2,Houyet,Terrain,Terrain à bâtir,142000,notariale,0,,0,0,0,,,0,,,500,,0,,,,https://www.zimmo.be/fr/houyet-5560/a-vendre/terrain/JTLMZ/
+3,Namur,Appartement,,130000,notariale,1,33,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JTGNJ/
+4,Namur,Appartement,Studio avec coin lit,130000,notariale,1,33,0,1,0,,,0,,,,,0,,,132,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JTGNI/
+5,Ohey,Maison,,335000,notariale,6,230,0,0,0,,,1,,,655,4,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/maison/JTF1X/
+6,Ohey,Maison,,318000,notariale,5,236,0,0,0,,,1,,,806,4,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/maison/JTF1Y/
+7,Yvoir,Maison,,278000,notariale,8,190,0,0,0,,,1,,,065,3,0,new,,359,https://www.zimmo.be/fr/yvoir-5530/a-vendre/maison/JTCVH/
+8,Ohey,Maison,,348379,notariale,6,240,0,0,0,,,1,,,614,4,0,old,2021,,https://www.zimmo.be/fr/ohey-5351/a-vendre/maison/JTBYO/
+9,Gesves,Maison,,397500,notariale,5,155,0,0,0,,,1,,,300,4,0,,,,https://www.zimmo.be/fr/gesves-5340/a-vendre/maison/JTBU9/
+0,Bois-de-Villers,Maison,,303075,notariale,4,,0,0,0,,,0,,,979,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/maison/JTYUI/
+1,Gedinne,Bien professionnel,Bâtiment commercial,340000,notariale,0,300,0,0,0,,,0,,,,4,0,old,2012,110,https://www.zimmo.be/fr/gedinne-5575/a-vendre/bien-professionnel/JTYFU/
+2,Bois-de-Villers,Bien professionnel,Bureaux,850000,notariale,0,,0,0,0,,,0,,,168,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/bien-professionnel/JTY50/
+3,Bois-de-Villers,Terrain,,850000,notariale,0,,0,0,0,,,0,,,168,,0,,,,https://www.zimmo.be/fr/bois-de-villers-5170/a-vendre/terrain/JTY4Z/
+4,Cul-des-Sarts,Terrain,,69000,notariale,0,,0,0,0,,,0,,,744,,0,,,,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/terrain/JTY4E/
+5,Heure,Maison,,305000,notariale,4,,0,0,0,,,0,,,,,0,old,2021,115,https://www.zimmo.be/fr/heure-5377/a-vendre/maison/JTTJ3/
+6,Jambes,Appartement,,313000,notariale,3,70,0,0,0,,,0,,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JTPC1/
+7,Rochefort,Bien professionnel,Entrepôt avec bureau,1950000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/rochefort-5580/a-vendre/bien-professionnel/JTSRT/
+8,Noiseux,Terrain,Terrain à bâtir,56000,notariale,0,,0,0,0,,,0,,,936,,0,,,,https://www.zimmo.be/fr/noiseux-5377/a-vendre/terrain/JTR6F/
+9,Walcourt,Appartement,,975000,notariale,14,625,0,0,0,,,0,,,483,4,0,old,1900,493,https://www.zimmo.be/fr/walcourt-5650/a-vendre/appartement/JTNP2/
+0,Jambes,Appartement,,270000,notariale,2,10,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IU/
+1,Jambes,Appartement,,265000,notariale,2,20,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IT/
+2,Jambes,Appartement,,285000,notariale,3,50,0,0,0,True,95,0,5,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IW/
+3,Jambes,Appartement,,305000,notariale,4,75,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7J0/
+4,Jambes,Appartement,,285000,notariale,3,90,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IX/
+5,Jambes,Appartement,,230000,notariale,2,20,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IR/
+6,Jambes,Appartement,,295000,notariale,4,75,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IY/
+7,Jambes,Appartement,,270000,notariale,3,20,0,0,0,True,60,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7JO/
+8,Jambes,Appartement,,310000,notariale,4,20,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7J1/
+9,Jambes,Appartement,,255000,notariale,2,50,0,0,0,True,50,0,6,,,,0,old,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JF7IS/
+0,Monceau-en-Ardenne,Terrain,Terrain à bâtir,59000,notariale,0,355,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/monceau-en-ardenne-5555/a-vendre/terrain/JXC07/
+1,Monceau-en-Ardenne,Terrain,Terrain à bâtir,59000,notariale,0,293,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/monceau-en-ardenne-5555/a-vendre/terrain/JXC06/
+2,Winenne,Terrain,Terrain à bâtir,58000,notariale,0,055,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/winenne-5570/a-vendre/terrain/JXBZD/
+3,Couvin,Terrain,Terrain à bâtir,64000,notariale,0,152,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JXBX6/
+4,Haillot,Terrain,,99500,notariale,0,941,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haillot-5351/a-vendre/terrain/JXBWL/
+5,Couvin,Terrain,Terrain à bâtir,64000,notariale,0,887,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JXBWG/
+6,Eghezée,Maison,,378083,notariale,4,,0,0,0,,,0,,,247,,0,,,,https://www.zimmo.be/fr/eghezee-5310/a-vendre/maison/JXBDF/
+7,Eghezée,Maison,,392264,notariale,3,,0,0,0,,,0,,,247,,0,,,,https://www.zimmo.be/fr/eghezee-5310/a-vendre/maison/JXBDG/
+8,Namur,Maison,,450000,notariale,5,140,0,0,0,True,70,0,,,,4,0,old,2012,,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JXBA1/
+9,Namur,Appartement,,450000,notariale,5,140,0,0,0,True,70,0,,,,4,0,old,2012,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JXBA2/
+0,Yves-Gomezée,Terrain,Terrain de loisirs,45000,notariale,0,,0,0,0,,,1,,,362,,0,,,,https://www.zimmo.be/fr/yves-gomezee-5650/a-vendre/terrain/JWTYQ/
+1,Cerfontaine,Bien professionnel,Commerce,175000,notariale,0,287,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/cerfontaine-5630/a-vendre/bien-professionnel/JWSVF/
+2,Naninne,Maison,Villa,650000,notariale,7,280,0,0,0,,,1,,,000,4,0,old,1997,239,https://www.zimmo.be/fr/naninne-5100/a-vendre/maison/JWSML/
+3,Gesves,Appartement,,225000,notariale,2,85,0,0,0,True,8,0,,,,,0,old,2021,,https://www.zimmo.be/fr/gesves-5340/a-vendre/appartement/JWSMK/
+4,Rosée,Maison,,86000,notariale,3,85,0,0,0,,,0,,,,3,0,,,575,https://www.zimmo.be/fr/rosee-5620/a-vendre/maison/JWSLD/
+5,Havelange,Maison,,399000,notariale,4,218,0,0,0,,,1,,,000,3,0,,,397,https://www.zimmo.be/fr/havelange-5370/a-vendre/maison/JWRQI/
+6,Havelange,Maison,,80000,notariale,5,218,0,0,0,,,1,,,000,3,0,,,397,https://www.zimmo.be/fr/havelange-5370/a-vendre/maison/JWQI7/
+7,Ohey,Appartement,Duplex,190000,notariale,3,84,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/ohey-5350/a-vendre/appartement/JWQI5/
+8,Arsimont,Maison,Villa,300000,notariale,5,140,0,0,0,,,1,,,100,,0,,,375,https://www.zimmo.be/fr/arsimont-5060/a-vendre/maison/JWQBU/
+9,Han-sur-Lesse,Maison,,239000,notariale,5,195,0,0,0,,,1,,,340,3,0,,,497,https://www.zimmo.be/fr/han-sur-lesse-5580/a-vendre/maison/JWPRZ/
+0,Mohiville,Maison,,500000,notariale,9,272,0,0,0,,,1,,,,3,0,,,456,https://www.zimmo.be/fr/mohiville-5361/a-vendre/maison/JY4I9/
+1,Namur,Appartement,Penthouse,495000,notariale,4,182,0,0,0,True,27,1,,,,4,0,,2021,124,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JY4HN/
+2,Mettet,Maison,Villa,229000,notariale,7,145,0,0,0,,,1,,,,4,0,,,,https://www.zimmo.be/fr/mettet-5640/a-vendre/maison/JY47P/
+3,Thon,Maison,Villa,485000,notariale,8,215,0,0,0,,,0,,,,4,0,,,154,https://www.zimmo.be/fr/thon-5300/a-vendre/maison/JY45P/
+4,Bouge,Bien professionnel,Bureaux,395000,notariale,0,360,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JY456/
+5,Bouge,Bien professionnel,Bureaux,395000,notariale,0,360,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JY457/
+6,Neuville,Maison,,240000,notariale,2,77,0,0,0,True,40,1,,,,,0,,,586,https://www.zimmo.be/fr/neuville-5600/a-vendre/maison/JXY2W/
+7,Anhée,Appartement,Duplex,360000,notariale,3,118,0,0,0,True,35,1,,,,,0,,,247,https://www.zimmo.be/fr/anhee-5537/a-vendre/appartement/JXX5Z/
+8,Hastière,Maison,Chalet,75000,notariale,1,27,0,0,0,,,0,,,,,0,,,790,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JXUH0/
+9,,Projet,,335000,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/jambes-5100/a-vendre/projet-immobilier/1003ZG2/
 0,Namur,Appartement,Duplex,239000,notariale,5,123,0,0,0,,,1,,,,3,0,,1935,621,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JY0W1/
 1,Couvin,Terrain,Terrain à bâtir,53000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JRKYQ/
 2,Neuville,Maison,Chalet,110000,notariale,4,47,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/neuville-5600/a-vendre/maison/JY0LU/
 3,Frasnes,Maison,,165000,notariale,11,117,0,0,0,,,0,,,,,0,,,827,https://www.zimmo.be/fr/frasnes-5660/a-vendre/maison/JY0LT/
+0,Namur,Maison,Usage mixte,545000,notariale,15,230,0,1,0,True,64,0,,,,2,0,,,385,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JWPBH/
+1,Philippeville,Terrain,Terrain agricole,12500,notariale,0,,0,0,0,,,0,,,441,,0,,,,https://www.zimmo.be/fr/philippeville-5600/a-vendre/terrain/JWOX5/
+2,Ohey,Appartement,,190000,notariale,3,80,0,0,0,,,0,,,,3,0,old,2018,124,https://www.zimmo.be/fr/ohey-5350/a-vendre/appartement/JWOJB/
+3,Houyet,Maison,,495000,notariale,14,580,0,0,0,,,1,,,646,4,0,,,166,https://www.zimmo.be/fr/houyet-5560/a-vendre/maison/JWMZE/
+4,Houyet,Maison,,325000,notariale,4,90,0,0,0,,,0,,,131,3,0,,,109,https://www.zimmo.be/fr/houyet-5560/a-vendre/maison/JWMZF/
+5,Houyet,Maison,,150000,notariale,0,,0,0,0,,,0,,,572,4,0,old,1993,,https://www.zimmo.be/fr/houyet-5560/a-vendre/maison/JWMZG/
+6,Leignon,Maison,,321802,notariale,3,,0,0,0,,,0,,,523,,0,,,,https://www.zimmo.be/fr/leignon-5590/a-vendre/maison/JWLK5/
+7,Jambes,Appartement,,275000,notariale,3,72,0,0,0,True,23,0,,,,2,0,old,1981,299,https://www.zimmo.be/fr/jambes-5100/a-vendre/appartement/JWLH2/
+8,Clermont,Terrain,Terrain à bâtir,98000,notariale,0,,0,0,0,,,1,,,187,,0,,,,https://www.zimmo.be/fr/clermont-5650/a-vendre/terrain/JWLGK/
+9,Clermont,Terrain,Terrain à bâtir,98000,notariale,0,,0,0,0,,,1,,,180,,0,,,,https://www.zimmo.be/fr/clermont-5650/a-vendre/terrain/JWLGL/
+0,Gembloux,Bien professionnel,Rez-de-chaussée commercial,466000.0,notariale,1,466,0,0,0,,,0,,,1,,0,old,2000,,https://www.zimmo.be/fr/gembloux-5030/a-vendre/bien-professionnel/JLH55/
+1,Andenne,Appartement,,208551.0,notariale,3,40,0,0,0,True,67,1,,,,,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/appartement/JKZLC/
+2,,Maison,Château,,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/andenne-5300/a-vendre/maison/JKZLI/
+3,Gochenée,Maison,Villa,300000.0,notariale,6,175,0,0,0,True,25,1,,,321,3,0,,,,https://www.zimmo.be/fr/gochenee-5680/a-vendre/maison/JKA2X/
+4,Anseremme,Terrain,Terrain à bâtir,77590.0,notariale,0,,0,0,0,,,1,,,195,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2PF/
+5,Anseremme,Terrain,Terrain à bâtir,74056.0,notariale,0,,0,0,0,,,1,,,138,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2PK/
+6,Anseremme,Terrain,Terrain à bâtir,68125.0,notariale,0,,0,0,0,,,1,,,025,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2PR/
+7,Anseremme,Terrain,Terrain à bâtir,79620.0,notariale,0,,0,0,0,,,1,,,302,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2PO/
+8,Anseremme,Terrain,Terrain à bâtir,79884.0,notariale,0,,0,0,0,,,1,,,232,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2Q9/
+9,Anseremme,Terrain,Terrain à bâtir,81500.0,notariale,0,,0,0,0,,,1,,,300,3,0,,,,https://www.zimmo.be/fr/anseremme-5500/a-vendre/terrain/JK2PL/
+0,Louette-Saint-Denis,Maison,,325000,notariale,4,246,0,0,0,,,0,,,571,3,0,,,468,https://www.zimmo.be/fr/louette-saint-denis-5575/a-vendre/maison/JX0IC/
+1,Profondeville,Maison,,325000,notariale,5,130,0,0,0,,,1,,,078,,0,old,1981,371,https://www.zimmo.be/fr/profondeville-5170/a-vendre/maison/JX089/
+2,Dinant,Maison,,165000,notariale,6,114,0,0,0,True,20,0,,,,2,0,new,,238,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JWZUN/
+3,Tarcienne,Maison,,205000,notariale,4,130,0,0,0,True,16,1,,,579,2,0,,,190,https://www.zimmo.be/fr/tarcienne-5651/a-vendre/maison/JWZNW/
+4,Tarcienne,Maison,Fermette,245000,notariale,6,150,0,0,0,True,45,1,,,724,3,0,,,392,https://www.zimmo.be/fr/tarcienne-5651/a-vendre/maison/JWZNU/
+5,Couvin,Terrain,Terrain à bâtir,65000,notariale,0,,0,0,0,,,1,,,876,,0,,,,https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JWZNV/
+6,Brûly,Maison,,125000,notariale,4,108,0,0,0,,,1,,,585,,0,,,642,https://www.zimmo.be/fr/bruly-5660/a-vendre/maison/JWZNX/
+7,Gembloux,Maison,Villa,450000,notariale,8,240,0,0,0,,,1,,,493,4,0,old,1977,576,https://www.zimmo.be/fr/gembloux-5030/a-vendre/maison/JWZF0/
+8,Beauraing,Maison,,490000,notariale,5,,0,0,0,,,1,,,624,2,0,old,1899,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JWZ8K/
+9,Namur,Maison,Maison de ville,585000,notariale,7,300,0,0,0,,,0,,,196,,0,old,1905,339,https://www.zimmo.be/fr/namur-5000/a-vendre/maison/JWZ2I/
 0,Fraire,Maison,,299000,notariale,6,180,0,0,0,True,32,1,,,,,0,,1960,818,https://www.zimmo.be/fr/fraire-5650/a-vendre/maison/JY3XG/
 1,Hanzinne,Maison,,135000,notariale,3,105,0,0,0,,,1,,,,2,0,,,503,https://www.zimmo.be/fr/hanzinne-5621/a-vendre/maison/JY3XI/
 2,Falmignoul,Maison,Ferme,165000,notariale,4,106,0,0,0,True,24,1,,,,4,0,,,587,https://www.zimmo.be/fr/falmignoul-5500/a-vendre/maison/JY3NR/
@@ -75,3 +578,13 @@
 7,Ciney,Appartement,,180250,notariale,3,55,0,0,0,True,13,0,,,,2,0,,2020,,https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JY3BF/
 8,Somzée,Maison,,125000,notariale,0,85,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/somzee-5651/a-vendre/maison/JY2X2/
 9,Jemeppe-sur-Sambre,Maison,,67500,notariale,2,31,0,0,0,,,1,,,,3,0,,,792,https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/maison/JY2X1/
+0,Cul-des-Sarts,Terrain,,39000,notariale,0,,0,0,0,,,0,,,491,,0,,,,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/terrain/JWUW4/
+1,Namur,Bien professionnel,Rez-de-chaussée commercial,130000,notariale,1,,0,0,0,,,0,59,0,59,2,0,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JWUUE/
+2,Jemeppe-sur-Sambre,Maison,Villa,588000,notariale,7,210,0,0,0,True,50,1,,,530,,0,new,1980,348,https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/maison/JWUP0/
+3,Graide,Maison,,243000,notariale,6,171,0,0,0,,,1,70,178,248,3,0,old,2020,,https://www.zimmo.be/fr/graide-5555/a-vendre/maison/JQWTX/
+4,Dinant,Maison,,145000,notariale,3,123,0,0,0,True,46,0,,,,2,0,new,,397,https://www.zimmo.be/fr/dinant-5500/a-vendre/maison/JWUEO/
+5,Rochefort,Maison,,225000,notariale,7,180,0,0,0,,,1,,,689,2,0,old,1932,308,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JWUBG/
+6,Profondeville,Bien professionnel,Espace de bureaux,185000,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/profondeville-5170/a-vendre/bien-professionnel/JWU9E/
+7,Patignies,Maison,,360000,notariale,8,253,0,0,0,True,38,1,177,451,628,4,0,new,1850,459,https://www.zimmo.be/fr/patignies-5575/a-vendre/maison/JW3HY/
+8,Olloy-sur-Viroin,Maison,,199000,notariale,4,90,0,0,0,,,1,,,116,4,0,,,424,https://www.zimmo.be/fr/olloy-sur-viroin-5670/a-vendre/maison/JWU5T/
+9,Yves-Gomezée,Maison,,35000,notariale,2,48,0,0,0,,,1,,,696,,0,,,778,https://www.zimmo.be/fr/yves-gomezee-5650/a-vendre/maison/JWTYR/

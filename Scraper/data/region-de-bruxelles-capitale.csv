@@ -1,6 +1,286 @@
 ,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,url
+0,Woluwe-Saint-Lambert,Maison,Villa,1645000,notariale,8,400,0,0,0,True,20,1,,,000,4,0,new,2004,203,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JV44K/
+1,Uccle,Maison,,499000,notariale,5,240,0,0,0,True,8,1,,,194,2,0,old,1953,131,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JV3HI/
+2,Uccle,Appartement,Triplex,450000,notariale,4,132,0,0,0,True,10,0,,,,2,0,old,2012,108,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JV290/
+3,Bruxelles,Appartement,,630000,notariale,9,213,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JV1V7/
+4,Ixelles,Appartement,,695000,notariale,5,166,0,0,0,,,0,,,,,0,old,1955,240,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JV1NE/
+5,Uccle,Maison,,475000,notariale,5,125,0,0,0,True,50,1,,,189,,0,old,2003,186,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JV1D8/
+6,Ixelles,Appartement,,435000,notariale,3,115,0,0,0,,,0,,,,3,0,new,1950,292,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JV0XX/
+7,Anderlecht,Maison,Autre,349000,notariale,5,120,0,0,0,True,14,0,,,,2,0,old,1920,314,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JV0OQ/
+8,Anderlecht,Maison,,349000,notariale,5,120,0,0,0,True,14,0,,,,2,0,old,1920,314,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JV0OR/
+9,Uccle,Terrain,Terrain à bâtir,1000000,notariale,0,,0,0,0,,,0,,,24,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/terrain/JV04N/
+0,Bruxelles,Appartement,Studio,374000,notariale,0,50,0,0,0,,,0,,,000,,0,old,2016,126,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57H/
+1,Bruxelles,Appartement,Studio,396000,notariale,0,55,0,0,0,,,0,,,000,,0,old,2016,138,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57K/
+2,Bruxelles,Appartement,Studio,393000,notariale,0,55,0,0,0,,,0,,,000,,0,old,2016,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57A/
+3,Bruxelles,Appartement,Studio,396000,notariale,0,55,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57C/
+4,Bruxelles,Appartement,Studio,468000,notariale,0,68,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX577/
+5,Bruxelles,Appartement,Studio,371000,notariale,0,50,0,0,0,,,0,,,000,,0,old,2016,126,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57J/
+6,Bruxelles,Appartement,Studio,396000,notariale,0,55,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57D/
+7,Bruxelles,Appartement,Studio,468000,notariale,0,68,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57G/
+8,Bruxelles,Appartement,Studio,374000,notariale,0,50,0,0,0,,,0,,,000,,0,old,2016,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57F/
+9,Bruxelles,Appartement,Studio,493000,notariale,0,74,0,0,0,,,0,,,000,,0,old,2016,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57B/
+0,Bruxelles,Bien professionnel,Commerce,229000,notariale,3,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXT82/
+1,Uccle,Appartement,,490000,notariale,5,120,0,0,1,,,0,,,,4,0,,,258,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXT80/
+2,Anderlecht,Appartement,,215000,notariale,3,,0,0,0,,,0,,,,2,0,,,241,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXT83/
+3,Bruxelles,Garage,,12000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JXT7Y/
+4,Jette,Maison,,555000,notariale,5,195,0,0,0,,,0,,,,,0,,1932,268,https://www.zimmo.be/fr/jette-1090/a-vendre/maison/JXT84/
+5,Bruxelles,Garage,,24500,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JXT7Z/
+6,Anderlecht,Bien professionnel,Commerce,215000,notariale,2,,0,0,0,,,0,,,,2,0,,,241,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JXT7U/
+7,Forest,Appartement,,450000,notariale,5,220,0,0,0,True,15,0,,,,,0,,1979,214,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXT7T/
+8,Anderlecht,Appartement,,139000,notariale,2,40,0,0,0,,,0,,,,2,0,,,241,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXT7R/
+9,Bruxelles,Garage,,28000,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JXT7V/
+0,Anderlecht,Appartement,,233000,notariale,4,82,0,0,0,True,2,1,,,,2,0,,,192,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXOR0/
+1,Auderghem,Garage,Garage en sous-sol,28000,notariale,1,,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/garage/JXXVK/
+2,Evere,Appartement,,350000,notariale,5,90,0,0,0,True,90,0,,,,,0,,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXXVI/
+3,Auderghem,Appartement,Penthouse,1390000,notariale,7,53,0,0,0,True,18,0,,,,,0,,2020,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JXXVJ/
+4,,Projet,,575000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/10045YW/
+5,Bruxelles,Maison,Usage mixte,219000,notariale,0,50,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXXP5/
+6,Ixelles,Appartement,,445000,notariale,4,167,0,0,0,,,0,,,,,0,,1998,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXXMH/
+7,Ixelles,Appartement,Studio avec coin lit,225000,notariale,2,45,0,0,0,,,0,,,,,0,,1998,108,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXXMJ/
+8,Ixelles,Appartement,,499000,notariale,3,93,0,0,1,True,5,0,,,,2,0,,1957,186,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXXJA/
+9,Laeken,Appartement,,275000,notariale,3,70,0,0,0,True,30,0,,,,3,0,,1973,174,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JXXHI/
+0,,Projet,,345000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/projet-immobilier/10045S5/
+1,Evere,Appartement,,285000,notariale,3,54,0,1,0,True,50,0,,,,2,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY0IJ/
+2,Bruxelles,Bien professionnel,Commerce,320000,notariale,0,120,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JY0GX/
+3,Etterbeek,Bien professionnel,Commerce,980000,notariale,0,180,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JY0GY/
+4,Woluwe-Saint-Lambert,Appartement,,345000,notariale,3,98,0,0,0,,,0,,,,,0,,1958,401,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JY0FT/
+5,Bruxelles,Garage,Place de stationnement,32500,notariale,0,,0,0,0,,,0,,,,3,0,,2009,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JY097/
+6,Bruxelles,Appartement,,165000,notariale,3,45,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY08L/
+7,Ixelles,Bien professionnel,Immeuble d’appartements,760000,notariale,8,300,0,0,0,,,1,,,,2,0,,1899,515,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JY08M/
+8,Koekelberg,Bien professionnel,Immeuble d’appartements,370000,notariale,5,270,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/bien-professionnel/JY08I/
+9,Bruxelles,Bien professionnel,Immeuble d’appartements,1100000,notariale,17,480,0,0,0,True,50,1,,,,,0,,1956,352,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JY08H/
+0,Anderlecht,Appartement,,235000,notariale,4,93,0,0,0,True,60,0,,,,,0,old,2005,261,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JX1KG/
+1,Anderlecht,Maison,Bel-étage,395000,notariale,3,150,0,0,0,True,12,1,,,,,0,,,430,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JX1I6/
+2,Anderlecht,Maison,,395000,notariale,3,150,0,0,0,True,12,1,,,,,0,,,430,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JX1I7/
+3,Forest,Appartement,,295000,notariale,3,86,0,0,0,True,2,0,,,,2,0,old,1962,249,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JX1HX/
+4,Koekelberg,Garage,Place de stationnement,30000,notariale,1,,0,0,0,,,0,,,,2,0,old,1989,428,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/garage/JX1F8/
+5,Saint-Josse-ten-Noode,Appartement,,229000,notariale,3,75,0,0,0,True,3,0,,,,,0,,,225,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JX1EL/
+6,Bruxelles,Appartement,,160000,notariale,2,36,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX19F/
+7,Molenbeek-Saint-Jean,Appartement,,305000,notariale,3,125,0,0,0,,,0,,,,,0,old,2008,183,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JX142/
+8,Evere,Appartement,,340000,notariale,5,116,0,0,0,,,0,,,,,0,old,2008,108,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JX137/
+9,Molenbeek-Saint-Jean,Maison,,449000,notariale,6,40,0,0,0,True,50,0,,,68,2,0,new,1930,229,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JX0K8/
+0,Ixelles,Appartement,,350000,notariale,3,75,0,1,0,,,0,,,,4,0,old,1991,153,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JVQIA/
+1,Jette,Appartement,,405000,notariale,5,110,0,0,0,True,12,0,,,,3,0,,,137,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JVPNG/
+2,Saint-Gilles,Appartement,,345000,notariale,3,100,0,0,0,,,1,,,,2,0,old,1910,277,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JVP7X/
+3,Bruxelles,Appartement,,299000,notariale,3,85,0,0,0,True,35,0,,,,2,0,old,1899,116,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVNZN/
+4,Bruxelles,Appartement,,180000,notariale,3,57,0,0,0,True,1,0,,,,,0,,,389,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVNZO/
+5,Ixelles,Maison,Maison de ville,870000,notariale,0,175,0,0,1,,,0,,,,,0,old,2012,153,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JVN05/
+6,Etterbeek,Appartement,,325000,notariale,5,90,0,0,0,True,2,0,,,,3,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JVMNS/
+7,Jette,Maison,Maison bourgeoise,875000,notariale,10,387,0,0,0,True,50,1,,,247,2,0,new,1949,323,https://www.zimmo.be/fr/jette-1090/a-vendre/maison/JVMGF/
+8,Schaerbeek,Maison,,795000,notariale,13,445,0,0,0,True,32,1,90,75,165,2,0,old,1874,204,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JVLYI/
+9,Neder-over-Heembeek,Maison,,349000,notariale,5,120,0,0,0,True,25,1,,,100,2,0,,,267,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/maison/JVL1X/
+0,Bruxelles,Appartement,Studio avec coin lit,185000,notariale,2,37,0,0,0,,,0,,,,2,0,,1968,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXWEV/
+1,Schaerbeek,Maison,,590000,notariale,7,210,0,0,0,,,1,,,,2,0,,1936,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXWEW/
+2,,Projet,,576479,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/projet-immobilier/1002H15/
+3,Anderlecht,Appartement,Duplex,576479,notariale,3,165,0,0,0,,,0,,,,2,0,,2015,262,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXL5F/
+4,,Bien professionnel,Immeuble d’appartements,856500,notariale,6,,0,0,0,,,0,,,,2,0,,1929,251,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JXW3G/
+5,Forest,Appartement,App. rez-de-chaussée,235000,notariale,2,45,0,0,0,,,1,,,,,0,,1999,166,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXVXT/
+6,Uccle,Maison,Villa,2275000,notariale,9,390,0,0,0,True,40,1,,,,3,0,,1920,562,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXVKP/
+7,Etterbeek,Maison,,1495000,notariale,8,325,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JXVKQ/
+8,,Appartement,,347000,notariale,3,141,0,0,0,,,0,,,,2,0,,1929,375,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXVLA/
+9,,Appartement,App. rez-de-chaussée,272500,notariale,3,109,0,0,0,,,0,,,,2,0,,1929,251,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXVL8/
+0,Bruxelles,Appartement,,420000,notariale,2,102,0,0,0,,,0,,,,,0,old,2014,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUXOU/
+1,Evere,Appartement,Serviceflat,195000,notariale,2,25,0,0,0,,,0,,,,2,0,new,2015,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUWAG/
+2,Saint-Gilles,Appartement,,560000,notariale,3,132,0,0,0,,,0,,,,,0,new,1905,304,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JUVPL/
+3,Bruxelles,Appartement,,249000,notariale,3,55,0,1,0,,,0,,,,3,0,old,2009,393,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUU9L/
+4,Ixelles,Appartement,,1495000,notariale,9,350,0,0,0,,,0,,,,,0,new,1930,241,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JUTXR/
+5,Saint-Gilles,Appartement,Studio avec coin lit,185000,notariale,2,44,0,0,0,,,0,,,,,0,old,1966,511,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JUTSS/
+6,Etterbeek,Appartement,,275000,notariale,2,50,0,0,0,True,1,1,,,,,0,old,1910,128,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JUPUQ/
+7,Berchem-Sainte-Agathe,Maison,Villa,649000,notariale,7,235,0,0,1,True,20,1,,,623,4,0,old,1995,282,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/maison/JUS0W/
+8,Bruxelles,Appartement,,735000,notariale,2,335,0,0,0,,,0,,,,,0,old,1896,172,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQLV/
+9,Bruxelles,Appartement,,380000,notariale,4,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAE/
+0,Uccle,Maison,,730000,notariale,6,200,0,0,0,True,18,1,,,158,,0,new,1949,218,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JVD0U/
+1,Ixelles,Appartement,,615000,notariale,4,112,0,0,0,,,1,,,350,,0,old,1890,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JUU8V/
+2,Anderlecht,Garage,Garage en sous-sol,25000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/garage/JVCHD/
+3,Auderghem,Appartement,,399000,notariale,5,90,0,0,0,True,15,1,90,,,,0,old,2018,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JU2C6/
+4,Laeken,Appartement,,334200,notariale,4,107,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JVC1H/
+5,Bruxelles,Appartement,,630000,notariale,9,213,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVC1G/
+6,Laeken,Appartement,,285000,notariale,4,94,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JVC1E/
+7,Bruxelles,Appartement,,270000,notariale,2,88,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVC1F/
+8,Berchem-Sainte-Agathe,Appartement,App. rez-de-chaussée,374500,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JVBVQ/
+9,Forest,Appartement,,215000,notariale,4,100,0,0,0,True,22,0,,,,,0,old,1979,322,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JVBVH/
+0,Schaerbeek,Appartement,,375000,notariale,6,118,0,0,0,True,4,0,,,,3,0,,,234,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXI16/
+1,Woluwe-Saint-Lambert,Maison,,650000,notariale,7,170,0,0,1,,,0,,,,2,0,,1963,418,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JXHXR/
+2,Koekelberg,Maison,,475000,notariale,4,210,0,0,0,,,0,,,,,0,,,556,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/maison/JXHT1/
+3,Molenbeek-Saint-Jean,Appartement,,230000,notariale,5,140,0,0,0,True,21,0,,,,,0,,1965,185,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXHRK/
+4,Woluwe-Saint-Pierre,Appartement,,449000,notariale,4,110,0,0,0,True,8,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXHNW/
+5,Woluwe-Saint-Pierre,Appartement,,389000,notariale,3,92,0,0,0,True,8,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXHNV/
+6,Forest,Appartement,,265000,notariale,2,75,0,0,0,True,10,0,,,,2,0,,1960,129,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXH8S/
+7,,Projet,,485000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/projet-immobilier/10044K1/
+8,Bruxelles,Bien professionnel,,775000,notariale,0,860,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXH13/
+9,Bruxelles,Bien professionnel,Bien commercial,299500,notariale,0,70,0,0,0,,,0,,,,2,0,,2012,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXH01/
+0,Laeken,Maison,,299000,notariale,6,110,0,0,0,,,0,,,,,0,,1926,701,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JXWV7/
+1,Molenbeek-Saint-Jean,Appartement,,165000,notariale,3,50,0,0,0,,,0,,,,2,0,,1989,306,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXWV5/
+2,Bruxelles,Maison,Villa,2275000,notariale,9,390,0,0,0,True,40,1,,,,3,0,,1920,562,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXWUI/
+3,Woluwe-Saint-Pierre,Appartement,Penthouse,1390000,notariale,6,214,0,0,0,True,110,0,,,,2,0,,1958,540,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXWUJ/
+4,Watermael-Boitsfort,Appartement,,335000,notariale,2,90,0,0,0,True,27,1,,,,2,0,,,678,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/appartement/JXWTX/
+5,Schaerbeek,Appartement,,450000,notariale,8,160,0,0,0,True,3,1,,,449,,0,old,1966,338,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JW6XK/
+6,Etterbeek,Appartement,Studio avec coin lit,175000,notariale,2,36,0,0,0,,,0,,,,2,0,,1970,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXWNC/
+7,Etterbeek,Appartement,,875000,notariale,4,125,0,0,0,True,42,0,,,,3,0,,2011,165,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXWNB/
+8,Bruxelles,Appartement,,135000,notariale,2,18,0,0,0,True,4,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXWCY/
+9,Etterbeek,Maison,Usage mixte,1290000,notariale,17,460,0,0,0,,,0,,,,3,0,,,362,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JXWEX/
+0,Schaerbeek,Appartement,,250000,notariale,2,78,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWMUI/
+1,Schaerbeek,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWMUF/
+2,Laeken,Appartement,,330000,notariale,3,107,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JWMUB/
+3,Schaerbeek,Appartement,,330000,notariale,3,107,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWMUC/
+4,Bruxelles,Appartement,,250000,notariale,2,78,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWMUJ/
+5,Bruxelles,Appartement,,330000,notariale,3,107,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWMUD/
+6,Schaerbeek,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWMUL/
+7,Bruxelles,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWMUM/
+8,Bruxelles,Appartement,,396500,notariale,5,131,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWMUA/
+9,Laeken,Appartement,,396500,notariale,5,131,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JWMU8/
+0,Woluwe-Saint-Lambert,Garage,,57000,notariale,1,,0,0,0,,,0,,,,,0,,2001,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JXLCZ/
+1,Bruxelles,Appartement,,364000,notariale,4,100,0,0,0,True,4,0,,,,2,0,,,313,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXL2C/
+2,Schaerbeek,Bien professionnel,,4500000,notariale,28,250,0,0,0,,,0,,,,2,0,,,191,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JXL2E/
+3,Woluwe-Saint-Lambert,Appartement,,448000,notariale,3,105,0,0,0,,,0,,,,2,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXKRR/
+4,Schaerbeek,Maison,,540000,notariale,9,230,0,0,0,True,20,1,,,,2,0,,1890,409,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXKRM/
+5,,Appartement,,119000,notariale,2,,0,0,0,,,0,,,,2,0,,1960,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXKS1/
+6,Ganshoren,Appartement,,170000,notariale,1,60,0,0,0,True,40,0,,,,4,0,,1972,324,https://www.zimmo.be/fr/ganshoren-1083/a-vendre/appartement/JXKK8/
+7,Molenbeek-Saint-Jean,Bien professionnel,Bâtiment d’entreprise,675000,notariale,3,550,0,0,0,True,90,0,,,,2,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JXKHE/
+8,Schaerbeek,Appartement,,215000,notariale,4,80,0,0,0,,,0,,,,,0,,,253,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXKJE/
+9,Schaerbeek,Appartement,Duplex,315000,notariale,5,135,0,0,0,,,1,,,,,0,,,253,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXKJF/
+0,Uccle,Appartement,,365000,notariale,3,96,0,0,0,True,10,0,,,,3,0,old,2017,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX9GJ/
+1,Woluwe-Saint-Lambert,Appartement,Studio avec coin lit,299000,notariale,2,59,0,1,0,,,0,,,,,0,new,1997,132,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JX9G1/
+2,Bruxelles,Appartement,Penthouse,460000,notariale,6,183,0,0,0,True,20,0,,,183,2,0,new,1926,365,https://www.zimmo.be/fr/bruxelles-1070/a-vendre/appartement/JX9D8/
+3,Bruxelles,Appartement,,260000,notariale,2,61,0,0,0,,,0,,,,,0,,,105,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX99Z/
+4,Auderghem,Appartement,,795000,notariale,5,22,0,0,0,True,50,0,,,,,0,old,2020,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JX93D/
+5,Bruxelles,Appartement,,215000,notariale,1,54,0,0,0,,,0,,,,,0,old,2012,294,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX8VH/
+6,Bruxelles,Appartement,,369000,notariale,4,130,0,0,0,,,0,,,,,0,,,129,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX8N3/
+7,Saint-Gilles,Maison,,215000,notariale,4,114,0,0,0,True,13,0,,,,2,0,,,192,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/maison/JX8LT/
+8,Forest,Appartement,,260000,notariale,4,85,0,0,0,True,7,0,,,,3,0,old,2004,137,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JX8LU/
+9,Bruxelles,Bien professionnel,Bâtiment d’entreprise,845000,notariale,0,615,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JX8EF/
+0,Evere,Appartement,,324500,notariale,2,90,0,0,0,True,10,0,,,,,0,old,2018,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JWVEB/
+1,Evere,Appartement,,525000,notariale,5,70,0,0,0,True,30,0,,,,,0,old,2019,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JWVEA/
+2,Evere,Appartement,Studio avec coin lit,257500,notariale,1,70,0,0,0,True,10,0,,,,,0,old,2018,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JWVE9/
+3,Molenbeek-Saint-Jean,Appartement,Duplex,450000,notariale,8,215,0,0,1,True,7,0,,,,2,0,old,1977,177,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JWVAW/
+4,Ixelles,Appartement,,1150000,notariale,4,150,0,0,0,True,22,0,,,,,0,new,1955,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JWUOK/
+5,Bruxelles,Maison,,1400000,notariale,8,300,0,0,0,True,20,1,,,209,2,0,new,1928,274,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JWUOL/
+6,Auderghem,Appartement,,450000,notariale,5,110,0,0,0,,,0,110,,,4,0,,,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWUOB/
+7,Ixelles,Appartement,,1839000,notariale,5,203,0,0,0,True,11,0,,,,2,0,new,2015,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JWUJK/
+8,Auderghem,Appartement,,519000,notariale,5,86,0,0,0,True,70,0,,,,,0,old,2022,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWUJH/
+9,Bruxelles,Appartement,Penthouse,476000,notariale,6,148,0,0,0,True,33,0,,,,3,0,old,2020,,https://www.zimmo.be/fr/bruxelles-1130/a-vendre/appartement/JWUJJ/
+0,Forest,Maison,Château,4950000.0,notariale,15,800,0,0,0,True,100,1,,,895,4,0,new,1968,484,https://www.zimmo.be/fr/forest-1190/a-vendre/maison/JMA1V/
+1,Uccle,Appartement,Studio,160000.0,notariale,1,35,0,0,0,,,1,,,,,0,,,291,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JM5F5/
+2,Auderghem,Garage,Place de stationnement,32000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/garage/JM39J/
+3,Laeken,Kot-Colocation,,195725.0,notariale,1,25,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/laeken-1020/a-vendre/kot-colocation/JLT1M/
+4,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,226,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JLAKQ/
+5,Forest,Appartement,Loft,1095000.0,notariale,7,450,0,0,0,True,52,0,450,65,515,3,0,new,1977,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JKMAH/
+6,Forest,Appartement,Loft,1250000.0,notariale,7,745,0,0,0,True,52,0,450,65,515,3,0,new,1977,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JKMAG/
+7,Evere,Appartement,,456376.0,notariale,5,70,0,0,0,True,30,1,,,,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JK2YB/
+8,Haren,Garage,,20000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/garage/JK2WZ/
+9,Evere,Appartement,,323985.0,notariale,3,30,0,0,0,True,20,1,,,,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JK2X0/
+0,Schaerbeek,Bien professionnel,Immeuble d’appartements,825000,notariale,6,235,0,0,0,,,0,,,66,2,0,new,1914,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JVJWN/
+1,Bruxelles,Bien professionnel,,775000,notariale,8,830,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JVJ7I/
+2,Bruxelles,Appartement,,775000,notariale,8,830,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVJ7H/
+3,Berchem-Sainte-Agathe,Appartement,Penthouse,435000,notariale,6,112,0,0,0,,,0,,,,2,0,old,2014,107,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JVJ66/
+4,Bruxelles,Appartement,,550000,notariale,5,80,0,0,0,True,14,0,,,,,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVIW4/
+5,Bruxelles,Appartement,,515000,notariale,5,130,0,0,0,True,15,0,,,,,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVIW5/
+6,Molenbeek-Saint-Jean,Appartement,,269000,notariale,5,104,0,0,0,True,2,0,104,,,2,0,,,383,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JVIJ4/
+7,Jette,Appartement,Flat,110000,notariale,1,35,0,0,0,True,50,0,,,,,0,old,1975,343,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JVI0F/
+8,Schaerbeek,Maison,,515000,notariale,4,210,0,0,0,True,20,0,,,,,0,,,114,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JVHZH/
+9,Uccle,Maison,,645000,notariale,7,170,0,0,0,True,20,1,,,203,,0,new,1958,214,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JVH74/
+0,Bruxelles,Appartement,,390000,notariale,4,20,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA4/
+1,Bruxelles,Appartement,,570000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAL/
+2,Bruxelles,Appartement,,540000,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA7/
+3,Bruxelles,Appartement,,540000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAA/
+4,Bruxelles,Appartement,,395000,notariale,4,70,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA8/
+5,Bruxelles,Appartement,,515000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA2/
+6,Bruxelles,Appartement,,530000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA6/
+7,Bruxelles,Appartement,,370000,notariale,4,70,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQ9Z/
+8,Etterbeek,Appartement,Duplex,390000,notariale,3,73,0,0,0,,,1,,,,,0,old,1910,128,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JUPUP/
+9,Laeken,Bien professionnel,Bâtiment commercial,1375000,notariale,9,517,0,0,0,True,29,0,,,,,0,old,1910,284,https://www.zimmo.be/fr/laeken-1020/a-vendre/bien-professionnel/JUPP0/
+0,Auderghem,Appartement,,1425000,notariale,7,250,0,0,0,True,40,0,,,,4,0,,1997,159,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JXT11/
+1,Woluwe-Saint-Lambert,Appartement,Penthouse,780000,notariale,6,140,0,1,0,True,40,0,,,,4,0,,2017,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXT13/
+2,,Projet,,200000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/10045YA/
+3,,Projet,,1500000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/10045PX/
+4,,Projet,,1450000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/10045Q0/
+5,,Projet,,440000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/projet-immobilier/10045Q1/
+6,,Projet,,180000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/forest-1190/a-vendre/projet-immobilier/10045PZ/
+7,,Projet,,230000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/projet-immobilier/10045PY/
+8,Berchem-Sainte-Agathe,Maison,,749000,notariale,9,265,0,0,0,True,50,0,,,,2,0,,1972,120,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/maison/JXSRO/
+9,Schaerbeek,Garage,Place de stationnement,70000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/garage/JXSRG/
+0,Anderlecht,Maison,Autre,349000,notariale,7,200,0,0,0,,,0,,,,2,0,,,357,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JW3JU/
+1,Bruxelles,Kot-Colocation,,135000,notariale,2,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/kot-colocation/JW2Z7/
+2,Schaerbeek,Bien professionnel,,765000,notariale,15,200,0,0,0,,,0,,,75,2,0,,,223,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JW27Z/
+3,Bruxelles,Appartement,,435000,notariale,3,100,0,0,0,True,8,0,,,,2,0,,,107,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JW27Y/
+4,Molenbeek-Saint-Jean,Bien professionnel,,669000,notariale,10,400,0,0,0,,,0,,,173,2,0,,,261,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JW0CJ/
+5,Schaerbeek,Maison,Usage mixte,448000,notariale,8,185,0,0,0,,,0,,,,2,0,,,502,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JW0CF/
+6,Bruxelles,Appartement,,229000,notariale,3,39,0,1,0,True,4,0,,,,,0,old,1912,244,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVZJE/
+7,Schaerbeek,Appartement,Studio,1000000,notariale,5,340,0,0,0,,,0,,,340,,0,,,199,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JVZAY/
+8,Bruxelles,Bien professionnel,Bureaux,995000,notariale,0,139,0,0,0,,,0,,,482,3,0,old,2006,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JVZ51/
+9,Koekelberg,Appartement,,150000,notariale,2,55,0,0,0,True,2,0,,,,,0,old,1972,193,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JVZ04/
+0,Uccle,Maison,Villa,2750000,notariale,12,450,0,0,0,,,1,,,600,4,0,new,1920,487,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JG2J0/
+1,Woluwe-Saint-Pierre,Maison,Villa,3800000,notariale,11,600,0,0,0,True,80,1,,,367,4,0,old,2005,159,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JG2HO/
+2,Anderlecht,Appartement,,249000,notariale,3,75,0,0,0,,,0,75,,,4,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JCUQE/
+3,Anderlecht,Bien professionnel,Rez-de-chaussée commercial,920000,notariale,0,,0,0,0,,,0,,,,2,0,old,2018,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JCNOJ/
+4,Anderlecht,Appartement,Serviceflat,299000,notariale,3,65,0,0,0,True,61,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JCDAO/
+5,Anderlecht,Appartement,Serviceflat,236500,notariale,2,31,0,0,0,True,67,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JCDAP/
+6,Bruxelles,Garage,Place de stationnement,230000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JBBF2/
+7,Auderghem,Bien professionnel,Immeuble de bureaux,995000,notariale,6,340,0,0,0,True,107,1,,,552,2,0,old,1999,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JAHVV/
+8,Laeken,Maison,Maison exceptionnelle,990000,notariale,8,494,0,0,0,True,25,1,,,315,2,0,old,1903,464,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JAAZO/
+9,Ixelles,Bien professionnel,Autre,249000,notariale,0,,0,0,0,,,0,90,0,90,,0,old,2019,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/IX8XL/
+0,Bruxelles,Appartement,,320000.0,notariale,3,95,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXMBI/
+1,Ixelles,Appartement,Penthouse,690000.0,notariale,5,125,0,0,0,True,25,0,,,,,0,,1958,847,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXK9P/
+2,Uccle,Appartement,Penthouse,690000.0,notariale,5,125,0,0,0,True,25,0,,,,,0,,1958,847,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXH8B/
+3,Uccle,Maison,Maison exceptionnelle,2290000.0,notariale,11,540,0,0,0,,,1,125,111,236,2,0,old,1915,290,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JX0MV/
+4,Ixelles,Appartement,Penthouse,800000.0,notariale,7,220,0,0,0,True,40,0,240,220,460,2,0,old,1977,250,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JX7LK/
+5,Anderlecht,Maison,,550000.0,notariale,9,245,0,0,0,,,1,,,121,2,0,,,291,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXANR/
+6,,Appartement,,,notariale,5,112,0,0,0,True,4,0,,,,2,0,,2021,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXM4A/
+7,Uccle,Appartement,Penthouse,1450000.0,notariale,5,32,0,0,0,True,38,0,,,,,0,,2020,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXM48/
+8,Uccle,Appartement,,580000.0,notariale,3,84,0,0,0,True,18,0,,,,,0,,2020,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXM47/
+9,Ixelles,Bien professionnel,Commerce,455000.0,notariale,1,110,0,0,0,,,0,,,,2,0,,2014,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JXM4C/
+0,Uccle,Appartement,,840000,notariale,7,235,0,0,1,,,1,,,,,0,,,233,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWKOQ/
+1,Saint-Gilles,Maison,Maison de ville,520000,notariale,9,240,0,0,0,,,0,65,0,65,2,0,new,1918,357,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/maison/JWKCN/
+2,Uccle,Maison,,495000,notariale,6,230,0,0,0,True,50,1,,,256,3,0,old,1996,281,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JWK83/
+3,Saint-Gilles,Appartement,Penthouse,799000,notariale,10,237,0,0,0,,,0,,,237,2,0,old,1989,353,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JWJZ4/
+4,Etterbeek,Appartement,,275000,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JWJQJ/
+5,Berchem-Sainte-Agathe,Appartement,,135000,notariale,3,40,0,0,0,,,0,,,,2,0,old,1968,637,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JWJIS/
+6,Uccle,Maison,Villa,2250000,notariale,8,450,0,0,0,,,1,,,850,4,0,new,1897,407,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JWJ8F/
+7,Anderlecht,Maison,Maison bourgeoise,499000,notariale,7,235,0,0,0,,,0,,,66,2,0,new,1905,375,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JWINI/
+8,Watermael-Boitsfort,Maison,,795000,notariale,7,200,0,0,0,True,60,1,,,293,2,0,old,1989,154,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JWIE7/
+9,Anderlecht,Appartement,,215000,notariale,5,95,0,0,0,,,0,,,,,0,,,267,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JWHGU/
+0,Uccle,Appartement,,470000,notariale,4,128,0,0,0,True,43,0,,,,,0,,1980,197,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXUDY/
+1,Schaerbeek,Appartement,,249000,notariale,2,56,0,0,0,,,0,,,,2,0,,2007,206,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXUDL/
+2,Bruxelles,Appartement,,254000,notariale,3,67,0,0,0,,,0,,,,2,0,,1936,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXUAL/
+3,Bruxelles,Appartement,,229000,notariale,4,72,0,0,0,,,0,,,,,0,,2011,191,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXU57/
+4,Woluwe-Saint-Pierre,Appartement,,1275000,notariale,8,200,0,0,0,True,25,0,,,,,0,,2000,183,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXU4E/
+5,Uccle,Maison,Villa,1995000,notariale,8,312,0,0,0,,,1,,,,4,0,,1965,,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXU4K/
+6,Uccle,Appartement,Penthouse,2985000,notariale,12,400,0,0,0,True,100,0,,,,4,0,,1993,150,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXU4H/
+7,Uccle,Appartement,Penthouse,1095000,notariale,9,265,0,0,0,True,26,0,,,,4,0,,1987,468,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXU4J/
+8,Uccle,Appartement,,690000,notariale,4,173,0,0,0,True,22,0,,,,2,0,,1904,220,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXU4G/
+9,Forest,Appartement,App. rez-de-chaussée,229000,notariale,2,70,0,0,0,True,15,1,,,,2,0,,,360,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXU3S/
+0,Bruxelles,Appartement,Penthouse,850000,notariale,5,213,0,0,0,True,43,0,,,256,,0,old,2007,155,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX2F1/
+1,Uccle,Appartement,,395000,notariale,5,110,0,0,0,True,9,0,,,,,0,old,1965,154,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX2D4/
+2,Anderlecht,Garage,Garage en sous-sol,20000,notariale,1,,0,0,0,,,0,,,,,0,old,2018,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/garage/JX2AC/
+3,Anderlecht,Garage,Place de stationnement,10000,notariale,0,,0,0,0,,,0,,,,,0,old,2018,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/garage/JX2AD/
+4,Laeken,Appartement,Duplex,475000,notariale,3,163,0,0,0,True,8,0,,,,3,0,old,1964,214,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JX288/
+5,Bruxelles,Appartement,,275000,notariale,3,80,0,0,0,,,0,,,,,0,old,2015,463,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX27H/
+6,Schaerbeek,Appartement,,205000,notariale,2,65,0,0,0,,,0,,,,,0,old,2012,168,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JX1YM/
+7,Woluwe-Saint-Lambert,Garage,Place de stationnement,47000,notariale,0,57,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JVVAZ/
+8,Woluwe-Saint-Lambert,Maison,,845000,notariale,8,190,0,0,0,True,24,1,,,186,2,0,new,1953,472,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JX1OW/
+9,Woluwe-Saint-Pierre,Maison,,1775000,notariale,11,475,0,0,0,,,1,,,195,4,0,old,1969,316,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JX1OY/
+0,Schaerbeek,Appartement,,275000,notariale,2,82,0,0,0,True,16,0,,,,,0,,2013,132,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY0R6/
+1,,Projet,,557600,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/projet-immobilier/10045SA/
+2,,Projet,,257500,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/evere-1140/a-vendre/projet-immobilier/10045SB/
+3,,Projet,,350000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/projet-immobilier/10045S9/
+4,Ixelles,Maison,,2250000,notariale,10,485,0,0,0,,,1,,,,2,0,,1908,144,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JY0LF/
+5,Schaerbeek,Appartement,,364000,notariale,4,101,0,0,0,True,11,0,,,,,0,,2012,154,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY0KO/
+6,Schaerbeek,Appartement,,170000,notariale,1,31,0,0,0,True,5,0,,,,,0,,2008,239,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY0KN/
+7,Etterbeek,Bien professionnel,Entrepôt,330000,notariale,0,277,0,0,0,,,0,,,,,0,old,1915,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JWJZL/
+8,Uccle,Maison,,365000,notariale,4,127,0,0,0,,,1,,,154,,0,,,450,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JWO0Q/
+9,,Projet,,250000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/projet-immobilier/10044XV/
 0,Haren,Bien professionnel,Bureaux,338027,notariale,1,672,0,0,0,,,0,,,,2,0,,2019,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JY2QW/
 1,Jette,Appartement,,215000,notariale,3,59,0,0,0,,,0,,,,2,0,,2013,,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JY2QO/
+0,Anderlecht,Appartement,,175000,notariale,2,79,0,0,0,,,0,,,88,3,0,new,1948,304,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JVS3T/
+1,Etterbeek,Maison,,599000,notariale,6,285,0,0,0,,,1,,,330,2,0,old,1918,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JVS25/
+2,Bruxelles,Garage,Place de stationnement,21000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JVRI6/
+3,Woluwe-Saint-Lambert,Appartement,,450000,notariale,4,130,0,0,0,True,14,0,,,,,0,old,2010,189,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JVRAX/
+4,Etterbeek,Bien professionnel,Immeuble d’appartements,599000,notariale,6,243,0,0,0,,,1,,,143,2,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JVR1G/
+5,Bruxelles,Appartement,,1600000,notariale,4,217,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVQQ9/
+6,Bruxelles,Appartement,,1600000,notariale,4,220,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVQQ8/
+7,Bruxelles,Appartement,,660000,notariale,3,143,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVQPJ/
+8,Bruxelles,Appartement,,320000,notariale,4,121,0,0,0,,,0,,,,2,0,old,2006,129,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVFX6/
+9,Anderlecht,Appartement,Duplex,249000,notariale,5,113,0,0,0,,,0,,,150,2,0,new,1933,623,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JVQJN/
 0,Bruxelles,Appartement,,385000.0,notariale,3,70,0,0,0,,,0,,,,2,0,,2018,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY3WT/
 1,Etterbeek,Appartement,,230000.0,notariale,2,64,0,0,0,True,65,0,,,,3,0,,1962,704,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JY3WQ/
 2,Schaerbeek,Appartement,,285000.0,notariale,4,108,0,0,0,,,0,,,,2,0,,1903,220,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY3WP/
@@ -11,6 +291,136 @@
 7,Ixelles,Appartement,,342000.0,notariale,4,85,0,0,0,True,34,0,,,,2,0,,,416,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WB/
 8,Bruxelles,Appartement,,355000.0,notariale,3,70,0,0,0,,,0,,,,2,0,,2018,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY3WE/
 9,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JY3YU/
+0,Bruxelles,Bien professionnel,Bâtiment d’entreprise,2685000,notariale,0,794,0,0,0,,,0,,,,,0,old,2021,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JTSG8/
+1,Ixelles,Appartement,,1690000,notariale,6,285,0,0,0,,,0,,,,,0,,,214,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JTQV1/
+2,Molenbeek-Saint-Jean,Appartement,,255000,notariale,5,109,0,0,0,,,0,,,,,0,old,2007,157,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JTQQM/
+3,Anderlecht,Maison,,370000,notariale,7,253,0,0,0,True,30,1,,,159,,0,old,1953,284,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JTQKK/
+4,Woluwe-Saint-Pierre,Maison,Villa,2985000,notariale,7,480,0,0,0,True,67,1,,,270,4,0,new,1950,147,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JTQ72/
+5,Uccle,Appartement,,850000,notariale,8,263,0,0,0,,,0,,,,,0,new,1953,215,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JTQ73/
+6,Ixelles,Appartement,,1395000,notariale,8,340,0,0,0,True,20,0,,,,2,0,new,1937,234,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JTOZ8/
+7,Bruxelles,Appartement,App. rez-de-chaussée,690000,notariale,3,170,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JTNNX/
+8,Bruxelles,Appartement,,420000,notariale,3,89,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JTNNZ/
+9,Bruxelles,Appartement,App. rez-de-chaussée,420000,notariale,3,98,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JTNNY/
+0,Anderlecht,Maison,,379000,notariale,5,190,0,0,0,True,5,0,46,4,50,2,0,new,1900,298,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JWUCL/
+1,Uccle,Appartement,,185000,notariale,2,60,0,0,0,True,10,0,,,,2,0,old,1972,218,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JVXB2/
+2,Uccle,Maison,,390000,notariale,4,130,0,0,0,True,23,0,,,76,2,0,new,1919,235,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JVMCK/
+3,Uccle,Appartement,,795000,notariale,4,165,0,0,0,,,0,,,,,0,new,,157,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWU7R/
+4,Ixelles,Maison,,2350000,notariale,9,540,0,0,0,True,50,1,,,170,2,0,new,1932,268,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JWTXX/
+5,Koekelberg,Maison,,429000,notariale,6,205,0,0,0,True,15,1,,,210,2,0,new,1930,438,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/maison/JWTMN/
+6,Anderlecht,Appartement,Penthouse,499000,notariale,3,220,0,0,0,True,15,0,,,700,,0,new,1872,164,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JWTML/
+7,Bruxelles,Appartement,Penthouse,525000,notariale,1,114,0,0,0,,,0,,,,2,0,old,1881,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWTF6/
+8,Molenbeek-Saint-Jean,Appartement,,265000,notariale,5,140,0,0,1,True,8,0,,,,,0,old,1962,221,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JWTBU/
+9,Molenbeek-Saint-Jean,Appartement,,150000,notariale,2,50,0,0,0,,,0,,,,,0,old,1958,219,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JWTBG/
+0,Schaerbeek,Appartement,,396500,notariale,5,131,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWMU9/
+1,Bruxelles,Maison,,850000,notariale,4,,0,0,0,,,0,,,,,0,new,,248,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JWMDK/
+2,Etterbeek,Appartement,,290000,notariale,4,90,0,0,0,,,0,,,,,0,old,1960,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JWM05/
+3,Haren,Bien professionnel,Bâtiment d’entreprise,399100,notariale,0,292,0,0,0,,,0,292,0,292,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JWLXK/
+4,Haren,Bien professionnel,Bâtiment d’entreprise,427700,notariale,0,314,0,0,0,,,0,314,0,314,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JWLXJ/
+5,Bruxelles,Bien professionnel,,1149000,notariale,0,350,0,0,0,,,0,,,,2,0,old,1744,927,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JWL61/
+6,Koekelberg,Maison,,669000,notariale,7,280,0,0,0,True,20,1,80,95,175,2,0,new,1891,226,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/maison/JWL1H/
+7,Forest,Appartement,,350000,notariale,3,109,0,0,0,True,9,0,109,0,109,3,0,old,2010,226,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JWKYE/
+8,Woluwe-Saint-Pierre,Appartement,,389000,notariale,4,124,0,0,0,True,9,0,,,,2,0,old,1991,226,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JWKWG/
+9,Bruxelles,Appartement,,230000,notariale,4,80,0,0,0,,,0,,,,,0,new,,224,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWKP4/
+0,Uccle,Appartement,,420000,notariale,5,120,0,0,0,True,50,0,,,,2,0,,1977,155,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JY4RE/
+1,Anderlecht,Appartement,,289000,notariale,4,93,0,0,0,True,40,0,,,,,0,,2012,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JY4QU/
+2,Laeken,Appartement,,189000,notariale,4,78,0,0,0,True,2,0,,,,,0,,1969,227,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JY4KQ/
+3,Laeken,Appartement,,295000,notariale,5,100,0,0,0,,,0,,,,2,0,,1960,343,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JY4FP/
+4,Molenbeek-Saint-Jean,Appartement,,345000,notariale,3,117,0,0,0,,,1,,,,3,0,,1896,360,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JY4GT/
+5,Auderghem,Maison,,835000,notariale,9,280,0,0,1,,,0,,,,3,0,,1974,269,https://www.zimmo.be/fr/auderghem-1160/a-vendre/maison/JY4EJ/
+6,Saint-Gilles,Garage,,20000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/garage/JY4C1/
+7,Forest,Appartement,,269000,notariale,2,80,0,0,0,True,15,0,,,,2,0,,1920,249,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JY4BT/
+8,Ixelles,Appartement,Studio,545000,notariale,3,150,0,0,0,,,0,,,,,0,,1930,237,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY4BL/
+9,Watermael-Boitsfort,Appartement,Duplex,360000,notariale,2,80,0,0,0,True,9,0,,,,,0,,1982,273,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/appartement/JY4BJ/
+0,Schaerbeek,Appartement,Duplex,245000,notariale,3,115,0,0,0,,,0,,,,,0,,,463,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXRE2/
+1,Schaerbeek,Appartement,,140000,notariale,2,68,0,0,0,,,0,,,,,0,,,444,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXRE0/
+2,Schaerbeek,Appartement,,150000,notariale,1,62,0,0,0,True,18,0,,,,,0,,,479,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXRDZ/
+3,Schaerbeek,Maison,,475000,notariale,6,300,0,0,0,True,52,0,,,,2,0,,,313,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXRDY/
+4,Schaerbeek,Appartement,App. rez-de-chaussée,150000,notariale,1,62,0,0,0,True,18,0,,,,,0,,,479,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXRE3/
+5,Schaerbeek,Appartement,,245000,notariale,3,115,0,0,0,,,0,,,,,0,,,463,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXRE1/
+6,Watermael-Boitsfort,Maison,,825000,notariale,8,230,0,0,0,True,26,1,,,,3,0,,1991,280,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXRC5/
+7,Saint-Josse-ten-Noode,Appartement,Studio avec coin lit,180000,notariale,3,63,0,0,0,,,1,,,,2,0,,2005,217,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JVYYK/
+8,Etterbeek,Appartement,,199900,notariale,2,70,0,0,0,,,0,,,,2,0,,1971,251,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXR6U/
+9,,Projet,,880000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/projet-immobilier/10045PL/
+0,Etterbeek,Appartement,,240000,notariale,2,65,0,0,0,True,7,0,,,,,0,,,209,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JY224/
+1,Bruxelles,Maison,,465000,notariale,3,150,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JY225/
+2,Schaerbeek,Appartement,Studio avec coin lit,140000,notariale,2,40,0,0,0,True,35,0,,,,,0,,,165,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY1YF/
+3,Laeken,Appartement,,179000,notariale,1,55,0,0,0,True,30,0,,,,2,0,,,225,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JY1SM/
+4,Laeken,Appartement,,269000,notariale,4,100,0,0,0,True,6,0,,,,,0,,,153,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JY1UU/
+5,Ixelles,Maison,,760000,notariale,8,300,0,0,0,,,1,,,,2,0,,1899,515,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JY1V0/
+6,Etterbeek,Bien professionnel,Commerce,360000,notariale,0,100,0,0,0,True,15,1,,,,2,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JY1US/
+7,Ixelles,Maison,,2750000,notariale,13,668,0,0,0,,,1,,,,2,0,,1930,203,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JY1TV/
+8,Forest,Maison,,2750000,notariale,13,668,0,0,0,,,1,,,,2,0,,1930,203,https://www.zimmo.be/fr/forest-1190/a-vendre/maison/JY1TU/
+9,Forest,Maison,,2250000,notariale,10,485,0,0,0,,,1,,,,2,0,,1910,144,https://www.zimmo.be/fr/forest-1190/a-vendre/maison/JY1TW/
+0,Woluwe-Saint-Lambert,Appartement,,448000,notariale,3,105,0,0,0,,,0,,,,2,0,old,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JVAGI/
+1,Forest,Appartement,Duplex,439000,notariale,6,187,0,0,0,True,12,0,000,,,2,0,new,2019,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JV9O6/
+2,Bruxelles,Appartement,Penthouse,849000,notariale,6,225,0,0,1,,,0,,,,2,0,old,1990,148,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JV972/
+3,Bruxelles,Appartement,Penthouse,1890000,notariale,4,380,0,0,0,True,300,0,,,,,0,old,1875,221,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JKE19/
+4,Ixelles,Appartement,Penthouse,749000,notariale,4,112,0,0,0,,,1,,,350,,0,old,1890,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JUU8U/
+5,Ixelles,Appartement,,849000,notariale,4,157,0,0,0,,,1,,,,,0,old,1890,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JUU8S/
+6,Ixelles,Maison,Usage mixte,3850000,notariale,0,696,0,0,0,,,1,,,326,,0,old,1890,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JUU8T/
+7,Forest,Bien professionnel,Rez-de-chaussée commercial,1350000,notariale,0,000,0,0,0,,,0,000,,000,2,0,old,2019,,https://www.zimmo.be/fr/forest-1190/a-vendre/bien-professionnel/JV8N8/
+8,Etterbeek,Bien professionnel,Rez-de-chaussée commercial,205000,notariale,0,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JV6ZU/
+9,Woluwe-Saint-Pierre,Appartement,,540000,notariale,3,94,0,0,0,True,5,0,,,,2,0,old,2020,114,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JV6PD/
+0,Uccle,Bien professionnel,Immeuble de bureaux,1575000,notariale,0,,0,0,0,,,0,600,,,2,0,new,1989,159,https://www.zimmo.be/fr/uccle-1180/a-vendre/bien-professionnel/JWX7S/
+1,Uccle,Appartement,Triplex,850000,notariale,7,220,0,0,0,,,0,162,,,2,0,new,1989,159,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWX7R/
+2,Uccle,Bien professionnel,Bureaux,800000,notariale,0,,0,0,0,,,0,600,,,2,0,new,1989,,https://www.zimmo.be/fr/uccle-1180/a-vendre/bien-professionnel/JWX7T/
+3,Uccle,Appartement,,350000,notariale,5,125,0,0,0,,,0,,,,,0,new,1881,273,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWWV0/
+4,Bruxelles,Appartement,,540000,notariale,6,160,0,0,0,,,0,,,,,0,old,1970,327,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWWHN/
+5,Schaerbeek,Maison,,525000,notariale,4,176,0,0,0,,,1,,,245,,0,old,1961,276,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JVKVG/
+6,Bruxelles,Appartement,,275000,notariale,2,66,0,0,0,,,0,,,,2,0,,,239,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWVOA/
+7,Uccle,Maison,,440000,notariale,6,163,0,0,0,,,1,,,321,,0,old,1964,480,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JWVMZ/
+8,Bruxelles,Appartement,,325000,notariale,3,98,0,0,0,,,0,,,,,0,old,1850,146,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWVLK/
+9,Evere,Appartement,,396500,notariale,3,90,0,0,0,True,10,0,,,,,0,old,2019,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JWVEC/
+0,Bruxelles,Appartement,,345000.0,notariale,4,117,0,0,0,True,32,0,,,,,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVH2L/
+1,Ixelles,Appartement,,540000.0,notariale,4,124,0,0,0,,,1,,,340,,0,old,1890,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JUU8W/
+2,Bruxelles,Appartement,,225000.0,notariale,2,,0,0,0,,,0,,,48,,0,old,2009,276,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JNQGG/
+3,Berchem-Sainte-Agathe,Appartement,Penthouse,260000.0,notariale,2,78,0,0,0,True,70,0,128,0,128,3,0,old,2011,186,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JVF6G/
+4,Auderghem,Maison,,635000.0,notariale,5,282,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/maison/JVESK/
+5,,Appartement,,,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JVE8M/
+6,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,276,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JT02H/
+7,Saint-Gilles,Bien professionnel,Commerce,240000.0,notariale,3,,0,0,0,,,0,,,,,0,new,,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/bien-professionnel/JVE3B/
+8,Neder-over-Heembeek,Terrain,Terrain à bâtir,458000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/terrain/JVDYF/
+9,Neder-over-Heembeek,Terrain,Terrain à bâtir,229000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/terrain/JVDYG/
+0,Bruxelles,Appartement,Penthouse,449500,notariale,3,,0,0,0,,,0,,,,,0,,,298,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX0J6/
+1,Haren,Bien professionnel,Entrepôt,845000,notariale,0,615,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX07L/
+2,Haren,Bien professionnel,Entrepôt,303175,notariale,0,219,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX07M/
+3,Haren,Bien professionnel,Entrepôt,427700,notariale,0,314,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX07J/
+4,Haren,Bien professionnel,Entrepôt,855950,notariale,0,493,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX07K/
+5,Haren,Bien professionnel,Entrepôt,399100,notariale,0,292,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX07I/
+6,Etterbeek,Appartement,Penthouse,850000,notariale,6,187,0,0,0,True,25,0,,,,2,0,new,,151,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX02G/
+7,Uccle,Maison,Villa,710000,notariale,6,80,0,0,0,True,53,1,,,,4,0,old,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JX02F/
+8,Bruxelles,Appartement,Duplex,650000,notariale,5,312,0,0,0,,,1,,,303,2,0,new,1874,339,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWZTO/
+9,Anderlecht,Maison,Usage mixte,1900000,notariale,0,100,0,0,0,,,1,,,325,,0,old,1878,387,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JVRWI/
+0,Woluwe-Saint-Lambert,Garage,,29500,notariale,0,,0,0,0,,,1,,,,,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JY2N4/
+1,Woluwe-Saint-Lambert,Garage,,21500,notariale,0,,0,0,0,,,1,,,,4,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JY2N5/
+2,Woluwe-Saint-Lambert,Garage,,30500,notariale,0,,0,0,0,,,1,,,,2,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JY2N8/
+3,Forest,Appartement,Duplex,575000,notariale,6,211,0,0,0,,,1,,,,,0,,1935,192,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JY2FL/
+4,Bruxelles,Maison,Bel-étage,510000,notariale,5,216,0,0,0,True,14,1,,,,2,0,,1998,195,https://www.zimmo.be/fr/bruxelles-1120/a-vendre/maison/JY2EX/
+5,Bruxelles,Garage,Garage en sous-sol,19900,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1020/a-vendre/garage/JY2EP/
+6,Forest,Maison,Usage mixte,549000,notariale,8,360,0,0,0,,,0,,,,2,0,,1895,,https://www.zimmo.be/fr/forest-1190/a-vendre/maison/JY2EH/
+7,Schaerbeek,Appartement,,260000,notariale,4,95,0,0,0,True,4,0,,,,,0,,,239,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY2D1/
+8,Bruxelles,Appartement,,569000,notariale,4,140,0,0,0,True,3,0,,,,,0,,,122,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY2D0/
+9,Bruxelles,Appartement,Penthouse,569000,notariale,4,140,0,0,0,True,3,0,,,,,0,,,122,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY2D2/
+0,Anderlecht,Appartement,,315000,notariale,5,105,0,0,0,,,0,,,,2,0,,,343,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JWB0I/
+1,Schaerbeek,Appartement,,192000,notariale,2,73,0,0,0,True,5,0,,,,4,0,old,1958,293,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWB0G/
+2,Uccle,Appartement,,435000,notariale,5,74,0,0,0,True,35,0,,,,,0,old,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWAXN/
+3,Uccle,Appartement,Penthouse,535000,notariale,5,78,0,0,0,True,17,0,,,,,0,old,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWAXP/
+4,Auderghem,Appartement,,521500,notariale,5,84,0,0,0,True,75,0,,,,,0,old,2022,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWAXO/
+5,Uccle,Appartement,,582500,notariale,6,24,0,0,0,True,27,0,,,,,0,old,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JWAXM/
+6,Koekelberg,Garage,Cave,28500,notariale,1,16,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/garage/JWARE/
+7,Schaerbeek,Appartement,,310000,notariale,4,115,0,0,0,,,0,,,,,0,old,1960,248,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWAR2/
+8,Auderghem,Appartement,Studio avec coin lit,185000,notariale,2,42,0,0,0,True,20,0,,,,,0,old,1976,623,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JSKN5/
+9,Woluwe-Saint-Pierre,Maison,,699000,notariale,5,244,0,0,1,True,10,1,,,,2,0,new,1952,239,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JWALC/
+0,Bruxelles,Appartement,,325000,notariale,3,106,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZMH/
+1,Bruxelles,Appartement,,345000,notariale,3,112,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZMG/
+2,Bruxelles,Appartement,,389000,notariale,3,130,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZMF/
+3,Bruxelles,Appartement,,334200,notariale,3,107,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZME/
+4,Bruxelles,Garage,Place de stationnement,27500,notariale,0,,0,0,0,,,0,,,,4,0,,2013,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JXZDO/
+5,Bruxelles,Appartement,,250000,notariale,3,68,0,1,0,True,80,0,,,,2,0,,2009,198,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZDM/
+6,Bruxelles,Appartement,,254000,notariale,3,71,0,1,0,True,4,0,,,,2,0,,2009,256,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZDL/
+7,Auderghem,Bien professionnel,Immeuble d’appartements,795000,notariale,5,285,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JXZEW/
+8,Auderghem,Maison,,795000,notariale,5,285,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/maison/JXZEV/
+9,Bruxelles,Appartement,Studio,430000,notariale,2,108,0,0,0,,,0,,,,,0,,1969,180,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZAB/
 0,Evere,Appartement,,350000,notariale,3,111,0,0,0,True,15,0,,,,4,0,,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY350/
 1,Berchem-Sainte-Agathe,Appartement,Studio,140000,notariale,1,62,0,0,0,,,0,,,,,0,,2007,176,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JY35C/
 2,Haren,Maison,,379000,notariale,6,100,0,0,0,,,1,,,,,0,,1959,646,https://www.zimmo.be/fr/haren-1130/a-vendre/maison/JY2WN/
@@ -21,6 +431,82 @@
 7,Woluwe-Saint-Lambert,Maison,,260000,notariale,2,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JY2RG/
 8,Molenbeek-Saint-Jean,Maison,,435000,notariale,7,216,0,0,0,True,5,1,,,,2,0,,1950,377,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JY2R5/
 9,Haren,Bien professionnel,Bureaux,324522,notariale,0,672,0,0,0,,,0,,,,2,0,,2019,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JY2QT/
+0,Saint-Josse-ten-Noode,Appartement,,350000,notariale,3,114,0,0,1,,,0,,,,,0,,1939,314,https://www.zimmo.be/fr/saint-josse-ten-noode-1000/a-vendre/appartement/JY4B3/
+1,Schaerbeek,Maison,,520000,notariale,5,260,0,0,0,,,0,,,,,0,,,367,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JY499/
+2,Ixelles,Appartement,,198000,notariale,3,36,0,0,0,True,08,0,,,,2,0,,,595,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WM/
+3,Ixelles,Appartement,,165000,notariale,3,34,0,0,0,,,0,,,,2,0,,,362,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WL/
+4,Ixelles,Appartement,,169000,notariale,3,35,0,0,0,,,0,,,,2,0,,,404,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WG/
+5,Ixelles,Appartement,,173000,notariale,3,36,0,0,0,,,0,,,,2,0,,,434,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WI/
+6,Ixelles,Appartement,,161000,notariale,3,34,0,0,0,,,0,,,,2,0,,,412,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WF/
+7,Bruxelles,Appartement,,455000,notariale,4,88,0,0,0,,,0,,,,2,0,,1874,138,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY2QQ/
+8,Woluwe-Saint-Lambert,Garage,,9500,notariale,0,,0,0,0,,,1,,,,2,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JY2N6/
+9,Woluwe-Saint-Lambert,Garage,,29500,notariale,0,,0,0,0,,,1,,,,2,0,,2018,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JY2N7/
+0,Ixelles,Appartement,,545000,notariale,4,110,0,0,1,True,7,0,,,,2,0,old,1985,125,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXB9K/
+1,Uccle,Appartement,,149000,notariale,2,60,0,0,0,,,0,,,,,0,old,1975,165,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXAZO/
+2,Watermael-Boitsfort,Maison,,1850000,notariale,4,360,0,0,1,,,1,,,750,,0,old,1935,228,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXATJ/
+3,Anderlecht,Appartement,,224000,notariale,4,79,0,0,0,,,0,,,,4,0,old,1978,248,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXAD7/
+4,Schaerbeek,Appartement,,355000,notariale,5,118,0,0,0,True,11,0,,,,2,0,old,2012,126,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXA7W/
+5,Jette,Bien professionnel,Complexe de bureaux,570000,notariale,0,,0,0,0,,,0,,,,2,0,new,1930,,https://www.zimmo.be/fr/jette-1090/a-vendre/bien-professionnel/JXA56/
+6,Schaerbeek,Appartement,,339000,notariale,5,130,0,0,0,,,0,,,,,0,,,209,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JX9VJ/
+7,Bruxelles,Garage,Place de stationnement,30000,notariale,0,,0,0,0,,,0,,,12,,0,,,,https://www.zimmo.be/fr/bruxelles-1060/a-vendre/garage/JX9OA/
+8,Uccle,Appartement,,600000,notariale,6,175,0,0,0,,,0,175,,,4,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX9JR/
+9,Molenbeek-Saint-Jean,Maison,,329000,notariale,6,230,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JX9IC/
+0,Bruxelles,Appartement,,1300000,notariale,8,330,0,0,0,True,60,0,,,360,3,0,old,1970,168,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXE06/
+1,Bruxelles,Appartement,,630000,notariale,9,213,0,0,0,,,0,,,,4,0,new,2021,150,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXE0C/
+2,Woluwe-Saint-Lambert,Appartement,,464000,notariale,6,30,0,0,0,True,5,0,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXE0A/
+3,Woluwe-Saint-Lambert,Appartement,Studio avec coin lit,201000,notariale,2,70,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXE0B/
+4,Woluwe-Saint-Lambert,Appartement,,281000,notariale,3,50,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXE07/
+5,Etterbeek,Bien professionnel,Bureaux,1175000,notariale,1,358,0,0,0,,,0,,,,2,0,old,1900,152,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JXE08/
+6,Molenbeek-Saint-Jean,Appartement,,219000,notariale,4,84,0,0,0,,,0,,,,2,0,new,1965,585,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXDUE/
+7,Saint-Gilles,Appartement,,370000,notariale,3,97,0,0,0,True,15,1,,,,2,0,new,1930,144,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXDQ9/
+8,Uccle,Appartement,,269000,notariale,3,90,0,0,0,True,10,0,,,,,0,,,228,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXDQ0/
+9,Saint-Gilles,Appartement,App. rez-de-chaussée,295000,notariale,2,80,0,0,0,,,0,,,,2,0,old,1920,405,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXDOP/
+0,Forest,Appartement,Penthouse,220000,notariale,2,65,0,0,0,True,60,0,,,,,0,,1970,594,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXPXZ/
+1,Schaerbeek,Appartement,Studio avec coin lit,210000,notariale,1,80,0,0,0,True,50,0,,,,2,0,,2023,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXPSF/
+2,Schaerbeek,Maison,,645000,notariale,8,425,0,0,0,,,0,,,,2,0,,1885,647,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXPSG/
+3,Ixelles,Appartement,,345000,notariale,3,90,0,0,0,True,50,0,,,,3,0,,1954,606,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXPSE/
+4,,Projet,,194000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/projet-immobilier/10045X9/
+5,,Projet,,299000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/projet-immobilier/10045X8/
+6,Uccle,Appartement,Penthouse,750000,notariale,7,216,0,0,0,True,24,1,,,,3,0,,2006,252,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXPK7/
+7,Saint-Josse-ten-Noode,Appartement,,195000,notariale,2,52,0,0,0,True,8,0,,,,2,0,,1970,,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JXP85/
+8,Anderlecht,Appartement,,299000,notariale,3,105,0,0,0,True,70,0,,,,2,0,,2007,148,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXP2U/
+9,Woluwe-Saint-Lambert,Appartement,Studio avec coin lit,140000,notariale,0,28,0,1,0,,,0,,,,,0,,,446,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXP1D/
+0,Ixelles,Bien professionnel,Rez-de-chaussée commercial,900000.0,notariale,0,,0,0,0,,,0,286,0,286,,0,old,2019,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/IX8XG/
+1,Bruxelles,Bien professionnel,Bureaux,995000.0,notariale,0,,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/IVUH2/
+2,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,894,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/bien-professionnel/HFSW7/
+3,Jette,Bien professionnel,Bien commercial,194500.0,notariale,0,,0,0,0,,,0,,,,,0,old,2015,,https://www.zimmo.be/fr/jette-1090/a-vendre/bien-professionnel/GX3Q7/
+4,Evere,Appartement,Penthouse,474900.0,notariale,2,102,0,0,0,True,33,0,,,,,0,old,2017,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/GS7VB/
+5,Molenbeek-Saint-Jean,Terrain,Terrain à bâtir,170000.0,notariale,0,,0,0,0,,,0,,,136,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/terrain/FMC7R/
+0,Jette,Bien professionnel,Commerce,175000,notariale,0,50,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/jette-1090/a-vendre/bien-professionnel/JTKR3/
+1,Anderlecht,Maison,Usage mixte,1270000,notariale,12,360,0,0,0,,,0,,,415,2,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JNQPH/
+2,Schaerbeek,Appartement,,470000,notariale,7,180,0,0,0,,,0,,,,,0,,,239,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JTK4Y/
+3,Ixelles,Maison,,4250000,notariale,17,200,0,0,0,True,30,1,,,700,2,0,new,1920,239,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JTJU2/
+4,Etterbeek,Bien professionnel,Immeuble de bureaux,1395000,notariale,2,323,0,0,0,,,0,323,,,2,0,old,2005,223,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JTDBF/
+5,Etterbeek,Appartement,,250000,notariale,3,80,0,0,0,,,0,,,,,0,old,1968,135,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JTDCD/
+6,Etterbeek,Bien professionnel,Bâtiment commercial,150000,notariale,3,55,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JTDCC/
+7,Koekelberg,Appartement,,445000,notariale,6,220,0,0,1,True,170,0,,,,2,0,old,1989,428,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JTA54/
+8,Jette,Appartement,,275000,notariale,4,110,0,0,0,True,5,0,,,,,0,old,1934,279,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JT9MY/
+9,Etterbeek,Garage,,195000,notariale,1,,0,0,0,,,0,,,,,0,old,1967,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JT98R/
+0,Ixelles,Garage,,38000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/garage/JJGYH/
+1,Bruxelles,Appartement,,125000,notariale,1,35,0,0,0,,,1,,,,2,0,old,2009,284,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JJ00S/
+2,Bruxelles,Bien professionnel,Horeca,99000,notariale,1,,0,0,0,,,0,117,-105,12,2,0,new,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JIW9X/
+3,Woluwe-Saint-Lambert,Appartement,,295000,notariale,1,,0,0,0,,,0,,,,,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JIOLW/
+4,Bruxelles,Bien professionnel,Bien commercial,238200,notariale,0,50,0,0,0,,,0,50,0,50,2,0,old,2017,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JIK92/
+5,Bruxelles,Bien professionnel,Bien commercial,960000,notariale,0,50,0,0,0,True,65,0,50,0,50,2,0,old,2017,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JIK91/
+6,Bruxelles,Bien professionnel,Bien commercial,199500,notariale,0,60,0,0,0,,,0,60,0,60,2,0,old,2017,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JIK90/
+7,Bruxelles,Maison,Maison bourgeoise,1975000,notariale,8,67,0,0,0,True,20,1,,,303,2,0,new,1874,339,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JI18I/
+8,Ixelles,Appartement,,1790000,notariale,9,300,0,0,0,True,60,0,,,,3,0,new,1935,315,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JG2I9/
+9,Uccle,Maison,Villa,3900000,notariale,11,650,0,0,0,,,1,,,000,4,0,,,555,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JG2IL/
+0,Evere,Appartement,Serviceflat,210000,notariale,3,25,0,0,0,,,0,,,,2,0,new,2015,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUPFU/
+1,Bruxelles,Bien professionnel,Bâtiment commercial,1500000,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JUOZZ/
+2,Evere,Appartement,,199000,notariale,2,,0,1,0,,,1,,,,4,0,old,2019,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUOYB/
+3,Woluwe-Saint-Pierre,Maison,,1950000,notariale,11,410,0,0,0,True,20,1,,,598,3,0,new,1939,290,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JUO4F/
+4,Bruxelles,Bien professionnel,Commerce,465000,notariale,0,,0,0,0,,,0,,,55,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JUNTV/
+5,Anderlecht,Bien professionnel,Rez-de-chaussée commercial,750000,notariale,1,353,0,0,0,,,0,500,,,,0,old,2019,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JUNHK/
+6,Woluwe-Saint-Lambert,Appartement,,997000,notariale,7,200,0,0,1,True,80,0,,,,3,0,old,2000,449,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JULK5/
+7,Woluwe-Saint-Pierre,Appartement,,997000,notariale,7,200,0,0,1,True,80,0,,,,3,0,old,2000,449,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JULK6/
+8,Etterbeek,Garage,Place de stationnement,34000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JUKPX/
+9,Etterbeek,Garage,,16000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JUKCK/
 0,Evere,Appartement,,325000,notariale,2,90,0,0,0,True,10,0,,,,,0,,2018,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY3TI/
 1,Woluwe-Saint-Pierre,Bien professionnel,Immeuble de bureaux,1480000,notariale,13,390,0,0,0,,,1,,,,4,0,,1932,214,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/bien-professionnel/JY3TK/
 2,Woluwe-Saint-Pierre,Maison,,1480000,notariale,13,390,0,0,0,True,20,1,,,,4,0,,1932,214,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JY3TJ/
@@ -31,6 +517,176 @@
 7,Anderlecht,Maison,,459000,notariale,6,160,0,0,0,,,1,,,,2,0,,1998,207,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JY3KG/
 8,Woluwe-Saint-Pierre,Appartement,,495000,notariale,3,97,0,0,0,,,0,,,,2,0,,2020,119,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JY3KL/
 9,Forest,Appartement,,275000,notariale,3,76,0,0,0,,,0,,,,,0,,1976,143,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JY39V/
+0,Bruxelles,Appartement,,259000,notariale,4,67,0,0,0,,,0,,,,,0,,2008,275,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXV0Q/
+1,Schaerbeek,Appartement,Duplex,370000,notariale,3,117,0,0,0,,,0,,,,,0,,,139,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXV0K/
+2,Anderlecht,Appartement,,285000,notariale,4,120,0,0,0,,,0,,,,,0,,1920,457,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXUY2/
+3,Evere,Appartement,,365000,notariale,5,195,0,0,0,True,30,0,,,,,0,,1900,403,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXUXW/
+4,Bruxelles,Maison,,790000,notariale,8,300,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXUSR/
+5,Schaerbeek,Bien professionnel,,425000,notariale,5,205,0,0,0,,,0,,,,2,0,,,282,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JXUSA/
+6,Schaerbeek,Maison,Usage mixte,425000,notariale,5,205,0,0,0,,,0,,,,2,0,,,282,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXUSB/
+7,Woluwe-Saint-Pierre,Appartement,Serviceflat,415000,notariale,3,80,0,0,0,,,1,,,,,0,,,265,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXUV0/
+8,Auderghem,Garage,Box,39500,notariale,0,,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/garage/JXUKJ/
+9,Woluwe-Saint-Lambert,Appartement,,325000,notariale,3,60,0,0,0,True,5,0,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXPWQ/
+0,Bruxelles,Appartement,,239000,notariale,1,50,0,0,0,True,4,0,,,,2,0,old,2013,250,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWY6A/
+1,Anderlecht,Bien professionnel,Commerce,155000,notariale,3,80,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JWY6C/
+2,Schaerbeek,Appartement,,460000,notariale,4,148,0,0,0,True,16,0,,,,,0,old,2022,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWY5I/
+3,Schaerbeek,Appartement,,245000,notariale,2,70,0,0,0,True,15,0,,,,,0,old,2022,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWY5H/
+4,Koekelberg,Appartement,,345000,notariale,4,117,0,0,0,True,32,0,,,,,0,old,2022,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JWY5E/
+5,Etterbeek,Appartement,,895000,notariale,4,263,0,0,0,True,5,0,,,,3,0,old,1930,352,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JWXP0/
+6,Laeken,Garage,,35000,notariale,3,,0,0,0,,,0,,,,,0,,,234,https://www.zimmo.be/fr/laeken-1020/a-vendre/garage/JWXDU/
+7,Saint-Gilles,Bien professionnel,Immeuble d’appartements,1095000,notariale,6,300,0,0,0,,,0,,,140,2,0,,,164,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/bien-professionnel/JWXDS/
+8,Bruxelles,Bien professionnel,Immeuble d’appartements,749000,notariale,10,365,0,0,0,,,0,,,,,0,,,143,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JWXDT/
+9,Auderghem,Bien professionnel,Commerce,315000,notariale,3,70,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JWXDL/
+0,Schaerbeek,Appartement,,230000,notariale,4,94,0,0,0,True,4,0,,,,,0,,,290,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY2CF/
+1,Bruxelles,Appartement,,270000,notariale,2,60,0,0,0,True,3,0,,,,,0,,,389,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY2CD/
+2,Molenbeek-Saint-Jean,Appartement,,199000,notariale,3,65,0,0,0,True,10,1,,,,2,0,,1950,364,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JY29X/
+3,Schaerbeek,Bien professionnel,Commerce,260000,notariale,0,,0,0,0,,,0,,,,,0,,2015,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JY297/
+4,Berchem-Sainte-Agathe,Appartement,,325000,notariale,7,123,0,0,0,,,1,,,,2,0,,2008,246,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JY27U/
+5,Forest,Appartement,Duplex,385000,notariale,4,141,0,0,0,True,10,0,,,,,0,,2011,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JY25H/
+6,Forest,Appartement,,385000,notariale,4,141,0,0,0,True,10,0,,,,,0,,2011,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JY24R/
+7,Anderlecht,Appartement,,149000,notariale,1,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JY22Z/
+8,Evere,Appartement,,155000,notariale,2,50,0,0,0,True,9,0,,,,,0,,1960,221,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY230/
+9,Bruxelles,Maison,,325000,notariale,5,137,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JY226/
+0,Auderghem,Appartement,,379000,notariale,2,87,0,0,0,True,38,0,,,,,0,old,2022,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWNZR/
+1,Auderghem,Appartement,Duplex,625000,notariale,7,200,0,0,1,True,50,0,,,,4,0,old,1990,167,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWNQQ/
+2,Saint-Gilles,Bien professionnel,,800000,notariale,4,280,0,0,0,,,0,,,,,0,,,214,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/bien-professionnel/JWNHR/
+3,Evere,Appartement,,190000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JWNDG/
+4,Anderlecht,Appartement,,210000,notariale,4,87,0,0,0,True,14,0,,,,4,0,,,172,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JWN1V/
+5,Anderlecht,Garage,Garage en sous-sol,210000,notariale,4,87,0,0,0,True,14,0,,,,4,0,,,172,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/garage/JWN1W/
+6,Laeken,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JWMUE/
+7,Laeken,Appartement,,250000,notariale,2,78,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JWMUH/
+8,Bruxelles,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWMUG/
+9,Laeken,Appartement,,308500,notariale,4,102,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JWMUK/
+0,Bruxelles,Bien professionnel,Commerce,250000,notariale,0,,0,0,0,,,0,,,,,0,,2015,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXZAG/
+1,Bruxelles,Bien professionnel,Commerce,570000,notariale,0,,0,0,0,,,0,,,,,0,,1912,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXZAH/
+2,Uccle,Appartement,Studio,100000,notariale,0,42,0,0,0,,,0,,,,,0,,,355,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXZAE/
+3,Anderlecht,Appartement,Duplex,320000,notariale,2,100,0,0,0,,,0,,,,,0,,1906,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXZ95/
+4,Woluwe-Saint-Pierre,Appartement,,695000,notariale,6,137,0,0,0,True,30,0,,,,2,0,,2007,182,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXZ2K/
+5,Schaerbeek,Appartement,,345000,notariale,4,72,0,0,0,True,3,0,,,,2,0,,2012,160,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXYPQ/
+6,Schaerbeek,Appartement,,340000,notariale,4,66,0,0,0,True,59,0,,,,2,0,,2012,180,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXYPS/
+7,Etterbeek,Appartement,,475000,notariale,3,115,0,0,0,True,4,0,,,,2,0,,1958,234,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXYSX/
+8,,Projet,,344000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/projet-immobilier/10045YX/
+9,Etterbeek,Maison,,630000,notariale,4,161,0,0,0,,,1,,,190,,0,old,1932,308,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JW8FT/
+0,Bruxelles,Appartement,Duplex,549000,notariale,4,138,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JV496/
+1,Bruxelles,Appartement,,660000,notariale,5,144,0,0,0,True,30,0,,,000,,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVQR2/
+2,Bruxelles,Maison,,749000,notariale,5,189,0,0,0,,,0,,,,2,0,old,1992,218,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JVWKO/
+3,Woluwe-Saint-Lambert,Appartement,,195000,notariale,3,55,0,0,0,,,0,,,,,0,old,1969,189,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JVVFF/
+4,Woluwe-Saint-Lambert,Maison,Maison unifamiliale,415000,notariale,7,80,0,0,0,,,0,,,141,2,0,old,1950,514,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JVVCG/
+5,Laeken,Maison,,500000,notariale,11,296,0,0,0,,,0,296,,,2,0,,,,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JVUDE/
+6,Jette,Appartement,,280000,notariale,4,91,0,0,0,,,0,,,,2,0,old,1976,343,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JVTTI/
+7,Bruxelles,Appartement,,363000,notariale,4,75,0,0,0,,,0,,,,2,0,new,,168,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVTQ0/
+8,Woluwe-Saint-Lambert,Appartement,,555000,notariale,5,200,0,0,1,True,30,0,,,,2,0,,,389,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JUKH2/
+9,Schaerbeek,Appartement,,555000,notariale,5,200,0,0,1,True,30,0,,,,2,0,,,389,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JUKH3/
+0,Bruxelles,Appartement,,524900,notariale,4,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXQRN/
+1,Watermael-Boitsfort,Appartement,,325000,notariale,4,94,0,0,0,True,50,0,,,,4,0,,1970,216,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/appartement/JXQPM/
+2,Anderlecht,Appartement,Penthouse,425000,notariale,5,136,0,0,0,True,20,0,,,,3,0,,1972,381,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXQTG/
+3,Schaerbeek,Appartement,Duplex,399000,notariale,3,125,0,0,0,True,45,0,,,,2,0,,1920,457,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXQPV/
+4,Jette,Appartement,,129000,notariale,2,50,0,0,0,,,0,,,,,0,,,159,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXQF4/
+5,Evere,Appartement,,390000,notariale,3,100,0,0,0,True,4,0,,,,,0,,2015,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXQDF/
+6,Woluwe-Saint-Pierre,Appartement,,375000,notariale,4,90,0,0,0,True,17,0,,,,2,0,,2003,272,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXQE9/
+7,Uccle,Maison,Maison de ville,1975000,notariale,8,780,0,0,0,,,1,,,,2,0,,1928,179,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXQ9W/
+8,Bruxelles,Maison,,349000,notariale,3,100,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXQ00/
+9,Anderlecht,Appartement,,149000,notariale,2,45,0,0,0,True,50,0,,,,,0,,,626,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXPY1/
+0,Bruxelles,Appartement,,140000,notariale,3,50,0,0,0,,,0,,,,,0,,1957,303,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4VA/
+1,Bruxelles,Appartement,,254000,notariale,3,60,0,0,0,,,0,,,,,0,,1930,168,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4V4/
+2,Bruxelles,Bien professionnel,Commerce,265000,notariale,2,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JY4V9/
+3,Bruxelles,Appartement,,295000,notariale,4,80,0,0,0,True,4,0,,,,2,0,,,267,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4V8/
+4,Bruxelles,Appartement,,239000,notariale,3,50,0,0,0,True,4,0,,,,2,0,,2013,250,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4V5/
+5,Bruxelles,Appartement,,240000,notariale,3,50,0,0,0,True,3,0,,,,,0,,,163,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4V6/
+6,Uccle,Maison,Villa,2850000,notariale,9,,0,0,0,,,1,,,,4,0,,1960,113,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JY4UK/
+7,Ixelles,Appartement,,850000,notariale,7,239,0,0,0,,,0,,,,3,0,,2006,168,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY4UL/
+8,Ixelles,Appartement,,735000,notariale,4,168,0,0,0,True,8,0,,,,2,0,,1930,191,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY4RF/
+9,Bruxelles,Appartement,,145000,notariale,2,30,0,0,0,,,0,,,,2,0,,2006,148,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JY4RD/
+0,Bruxelles,Appartement,,550000,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAB/
+1,Bruxelles,Appartement,,370000,notariale,4,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA9/
+2,Bruxelles,Appartement,,385000,notariale,4,70,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQA3/
+3,Bruxelles,Appartement,,385000,notariale,4,90,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAC/
+4,Bruxelles,Appartement,,336000,notariale,4,10,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQ9W/
+5,Bruxelles,Appartement,,580000,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAM/
+6,Bruxelles,Appartement,,570000,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAI/
+7,Bruxelles,Appartement,,610000,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAS/
+8,Bruxelles,Appartement,,599000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAR/
+9,Bruxelles,Appartement,,550000,notariale,5,80,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JUQAV/
+0,Etterbeek,Appartement,,520000,notariale,3,130,0,0,0,,,1,,,,3,0,old,2003,213,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JT8RC/
+1,Evere,Bien professionnel,Immeuble de bureaux,1650000,notariale,0,232,0,0,0,,,0,,,434,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/bien-professionnel/JT6NJ/
+2,Evere,Terrain,,1650000,notariale,0,232,0,0,0,,,0,,,434,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/terrain/JT6NL/
+3,Evere,Bien professionnel,Bureaux,1650000,notariale,0,232,0,0,0,,,0,,,434,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/bien-professionnel/JT6NK/
+4,Bruxelles,Appartement,,260000,notariale,2,83,0,0,0,,,0,,,,,0,,,232,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JT3ME/
+5,Ixelles,Bien professionnel,Bien commercial,275000,notariale,0,114,0,0,0,,,0,,,114,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JT3DP/
+6,Anderlecht,Bien professionnel,Bâtiment commercial,240000,notariale,3,210,0,0,0,,,0,,,220,2,0,new,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JT23G/
+7,Molenbeek-Saint-Jean,Garage,,22500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/garage/JT0MR/
+8,Molenbeek-Saint-Jean,Garage,,22500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/garage/JT0MS/
+9,Saint-Gilles,Maison,,399000,notariale,5,153,0,0,0,,,0,,,55,2,0,old,1955,363,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/maison/JT04P/
+0,Auderghem,Bien professionnel,Immeuble d’appartements,635000,notariale,5,282,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JXSRH/
+1,Schaerbeek,Appartement,,319000,notariale,5,117,0,0,0,,,0,,,,,0,,2007,183,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXSK7/
+2,Koekelberg,Appartement,,345000,notariale,4,117,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JXSK0/
+3,Forest,Appartement,,220000,notariale,1,50,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXS5U/
+4,Bruxelles,Appartement,,275000,notariale,3,60,0,0,0,,,0,,,,,0,,1963,456,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXS5Q/
+5,Woluwe-Saint-Pierre,Maison,,950000,notariale,7,242,0,0,0,,,1,,,,2,0,,1930,356,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JXS6W/
+6,Anderlecht,Appartement,,230000,notariale,2,80,0,0,0,True,50,0,,,,,0,,1978,204,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXS4Y/
+7,Evere,Appartement,Studio avec coin lit,194000,notariale,1,34,0,0,0,,,0,,,,2,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXS2L/
+8,Evere,Appartement,Penthouse,598000,notariale,5,25,0,0,0,True,05,1,,,,2,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXS2K/
+9,Laeken,Appartement,,159000,notariale,4,72,0,0,0,True,14,0,,,,,0,,1969,256,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JXRVN/
+0,Woluwe-Saint-Pierre,Appartement,,395000,notariale,4,98,0,0,1,,,0,,,,2,0,new,1970,282,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JW871/
+1,Schaerbeek,Appartement,App. rez-de-chaussée,200000,notariale,2,64,0,0,0,True,30,0,,,,,0,,,286,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JW7ID/
+2,Schaerbeek,Appartement,,200000,notariale,2,64,0,0,0,True,30,0,,,,,0,,,286,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JW7IC/
+3,Anderlecht,Appartement,,129000,notariale,3,57,0,0,0,True,12,0,,,,,0,old,1974,345,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JW7ER/
+4,Woluwe-Saint-Lambert,Maison,,675000,notariale,7,180,0,0,0,,,0,180,-17,163,2,0,,,258,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JW710/
+5,Woluwe-Saint-Lambert,Appartement,Studio,204000,notariale,1,,0,0,0,,,0,,,,,0,old,2022,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JW6IB/
+6,Woluwe-Saint-Lambert,Appartement,,543000,notariale,4,129,0,0,0,True,66,0,,,,,0,old,2021,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JW6FJ/
+7,Woluwe-Saint-Lambert,Appartement,Penthouse,808000,notariale,5,184,0,0,0,True,52,0,,,,,0,old,2021,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JW6FA/
+8,Bruxelles,Appartement,Studio avec coin lit,165000,notariale,2,37,0,0,0,,,0,,,,2,0,old,2010,208,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JW592/
+9,Bruxelles,Bien professionnel,Bâtiment d’entreprise,1350000,notariale,9,300,0,0,0,True,50,0,,,76,2,0,new,1837,407,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JW5I9/
+0,Woluwe-Saint-Lambert,Appartement,,385000,notariale,5,127,0,0,0,True,15,1,,,,2,0,old,1979,191,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JWGYY/
+1,Ganshoren,Appartement,,338000,notariale,6,115,0,0,0,True,10,0,,,,3,0,old,2000,216,https://www.zimmo.be/fr/ganshoren-1083/a-vendre/appartement/JWGTG/
+2,Saint-Josse-ten-Noode,Appartement,,219000,notariale,3,70,0,0,0,True,18,0,,,,,0,old,1970,184,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JWGR8/
+3,Bruxelles,Appartement,,235000,notariale,3,67,0,0,0,True,8,0,,,,,0,,,248,https://www.zimmo.be/fr/bruxelles-1030/a-vendre/appartement/JWGPR/
+4,Koekelberg,Appartement,,249000,notariale,4,105,0,0,0,,,0,,,,,0,,,157,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JWGPM/
+5,Bruxelles,Appartement,Studio avec coin lit,160000,notariale,2,37,0,1,0,,,0,,,,2,0,old,2009,285,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWGP0/
+6,Jette,Appartement,,329000,notariale,8,,0,0,0,,,0,,,146,,0,,,153,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JWGL5/
+7,Auderghem,Appartement,,395000,notariale,5,110,0,0,0,True,6,0,,,,2,0,old,1965,191,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWDEZ/
+8,Forest,Garage,Cave,650000,notariale,0,,0,0,0,,,0,,,635,,0,,,,https://www.zimmo.be/fr/forest-1190/a-vendre/garage/JWC86/
+9,Schaerbeek,Appartement,,312000,notariale,4,105,0,0,0,,,0,,,,2,0,old,1907,177,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWB3S/
+0,Bruxelles,Maison,,825000,notariale,17,245,0,0,0,True,40,1,,,120,2,0,old,1890,252,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JX6AU/
+1,Uccle,Appartement,,1500000,notariale,5,220,0,0,1,True,60,0,,,,,0,new,2020,103,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX6B0/
+2,Bruxelles,Appartement,,175000,notariale,1,62,0,0,0,,,0,,,,,0,,,248,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX61J/
+3,Molenbeek-Saint-Jean,Appartement,,169000,notariale,3,55,0,0,0,True,50,0,,,,,0,old,2001,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JX5ZR/
+4,Etterbeek,Appartement,,120000,notariale,1,25,0,0,0,,,0,,,,2,0,new,1963,566,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX5TG/
+5,Anderlecht,Appartement,,145000,notariale,3,62,0,0,0,,,0,,,,,0,new,,165,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JX5TA/
+6,Anderlecht,Bien professionnel,Commerce,269000,notariale,0,80,0,0,0,,,0,,,,3,0,old,1964,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JX5CY/
+7,Uccle,Appartement,,595000,notariale,3,125,0,0,0,,,0,,,,2,0,new,1973,127,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX5AJ/
+8,Evere,Appartement,Studio avec coin lit,225000,notariale,1,40,0,0,0,True,9,0,,,,,0,old,2019,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JX5A9/
+9,Evere,Appartement,Studio avec coin lit,225000,notariale,1,40,0,0,0,True,9,0,,,,,0,old,2019,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JX5A8/
+0,,Appartement,Studio avec coin lit,,notariale,2,55,0,0,0,True,3,0,,,,2,0,,2021,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXM4B/
+1,Ixelles,Appartement,Penthouse,2500000.0,notariale,7,277,0,0,0,True,24,0,,,,4,0,,2018,109,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXM49/
+2,,Projet,,250000.0,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/projet-immobilier/10045V6/
+3,Uccle,Appartement,Penthouse,285000.0,notariale,4,30,0,0,0,True,42,0,,,,2,0,,1977,273,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXLXS/
+4,Woluwe-Saint-Lambert,Appartement,,425000.0,notariale,6,100,0,0,0,True,6,0,,,,3,0,,1991,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXLT4/
+5,Bruxelles,Bien professionnel,,460000.0,notariale,5,245,0,0,0,,,0,,,,,0,,,414,https://www.zimmo.be/fr/bruxelles-1020/a-vendre/bien-professionnel/JXLQ5/
+6,Schaerbeek,Appartement,,140000.0,notariale,2,45,0,0,0,True,6,0,,,,,0,,1965,415,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXLO1/
+7,Saint-Gilles,Appartement,,540000.0,notariale,4,110,0,0,0,True,3,0,,,,,0,,1930,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXLHF/
+8,Anderlecht,Maison,,290000.0,notariale,7,150,0,0,0,,,0,,,,2,0,,,243,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXLHD/
+9,Schaerbeek,Appartement,,300000.0,notariale,3,88,0,0,0,,,0,,,,,0,,,150,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXLE4/
+0,Etterbeek,Appartement,,495000,notariale,6,111,0,0,0,True,12,0,,,,,0,,2011,100,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JUANT/
+1,Anderlecht,Appartement,,295000,notariale,5,126,0,0,0,,,0,,,,2,0,new,1960,178,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JUALR/
+2,Molenbeek-Saint-Jean,Appartement,,229000,notariale,4,100,0,0,0,True,6,0,,,,,0,new,1970,138,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JUA42/
+3,Laeken,Maison,,670000,notariale,8,365,0,0,0,True,40,1,115,235,350,2,0,old,1899,369,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JU9UX/
+4,Bruxelles,Bien professionnel,Bâtiment d’entreprise,2685000,notariale,0,794,0,0,0,,,0,,,,,0,old,2021,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JU8UH/
+5,Woluwe-Saint-Lambert,Maison,,1985000,notariale,10,525,0,0,0,,,1,,,673,2,0,old,1930,309,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JU613/
+6,Etterbeek,Maison,,1985000,notariale,11,525,0,0,0,,,1,,,673,2,0,old,1930,309,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JU614/
+7,Evere,Bien professionnel,Bureaux,210000,notariale,0,85,0,0,0,,,0,,,,,0,old,1970,,https://www.zimmo.be/fr/evere-1140/a-vendre/bien-professionnel/JTWQ9/
+8,Woluwe-Saint-Pierre,Maison,Usage mixte,3000000,notariale,0,762,0,0,0,,,1,,,250,,0,old,1986,329,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JTL2X/
+9,Uccle,Kot-Colocation,,350000,notariale,0,347,0,0,0,,,0,,,,,0,old,1614,,https://www.zimmo.be/fr/uccle-1180/a-vendre/kot-colocation/JTMGW/
+0,Anderlecht,Appartement,,355000,notariale,5,109,0,0,0,,,0,,,,2,0,,,249,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXGWY/
+1,Bruxelles,Appartement,,225000,notariale,3,72,0,1,0,True,3,0,,,,2,0,,2013,165,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXGV1/
+2,Saint-Josse-ten-Noode,Maison,,685000,notariale,6,255,0,0,0,,,1,,,184,2,0,,,,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/maison/JXGPJ/
+3,Woluwe-Saint-Lambert,Garage,Place de stationnement,12000,notariale,0,15,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JVVB0/
+4,Ixelles,Appartement,,1190000,notariale,7,280,0,0,0,True,5,0,,,,2,0,old,1935,229,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXGCG/
+5,Anderlecht,Maison,,359000,notariale,5,170,0,0,0,,,0,,,,2,0,,,689,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXGAL/
+6,Saint-Gilles,Appartement,Studio,170000,notariale,2,47,0,0,0,,,0,,,47,,0,,,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXG3F/
+7,Bruxelles,Appartement,,270000,notariale,2,91,0,0,0,True,11,0,,,,2,0,old,2011,236,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXG1D/
+8,Saint-Gilles,Appartement,App. rez-de-chaussée,619000,notariale,3,152,0,0,0,,,1,,,116,,0,old,1902,158,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXFTA/
+9,Bruxelles,Maison,Usage mixte,1850000,notariale,0,820,0,0,0,,,0,,,,2,0,,,555,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXFR0/
 0,Saint-Josse-ten-Noode,Bien professionnel,,685000,notariale,6,255,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/bien-professionnel/JY3XN/
 1,Neder-over-Heembeek,Bien professionnel,Immeuble d’appartements,450000,notariale,8,300,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/bien-professionnel/JY3X9/
 2,Laeken,Bien professionnel,Immeuble d’appartements,450000,notariale,8,300,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/laeken-1020/a-vendre/bien-professionnel/JY3XB/
@@ -41,3 +697,423 @@
 7,Ixelles,Bien professionnel,Bâtiment commercial,665000,notariale,6,,0,0,0,,,0,,,,2,0,,,595,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JY3X5/
 8,Ixelles,Appartement,,295000,notariale,4,88,0,0,0,,,0,,,,2,0,,,521,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WU/
 9,Ixelles,Appartement,,630000,notariale,4,164,0,0,0,True,81,1,,,,2,0,,1920,193,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY3WX/
+0,Forest,Appartement,,229000.0,notariale,2,70,0,0,0,True,15,1,,,,2,0,,,360,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXU3T/
+1,,Projet,,,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/projet-immobilier/10045YO/
+2,Etterbeek,Appartement,,180000.0,notariale,1,35,0,1,0,,,0,,,,,0,,,304,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXTTX/
+3,Evere,Appartement,,349000.0,notariale,5,97,0,0,0,True,70,0,,,,,0,,2006,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXTT5/
+4,,Projet,,377900.0,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/projet-immobilier/10043ZU/
+5,,Projet,,,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/projet-immobilier/100440K/
+6,Anderlecht,Appartement,Duplex,587814.0,notariale,3,194,0,0,0,,,0,,,,2,0,,2015,193,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXL5E/
+7,Molenbeek-Saint-Jean,Appartement,Penthouse,199000.0,notariale,2,70,0,0,0,True,30,0,,,,2,0,,1970,320,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXTGQ/
+8,Bruxelles,Appartement,Loft,474000.0,notariale,5,175,0,0,0,True,15,0,,,,,0,,,249,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXTFB/
+9,Woluwe-Saint-Lambert,Maison,Maison unifamiliale,385000.0,notariale,4,111,0,0,0,,,1,,,,2,0,,1960,331,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JXTBG/
+0,Bruxelles,Maison,Usage mixte,595000,notariale,0,260,0,0,0,,,1,,,90,,0,old,1836,498,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JVMPK/
+1,Laeken,Garage,Garage en sous-sol,12750,notariale,1,,0,0,0,,,0,,,,3,0,old,2015,,https://www.zimmo.be/fr/laeken-1020/a-vendre/garage/JWYYC/
+2,Molenbeek-Saint-Jean,Appartement,,298000,notariale,5,105,0,0,0,,,0,,,,2,0,,,129,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JWYKW/
+3,Molenbeek-Saint-Jean,Garage,,32000,notariale,0,18,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/garage/JWYIA/
+4,Bruxelles,Appartement,,399000,notariale,2,,0,0,0,,,0,,,,,0,,2015,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWYJ9/
+5,Laeken,Garage,Garage en sous-sol,13000,notariale,1,,0,0,0,,,0,,,,3,0,old,2015,,https://www.zimmo.be/fr/laeken-1020/a-vendre/garage/JWYEN/
+6,Bruxelles,Appartement,Duplex,350000,notariale,4,140,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1030/a-vendre/appartement/JWY6N/
+7,Schaerbeek,Appartement,,390000,notariale,5,120,0,0,0,,,0,,,,,0,,,291,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWY61/
+8,Laeken,Maison,,430000,notariale,4,170,0,0,0,True,50,1,,,,2,0,,,372,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JWY5Z/
+9,Molenbeek-Saint-Jean,Appartement,,285000,notariale,5,140,0,0,0,True,13,0,,,,,0,old,1968,195,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JWY6P/
+0,Etterbeek,Maison,,1090000,notariale,8,320,0,0,1,True,12,1,,,,2,0,,1906,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JXO5J/
+1,Uccle,Maison,,925000,notariale,7,293,0,0,0,,,1,,,,3,0,,1990,190,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXO5K/
+2,Ixelles,Appartement,Duplex,550000,notariale,3,95,0,0,0,True,12,0,,,,,0,,,186,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXO1D/
+3,Haren,Maison,,675000,notariale,0,,0,0,0,,,0,,,,3,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/maison/JXO16/
+4,Etterbeek,Appartement,,595000,notariale,4,155,0,0,0,True,12,0,,,,,0,,,251,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXNOG/
+5,Molenbeek-Saint-Jean,Appartement,,190000,notariale,3,100,0,0,0,True,14,0,,,,,0,,1963,219,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXNOV/
+6,Evere,Appartement,,270000,notariale,4,70,0,0,0,,,1,,,,2,0,,2011,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXNK0/
+7,Saint-Josse-ten-Noode,Appartement,,200000,notariale,1,40,0,0,0,,,0,,,,2,0,,1950,372,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JXNCV/
+8,Saint-Josse-ten-Noode,Appartement,,270000,notariale,2,55,0,0,0,,,0,,,,2,0,,1950,737,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JXNCU/
+9,Ixelles,Maison,,595000,notariale,7,300,0,0,0,True,20,1,,,,3,0,,,725,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JXNCW/
+0,Anderlecht,Appartement,,245000.0,notariale,5,88,0,0,0,,,0,,,88,,0,old,1960,334,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JROK4/
+1,Uccle,Maison,,2290000.0,notariale,10,540,0,0,0,,,1,,,236,2,0,new,1915,290,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JRE3U/
+2,Woluwe-Saint-Pierre,Maison,Usage mixte,749000.0,notariale,8,358,0,0,0,,,1,,,200,2,0,old,1950,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JR8D1/
+3,Uccle,Maison,Château,4500000.0,notariale,15,500,0,0,0,,,1,,,700,4,0,old,1950,,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JQXTJ/
+4,Saint-Gilles,Appartement,,325000.0,notariale,4,140,0,0,0,,,0,,,,2,0,old,1910,277,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JPNKC/
+5,Bruxelles,Garage,Place de stationnement,19000.0,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JQR43/
+6,Schaerbeek,Maison,Usage mixte,448000.0,notariale,8,270,0,0,0,,,0,,,,2,0,,,502,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JQOL1/
+7,Bruxelles,Appartement,,229000.0,notariale,2,55,0,0,0,,,0,,,,,0,old,2013,107,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JQJDI/
+8,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,899,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JQH99/
+9,Woluwe-Saint-Pierre,Appartement,,1295000.0,notariale,7,210,0,0,0,True,54,0,,,210,3,0,new,2015,150,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JQ8QH/
+0,,Projet,,245000,notariale,0,,0,0,0,,,0,,,,,0,,2022,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/projet-immobilier/10044EE/
+1,,Projet,,515000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/projet-immobilier/10044EA/
+2,,Projet,,345000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/projet-immobilier/10044E7/
+3,Ixelles,Appartement,,259000,notariale,2,64,0,0,0,True,7,0,,,,2,0,,1930,472,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXRS4/
+4,Ixelles,Appartement,,359000,notariale,2,69,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXRS1/
+5,Ixelles,Appartement,,359000,notariale,2,83,0,0,0,,,1,,,,2,0,,1930,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXRS2/
+6,Ixelles,Appartement,,299000,notariale,2,86,0,0,0,,,0,,,,,0,,1930,251,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXRS3/
+7,Woluwe-Saint-Pierre,Maison,Maison deux facades,520000,notariale,11,140,1,1,0,True,10,1,,,,2,0,,1949,340,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JXRXG/
+8,Jette,Appartement,,179000,notariale,3,86,0,0,0,,,0,,,,,0,,,294,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXRTI/
+9,Bruxelles,Appartement,,338000,notariale,3,72,0,0,0,,,0,,,,,0,,,187,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXRIU/
+0,Bruxelles,Appartement,Penthouse,239000.0,notariale,2,,0,1,0,,,0,,,,4,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1130/a-vendre/appartement/JUK22/
+1,Etterbeek,Appartement,,275000.0,notariale,3,83,0,0,0,True,3,1,,,,,0,old,1967,262,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JUJ69/
+2,Evere,Appartement,,350000.0,notariale,3,111,0,0,0,True,15,0,,,111,4,0,old,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUI0N/
+3,Neder-over-Heembeek,Garage,Place de stationnement,17500.0,notariale,0,,0,0,0,,,0,,,11,,0,,,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/garage/JUHIQ/
+4,Jette,Appartement,,235000.0,notariale,4,59,0,0,0,True,6,0,,,,,0,old,2013,,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JUEZJ/
+5,Evere,Appartement,,245000.0,notariale,2,70,0,0,0,True,15,0,,,,,0,old,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUEYR/
+6,,Bien professionnel,Bâtiment d’entreprise,,notariale,0,,0,0,0,,,0,,,524,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/bien-professionnel/JUDVT/
+7,Anderlecht,Bien professionnel,Rez-de-chaussée commercial,995000.0,notariale,0,770,0,0,0,,,0,400,0,400,2,0,new,2020,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JUCQN/
+8,Bruxelles,Appartement,Loft,850000.0,notariale,5,212,0,0,0,True,43,0,,,,,0,,2007,155,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JSZG6/
+9,Jette,Appartement,App. rez-de-chaussée,140000.0,notariale,0,60,0,0,0,True,20,1,,,285,2,0,old,1960,,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JTRZX/
+0,Bruxelles,Appartement,,412000,notariale,3,127,0,0,0,,,0,,,132,,0,new,1964,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWPJV/
+1,Schaerbeek,Appartement,,239000,notariale,2,67,0,0,0,,,1,,,,,0,,,144,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JVGVQ/
+2,Schaerbeek,Maison,,795000,notariale,4,240,0,0,0,,,0,,,160,2,0,old,1900,260,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JWPA8/
+3,Woluwe-Saint-Pierre,Appartement,,895000,notariale,5,70,0,0,0,True,50,0,,,,,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JWOSE/
+4,Woluwe-Saint-Pierre,Appartement,,780000,notariale,4,40,0,0,0,True,50,0,,,,,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JWOSI/
+5,Auderghem,Appartement,,657000,notariale,5,75,0,0,0,True,21,1,,,1,,0,old,2020,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWOSG/
+6,Bruxelles,Bien professionnel,Bureaux,475000,notariale,2,150,0,0,0,,,0,,,,,0,old,2020,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JWOSD/
+7,Auderghem,Appartement,,501500,notariale,5,63,0,0,0,True,75,0,,,,,0,old,2022,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JWOSF/
+8,Bruxelles,Bien professionnel,Bureaux,155000,notariale,2,50,0,0,0,,,0,,,,,0,old,2020,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JWOSH/
+9,Anderlecht,Appartement,,235000,notariale,3,95,0,0,0,,,0,,,,3,0,old,2003,143,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JWORF/
+0,Bruxelles,Maison,,500000,notariale,6,200,0,0,0,,,0,200,-50,150,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JX4LB/
+1,Uccle,Maison,Villa,2490000,notariale,12,450,0,0,0,True,77,1,,,979,4,0,new,1920,183,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JX4IH/
+2,Ixelles,Appartement,Penthouse,525000,notariale,1,114,0,0,0,,,0,,,,2,0,old,1881,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JX3TM/
+3,Laeken,Terrain,Terrain agricole,55950,notariale,0,,0,0,0,,,0,,,730,,0,,,,https://www.zimmo.be/fr/laeken-1020/a-vendre/terrain/JX3MR/
+4,Woluwe-Saint-Lambert,Appartement,,190000,notariale,2,60,0,0,0,True,12,0,,,,2,0,old,1965,442,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JX3JN/
+5,Ixelles,Appartement,,695000,notariale,5,190,0,0,0,True,15,0,,,,2,0,old,1968,168,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JX3JU/
+6,Anderlecht,Appartement,,244000,notariale,3,96,0,0,0,True,8,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JX382/
+7,Woluwe-Saint-Pierre,Maison,,525000,notariale,5,140,0,0,1,,,1,64,66,130,2,0,old,1961,299,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JX30X/
+8,Bruxelles,Appartement,Loft,585000,notariale,5,167,0,0,0,True,20,1,,,236,3,0,old,2007,177,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX2SJ/
+9,Etterbeek,Appartement,,295000,notariale,3,90,0,0,0,,,0,,,,,0,,,141,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX2NR/
+0,Anderlecht,Appartement,Studio avec coin lit,152000,notariale,0,51,0,0,0,,,0,,,,,0,old,2008,271,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXF9V/
+1,Auderghem,Appartement,,270000,notariale,4,106,0,0,0,True,7,0,,,,2,0,old,1960,293,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JXF7A/
+2,Bruxelles,Appartement,,260000,notariale,3,89,0,0,0,,,0,,,,,0,old,2017,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXF5I/
+3,Saint-Gilles,Appartement,Studio,220000,notariale,2,55,0,0,0,,,0,,,55,,0,,,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXF3K/
+4,Anderlecht,Appartement,,189000,notariale,3,70,0,0,0,True,7,0,,,,,0,,,306,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXEZS/
+5,Molenbeek-Saint-Jean,Garage,,22000,notariale,0,,0,0,0,,,0,,,,2,0,,2015,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/garage/JXEZQ/
+6,Woluwe-Saint-Lambert,Appartement,,330000,notariale,3,90,0,0,0,,,0,,,,,0,old,2012,112,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXEWW/
+7,Schaerbeek,Maison,,440000,notariale,11,190,0,0,0,,,1,,,140,2,0,,,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXEVD/
+8,Bruxelles,Maison,,650000,notariale,11,214,0,0,0,True,5,0,41,7,48,2,0,,,217,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JXEOX/
+9,Woluwe-Saint-Pierre,Maison,,375000,notariale,3,125,0,0,0,,,0,,,57,2,0,old,1933,572,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JXENO/
+0,Molenbeek-Saint-Jean,Bien professionnel,Immeuble d’appartements,660000,notariale,14,370,0,0,0,,,0,,,,2,0,,1938,571,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JXNHG/
+1,Jette,Appartement,,329000,notariale,5,130,0,0,0,,,0,,,,2,0,,,297,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXNDX/
+2,Bruxelles,Appartement,,195000,notariale,3,60,0,0,0,,,0,,,,2,0,,1958,241,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXNDU/
+3,Schaerbeek,Appartement,,557600,notariale,5,136,0,0,0,,,0,,,,,0,,,209,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXN8C/
+4,Uccle,Bien professionnel,Bureaux,200000,notariale,3,35,0,0,0,,,1,,,,,0,,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/bien-professionnel/JXN8D/
+5,Ixelles,Appartement,,1537000,notariale,5,160,0,0,0,True,91,0,,,,2,0,,2015,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXN8B/
+6,,Projet,,201000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/projet-immobilier/10045WD/
+7,Bruxelles,Appartement,,550000,notariale,6,80,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1E/
+8,Bruxelles,Appartement,,540000,notariale,6,132,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1G/
+9,Bruxelles,Appartement,,560000,notariale,6,132,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1I/
+0,Etterbeek,Bien professionnel,Bureaux,825000,notariale,1,440,0,0,0,,,0,,,,,0,old,1930,250,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JX87G/
+1,Bruxelles,Appartement,,164000,notariale,2,48,0,0,0,,,0,,,,,0,old,2009,276,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX84I/
+2,Bruxelles,Appartement,,135000,notariale,2,38,0,0,0,,,0,,,,2,0,old,2009,352,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX84G/
+3,Bruxelles,Appartement,,135000,notariale,2,38,0,0,0,,,0,,,,,0,old,2009,352,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX84H/
+4,Bruxelles,Appartement,,364000,notariale,4,101,0,0,0,True,11,0,,,,,0,old,2012,154,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX75B/
+5,Bruxelles,Appartement,,170000,notariale,1,31,0,0,0,True,5,0,,,,,0,old,2008,239,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX75C/
+6,Etterbeek,Maison,,695000,notariale,7,250,0,0,0,,,1,,,73,,0,old,1904,442,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JX73M/
+7,Haren,Bien professionnel,Bâtiment d’entreprise,303175,notariale,0,219,0,0,0,,,0,219,0,219,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX6SD/
+8,Haren,Bien professionnel,Bien commercial,855950,notariale,0,493,0,0,0,,,0,493,0,493,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX6SC/
+9,Haren,Bien professionnel,Bâtiment d’entreprise,845000,notariale,0,615,0,0,0,,,0,615,0,615,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JX6SE/
+0,Haren,Maison,Maison deux facades,299000,notariale,4,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/maison/JWAIS/
+1,Anderlecht,Maison,Usage mixte,589000,notariale,3,280,0,0,0,True,60,1,215,85,300,2,0,new,1928,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JWA2Y/
+2,Koekelberg,Garage,,27000,notariale,1,62,0,0,0,,,0,,,,,0,old,1976,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/garage/JW9RG/
+3,Bruxelles,Appartement,Duplex,495000,notariale,4,128,0,0,0,,,1,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JV497/
+4,Jette,Appartement,,329000,notariale,8,,0,0,0,,,0,,,146,,0,,,153,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JW95G/
+5,Ixelles,Appartement,,490000,notariale,4,115,0,0,0,,,0,,,,2,0,new,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JW93M/
+6,Ixelles,Appartement,,550000,notariale,4,115,0,0,0,,,0,,,,2,0,new,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JW93L/
+7,Anderlecht,Appartement,Studio avec coin lit,89000,notariale,1,35,0,0,0,True,7,0,,,,,0,,,298,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JW93I/
+8,Anderlecht,Appartement,Studio,89000,notariale,1,35,0,0,0,True,7,0,,,,,0,,,298,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JW93H/
+9,Anderlecht,Maison,Maison unifamiliale,375000,notariale,5,150,0,0,0,True,14,0,64,10,74,2,0,new,1891,195,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JW88G/
+0,Anderlecht,Appartement,,125000,notariale,2,50,0,0,0,True,7,0,,,,,0,,,116,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JSZ9W/
+1,Molenbeek-Saint-Jean,Appartement,Duplex,349000,notariale,6,130,0,0,0,True,20,0,,,,2,0,old,2010,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JSYMP/
+2,Bruxelles,Appartement,,1400000,notariale,3,350,0,0,1,,,0,,,,,0,old,1910,275,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JSX33/
+3,Ixelles,Appartement,,3297000,notariale,3,305,0,0,0,True,166,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW0D/
+4,Ixelles,Appartement,,3324000,notariale,3,308,0,0,0,True,161,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW0C/
+5,Ixelles,Appartement,,1839000,notariale,3,203,0,0,0,True,76,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW0E/
+6,Ixelles,Appartement,,1537000,notariale,2,160,0,0,0,True,91,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW0F/
+7,Ixelles,Appartement,,1537000,notariale,0,160,0,0,0,,,0,,,,,0,old,2018,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW01/
+8,Ixelles,Appartement,,1950000,notariale,3,211,0,0,0,True,111,0,,,,,0,,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSW0B/
+9,Bruxelles,Appartement,,695000,notariale,6,166,0,0,0,,,0,,,,,0,old,1955,240,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JSVXI/
+0,Uccle,Appartement,,1150000.0,notariale,6,220,0,0,0,True,20,0,,,,,0,new,1950,211,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JNZYD/
+1,,Maison,Maison ouvrière,,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JNWA2/
+2,,Maison,,,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JNW9Y/
+3,Uccle,Maison,Villa,2600000.0,notariale,11,430,0,0,0,,,1,,,425,4,0,old,1960,535,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JNOWC/
+4,Jette,Appartement,,307000.0,notariale,5,125,0,0,0,True,8,0,,,,2,0,,,,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JN5HO/
+5,Woluwe-Saint-Pierre,Maison,,3800000.0,notariale,15,600,0,0,1,True,20,1,,,367,4,0,new,2005,159,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JMWES/
+6,Bruxelles,Appartement,,295000.0,notariale,4,100,0,0,0,True,10,0,,,,2,0,old,2008,138,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JMLKI/
+7,Bruxelles,Appartement,,610000.0,notariale,5,132,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JML2J/
+8,Uccle,Maison,Villa,2895000.0,notariale,15,650,0,0,0,True,50,1,,,516,4,0,old,1958,391,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JMKK7/
+9,Uccle,Terrain,Terrain à bâtir,1950000.0,notariale,0,,0,0,0,,,0,283,537,820,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/terrain/JMA1O/
+0,Anderlecht,Bien professionnel,Immeuble d’appartements,475000,notariale,6,180,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JWY6E/
+1,Bruxelles,Appartement,,117000,notariale,3,20,0,0,0,,,0,,,,,0,old,2021,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWY6F/
+2,Ixelles,Bien professionnel,Immeuble d’appartements,1095000,notariale,6,300,0,0,0,,,0,,,140,2,0,,,164,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JWY6K/
+3,Forest,Bien professionnel,Commerce,325000,notariale,3,250,0,0,0,,,0,,,,,0,old,1920,,https://www.zimmo.be/fr/forest-1190/a-vendre/bien-professionnel/JWY6S/
+4,Berchem-Sainte-Agathe,Appartement,,160000,notariale,3,50,0,0,0,True,5,0,,,,,0,,,311,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JWY6J/
+5,Saint-Josse-ten-Noode,Appartement,,155000,notariale,3,55,0,0,0,,,0,,,,,0,old,1957,372,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JWY6T/
+6,Saint-Gilles,Maison,,599000,notariale,16,280,0,0,0,,,0,,,,2,0,new,1918,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/maison/JWY6B/
+7,Schaerbeek,Bien professionnel,Immeuble d’appartements,749000,notariale,15,350,0,0,0,,,1,,,,2,0,,,253,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JWY5X/
+8,Woluwe-Saint-Lambert,Appartement,,385000,notariale,5,120,0,0,0,,,1,,,,3,0,old,1981,204,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JWY63/
+9,Schaerbeek,Appartement,,155000,notariale,3,55,0,0,0,,,0,,,,,0,old,1939,799,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JWY6I/
+0,Laeken,Maison,,450000,notariale,6,150,0,0,1,True,2,1,,,131,2,0,old,1991,421,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JXD7G/
+1,Anderlecht,Appartement,,225000,notariale,4,95,0,0,0,True,3,0,716,0,716,2,0,new,1966,264,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXD55/
+2,Anderlecht,Maison,Maison unifamiliale,275000,notariale,5,150,0,0,0,True,14,0,64,10,74,2,0,new,1891,498,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXD54/
+3,Saint-Gilles,Appartement,,2180000,notariale,9,315,0,0,0,True,80,0,,,,2,0,old,2012,155,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXD4T/
+4,Uccle,Bien professionnel,Immeuble d’appartements,895000,notariale,12,290,0,0,0,,,1,,,140,,0,,,302,https://www.zimmo.be/fr/uccle-1180/a-vendre/bien-professionnel/JXCPS/
+5,Ixelles,Maison,,3450000,notariale,15,666,0,0,0,,,1,,,402,2,0,new,1920,146,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JXCP8/
+6,Uccle,Appartement,,950000,notariale,7,300,0,0,0,True,25,1,,,,,0,new,1977,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXCP5/
+7,Uccle,Appartement,Duplex,1800000,notariale,5,375,0,0,0,True,75,1,,,,4,0,new,1986,152,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXCP2/
+8,Uccle,Appartement,,675000,notariale,8,200,0,0,0,True,17,0,,,,3,0,new,1966,351,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXCP3/
+9,Uccle,Maison,Villa,2750000,notariale,11,365,0,0,0,True,30,1,,,669,3,0,new,1921,170,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXCP7/
+0,Woluwe-Saint-Pierre,Appartement,,695000,notariale,5,140,0,0,0,,,0,,,140,3,0,new,2015,150,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JQ8QI/
+1,Uccle,Bien professionnel,Bureaux,399000,notariale,0,234,0,0,0,,,0,700,232,932,2,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/bien-professionnel/JQ9RW/
+2,Bruxelles,Garage,,24500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JQ4MV/
+3,Ixelles,Appartement,,1150000,notariale,6,225,0,0,0,,,0,,,,3,0,old,1930,142,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JQ3YA/
+4,Bruxelles,Bien professionnel,Reprise,230000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1020/a-vendre/bien-professionnel/JPQ8N/
+5,Uccle,Appartement,,665000,notariale,5,165,0,0,0,,,0,165,,,2,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JPQ5R/
+6,Molenbeek-Saint-Jean,Garage,,23000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/garage/JPKXN/
+7,Uccle,Appartement,,1950000,notariale,8,320,0,0,0,True,110,1,,,817,4,0,old,1998,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JPKOY/
+8,Forest,Appartement,,193700,notariale,3,,0,0,0,,,0,,,76,,0,,,,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JOORS/
+9,Uccle,Terrain,Terrain à bâtir,4500000,notariale,0,,0,0,0,,,0,,,400,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/terrain/JOMZ6/
+0,Bruxelles,Appartement,,550000,notariale,6,132,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1H/
+1,Bruxelles,Appartement,,560000,notariale,6,80,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1F/
+2,Bruxelles,Appartement,,580000,notariale,6,132,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1J/
+3,Bruxelles,Appartement,,515000,notariale,6,80,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1B/
+4,Bruxelles,Appartement,,540000,notariale,6,80,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1D/
+5,Bruxelles,Appartement,,530000,notariale,6,80,0,0,0,True,30,0,,,,4,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN1C/
+6,Bruxelles,Appartement,Penthouse,1600000,notariale,5,220,0,0,0,True,36,0,,,,,0,,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXN19/
+7,Uccle,Appartement,,750000,notariale,4,140,0,0,0,,,0,,,,3,0,,,393,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXN1A/
+8,Laeken,Maison,,999000,notariale,18,700,0,0,0,True,60,1,,,,3,0,,1965,204,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JT9NX/
+9,,Projet,,210000,notariale,0,,0,0,0,,,0,,,,,0,,2023,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/projet-immobilier/10045OA/
+0,Berchem-Sainte-Agathe,Appartement,,235000,notariale,3,88,0,0,0,,,0,,,,2,0,old,1995,287,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JWSM7/
+1,Berchem-Sainte-Agathe,Appartement,Duplex,315000,notariale,5,146,0,0,0,,,0,,,,,0,old,2007,369,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JUJJL/
+2,Watermael-Boitsfort,Maison,,525000,notariale,5,120,0,0,0,,,1,,,170,2,0,old,1930,277,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JWS7H/
+3,Watermael-Boitsfort,Appartement,,295000,notariale,3,60,0,0,0,True,3,1,,,,2,0,old,1968,479,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/appartement/JWS7F/
+4,Saint-Gilles,Maison,Maison de ville,439000,notariale,6,170,0,0,0,True,15,0,,,170,,0,,,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/maison/JWRPA/
+5,Molenbeek-Saint-Jean,Maison,,375000,notariale,7,183,0,0,0,,,0,,,211,2,0,old,1935,331,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JWRM6/
+6,Etterbeek,Appartement,,620000,notariale,5,170,0,0,0,True,28,1,,,274,2,0,old,1954,194,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JWQBT/
+7,Forest,Maison,,525000,notariale,8,230,0,0,0,True,6,1,,,200,2,0,old,1930,841,https://www.zimmo.be/fr/forest-1190/a-vendre/maison/JWQ1K/
+8,Koekelberg,Maison,,669000,notariale,7,280,0,0,0,True,20,1,80,95,175,2,0,new,1891,226,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/maison/JWQ09/
+9,Bruxelles,Appartement,,399000,notariale,3,108,0,0,0,,,0,,,132,,0,new,1964,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JWPJW/
+0,,Appartement,,237000,notariale,3,85,0,0,0,,,0,,,,2,0,,1929,375,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXVL9/
+1,Woluwe-Saint-Lambert,Maison,,460000,notariale,5,90,0,0,0,True,5,1,,,,2,0,,1964,289,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JXVIW/
+2,Woluwe-Saint-Lambert,Appartement,Penthouse,450000,notariale,4,133,0,0,0,True,5,0,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXVDE/
+3,Evere,Appartement,,195000,notariale,2,45,0,0,0,,,0,,,,2,0,,1995,504,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXVBO/
+4,Anderlecht,Garage,Garage en sous-sol,20000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/garage/JXV5Q/
+5,Saint-Josse-ten-Noode,Maison,Usage mixte,399000,notariale,4,192,0,0,0,,,0,,,,2,0,,1950,390,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/maison/JXV5L/
+6,Uccle,Appartement,,269000,notariale,3,90,0,0,0,True,13,0,,,,2,0,,1973,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXUZ7/
+7,Schaerbeek,Appartement,,285000,notariale,3,87,0,0,0,True,9,0,,,,,0,,2013,123,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXV0L/
+8,Schaerbeek,Appartement,,285000,notariale,3,84,0,0,0,True,50,0,,,,,0,,2013,115,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXV0R/
+9,Bruxelles,Appartement,,319000,notariale,2,81,0,0,0,True,8,0,,,,,0,,2014,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXV0J/
+0,Anderlecht,Maison,Usage mixte,675000,notariale,0,317,0,0,0,,,1,,,220,,0,old,1928,474,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JTL2F/
+1,Schaerbeek,Appartement,,240000,notariale,4,93,0,0,0,,,1,,,,,0,old,1896,582,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JTL2A/
+2,Schaerbeek,Appartement,,150000,notariale,2,46,0,0,0,True,2,1,,,,,0,old,1896,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JTL29/
+3,Schaerbeek,Appartement,,160000,notariale,2,47,0,0,0,,,1,,,,,0,old,1896,488,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JTL28/
+4,Evere,Maison,Usage mixte,630000,notariale,0,365,0,0,0,,,1,,,224,,0,old,1915,520,https://www.zimmo.be/fr/evere-1140/a-vendre/maison/JTL26/
+5,Bruxelles,Garage,Place de stationnement,22500,notariale,0,12,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JTL23/
+6,Etterbeek,Appartement,,300000,notariale,2,65,0,0,0,,,1,,,,,0,old,2009,128,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JTL1Y/
+7,Ixelles,Appartement,Studio avec coin lit,199000,notariale,1,36,0,0,0,,,1,,,156,,0,old,1888,177,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JTL1X/
+8,Woluwe-Saint-Lambert,Appartement,,285000,notariale,3,43,0,0,0,True,8,0,,,,2,0,,2012,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JU40E/
+9,Bruxelles,Garage,Place de stationnement,24000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JU3MR/
+0,Schaerbeek,Appartement,,230000,notariale,2,80,0,0,0,True,3,1,,,,2,0,,1950,175,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXJKW/
+1,Etterbeek,Bien professionnel,Immeuble d’appartements,525000,notariale,7,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JXJKK/
+2,Evere,Terrain,Terrain à bâtir,575000,notariale,0,,0,0,0,,,1,,,995,,0,,,,https://www.zimmo.be/fr/evere-1140/a-vendre/terrain/JVWC6/
+3,Etterbeek,Garage,Garage en sous-sol,30000,notariale,1,50,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JXJI6/
+4,Ixelles,Appartement,Penthouse,2600000,notariale,8,520,0,0,0,True,35,0,,,,,0,,1956,369,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXJIA/
+5,Bruxelles,Appartement,Penthouse,3500000,notariale,7,540,0,0,0,True,18,0,,,,4,0,,2017,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXJIB/
+6,Etterbeek,Garage,Garage en sous-sol,25000,notariale,1,10,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JXJI5/
+7,Etterbeek,Garage,Garage en sous-sol,80000,notariale,0,50,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/garage/JXJI7/
+8,Ixelles,Appartement,,830000,notariale,4,127,0,0,0,True,8,0,,,,3,0,,1912,171,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXJI9/
+9,Ixelles,Garage,Garage en sous-sol,45000,notariale,0,50,0,0,0,,,0,,,,,0,,2017,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/garage/JXJI8/
+0,Schaerbeek,Maison,,485000,notariale,4,174,0,0,0,True,19,1,,,,,0,new,1894,100,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/maison/JXFOK/
+1,Anderlecht,Appartement,,285000,notariale,3,96,0,0,0,,,0,,,,3,0,,,178,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXFM4/
+2,Schaerbeek,Appartement,,290000,notariale,4,100,0,0,0,,,0,,,,2,0,old,2010,122,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXFKO/
+3,Bruxelles,Bien professionnel,Commerce,699000,notariale,0,188,0,0,0,,,0,,,448,,0,,,,https://www.zimmo.be/fr/bruxelles-1020/a-vendre/bien-professionnel/JXFFK/
+4,Uccle,Appartement,,325000,notariale,4,100,0,0,1,True,50,0,,,111,3,0,old,1968,240,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXFBI/
+5,Watermael-Boitsfort,Maison,,575000,notariale,6,180,0,0,0,,,1,,,98,2,0,old,1952,348,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXFBJ/
+6,Watermael-Boitsfort,Maison,,575000,notariale,6,180,0,0,0,,,1,,,98,2,0,old,1952,348,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXFBK/
+7,Anderlecht,Maison,,349000,notariale,5,140,0,0,0,,,1,,,,,0,,,509,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXF9U/
+8,Anderlecht,Maison,Maison bruxelloise,349000,notariale,5,140,0,0,0,,,1,,,,,0,,,509,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXF9S/
+9,Anderlecht,Appartement,Studio,152000,notariale,0,51,0,0,0,,,0,,,,,0,old,2008,271,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXF9T/
+0,Woluwe-Saint-Pierre,Maison,,1495000,notariale,8,325,0,0,0,,,1,,,,2,0,,,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JY087/
+1,Woluwe-Saint-Lambert,Appartement,,465000,notariale,7,120,0,0,0,True,9,0,,,,3,0,,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JY067/
+2,Ixelles,Appartement,,610000,notariale,4,172,0,0,1,,,0,,,,2,0,,1959,155,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY063/
+3,Evere,Appartement,,385000,notariale,5,80,0,0,0,True,40,0,,,,2,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY066/
+4,Evere,Appartement,,320000,notariale,3,20,0,0,0,True,60,0,,,,2,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY065/
+5,Evere,Appartement,,305000,notariale,2,40,0,0,0,True,50,0,,,,2,0,,2022,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JY064/
+6,Bruxelles,Appartement,,579000,notariale,4,10,0,0,0,,,0,,,,2,0,,1880,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZ2L/
+7,Ganshoren,Appartement,,175000,notariale,3,73,0,0,0,,,0,,,,2,0,,1972,218,https://www.zimmo.be/fr/ganshoren-1083/a-vendre/appartement/JY03G/
+8,Berchem-Sainte-Agathe,Maison,Villa,745000,notariale,8,268,0,0,0,,,1,,,,4,0,,1983,206,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/maison/JY03F/
+9,,Projet,,1537000,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/projet-immobilier/100445I/
+0,Anderlecht,Appartement,,269000,notariale,3,95,0,0,0,True,8,0,,,,2,0,,2011,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXZVQ/
+1,Auderghem,Maison,,1430000,notariale,10,570,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/maison/JXZSY/
+2,Auderghem,Bien professionnel,Immeuble d’appartements,1430000,notariale,10,570,0,0,0,,,1,,,,2,0,,,461,https://www.zimmo.be/fr/auderghem-1160/a-vendre/bien-professionnel/JXZSZ/
+3,Bruxelles,Appartement,,270000,notariale,3,129,0,0,0,True,15,0,,,,,0,,1968,159,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXZP9/
+4,Ganshoren,Appartement,,270000,notariale,3,129,0,0,0,True,15,0,,,,,0,,1968,159,https://www.zimmo.be/fr/ganshoren-1083/a-vendre/appartement/JXZPA/
+5,Molenbeek-Saint-Jean,Appartement,,159000,notariale,1,46,0,0,0,True,4,0,,,,2,0,,2010,231,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXZPD/
+6,Schaerbeek,Appartement,,135000,notariale,2,38,0,0,0,,,0,,,,2,0,,2009,352,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXZP8/
+7,Schaerbeek,Appartement,,135000,notariale,2,38,0,0,0,,,0,,,,,0,,2009,352,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXZP7/
+8,Schaerbeek,Appartement,,376000,notariale,3,,0,0,0,,,0,,,,,0,,,255,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXZPB/
+9,Schaerbeek,Appartement,,164000,notariale,2,48,0,0,0,,,0,,,,,0,,2009,276,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXZP6/
+0,Haren,Bien professionnel,Bâtiment d’entreprise,550825,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JSJUS/
+1,Haren,Bien professionnel,Entrepôt sans bureau,341600,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JSJUP/
+2,Haren,Bien professionnel,Bâtiment d’entreprise,2685000,notariale,0,792,0,0,0,,,0,792,0,792,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JSIJ6/
+3,Neder-over-Heembeek,Appartement,,219900,notariale,3,87,0,0,0,True,17,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/appartement/JSE0V/
+4,Neder-over-Heembeek,Appartement,,234900,notariale,3,87,0,0,0,True,17,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/appartement/JSE0U/
+5,Uccle,Appartement,,550000,notariale,5,210,0,0,0,,,0,,,,,0,,,198,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JS9NK/
+6,Uccle,Maison,,260000,notariale,4,80,0,0,0,True,9,0,,,,3,0,old,1902,500,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JS5WS/
+7,Uccle,Maison,,190000,notariale,2,56,0,0,0,,,0,,,,2,0,old,1902,170,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JS5WX/
+8,Woluwe-Saint-Lambert,Maison,,2495000,notariale,11,460,0,0,0,True,48,1,,,561,2,0,new,1960,120,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/maison/JS3GI/
+9,Berchem-Sainte-Agathe,Appartement,,374500,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JS04Z/
+0,Woluwe-Saint-Lambert,Appartement,,750000,notariale,5,200,0,0,0,True,11,0,,,,,0,,1991,127,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXJD4/
+1,Watermael-Boitsfort,Maison,,365000,notariale,2,90,0,0,0,True,30,1,,,,2,0,,1910,528,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXJ95/
+2,Ixelles,Appartement,,540000,notariale,4,110,0,0,0,True,3,0,,,,,0,,1930,335,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXJ8L/
+3,Woluwe-Saint-Pierre,Maison,Villa,1650000,notariale,10,440,0,0,0,True,45,1,,,,4,0,,2020,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JXJ80/
+4,Anderlecht,Appartement,,160000,notariale,2,45,0,0,0,,,0,,,,3,0,,1948,563,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXJ7M/
+5,Laeken,Appartement,,278000,notariale,5,78,0,0,0,True,7,1,,,,2,0,,1954,463,https://www.zimmo.be/fr/laeken-1020/a-vendre/appartement/JXIVG/
+6,Molenbeek-Saint-Jean,Bien professionnel,Bien commercial,795000,notariale,7,600,0,0,0,True,55,0,,,,2,0,,,133,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JXIQ9/
+7,Bruxelles,Bien professionnel,Bureaux,290000,notariale,3,72,0,0,0,,,0,,,,,0,,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JXIKB/
+8,Ixelles,Maison,,615000,notariale,11,220,0,0,0,,,0,,,,2,0,,1900,295,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JXI46/
+9,Woluwe-Saint-Pierre,Maison,Villa,1550000,notariale,13,400,0,0,1,,,1,,,,4,0,,2003,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/maison/JXI48/
+0,,Projet,,448500,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/bruxelles-1130/a-vendre/projet-immobilier/10045JN/
+1,,Projet,,750000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/projet-immobilier/10045NV/
+2,Molenbeek-Saint-Jean,Maison,,375000,notariale,8,170,0,0,0,,,0,,,,2,0,,,449,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JXMLS/
+3,Bruxelles,Appartement,,229000,notariale,2,75,0,0,0,,,0,,,,2,0,,2001,225,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXMIS/
+4,Bruxelles,Appartement,,325000,notariale,2,85,0,0,0,True,8,0,,,,,0,,1900,255,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXMIR/
+5,Molenbeek-Saint-Jean,Appartement,,145000,notariale,2,75,0,0,0,True,9,0,,,,,0,,1962,222,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXMKG/
+6,Bruxelles,Appartement,,224000,notariale,3,79,0,0,0,True,7,0,,,,,0,,2009,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXMHR/
+7,Molenbeek-Saint-Jean,Appartement,,245000,notariale,7,160,0,0,0,True,19,0,,,,,0,,1962,225,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXMHG/
+8,Etterbeek,Appartement,,290000,notariale,4,90,0,0,0,,,0,,,,,0,,1960,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXMBS/
+9,Bruxelles,Appartement,,235000,notariale,3,67,0,0,0,True,8,0,,,,,0,,,248,https://www.zimmo.be/fr/bruxelles-1030/a-vendre/appartement/JXMBO/
+0,Jette,Appartement,,285000.0,notariale,4,110,0,0,0,,,1,,,285,2,0,old,1960,230,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JVYXY/
+1,Molenbeek-Saint-Jean,Maison,,1169000.0,notariale,13,382,0,1,0,,,1,,,195,2,0,new,1918,264,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JVW6G/
+2,Bruxelles,Appartement,Penthouse,1600000.0,notariale,5,217,0,0,0,True,36,0,,,000,,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVQR3/
+3,Koekelberg,Maison,,675000.0,notariale,17,240,0,0,0,,,1,,,110,2,0,new,1912,357,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/maison/JVYLA/
+4,,Appartement,,,notariale,0,83,0,0,0,,,0,,,,,0,,,210,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVY7E/
+5,Bruxelles,Appartement,Penthouse,950000.0,notariale,4,95,0,1,0,True,130,0,,,,2,0,old,2014,413,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVXKQ/
+6,Bruxelles,Appartement,,280000.0,notariale,3,80,0,1,0,True,18,0,,,,2,0,old,2011,220,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JVXKO/
+7,Schaerbeek,Appartement,,137500.0,notariale,2,28,0,0,0,True,20,0,,,,4,0,old,2004,527,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JVXKN/
+8,Schaerbeek,Appartement,,137500.0,notariale,2,30,0,0,0,,,0,,,,4,0,old,2004,527,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JVXKM/
+9,Bruxelles,Appartement,,230000.0,notariale,3,68,0,1,0,True,3,0,,,,2,0,old,2013,208,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JKDH3/
+0,Uccle,Maison,,1975000,notariale,11,820,0,0,0,,,1,,,,2,0,,1928,179,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JY1TT/
+1,,Projet,,657000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/projet-immobilier/100460W/
+2,,Projet,,710000,notariale,0,,0,0,0,,,0,,,,,0,,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/100460V/
+3,Schaerbeek,Appartement,Immeuble d'appartements,719000,notariale,0,,0,0,0,,,0,,,,,0,,1931,290,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JY1NW/
+4,Ixelles,Maison,,750000,notariale,5,180,0,0,0,,,0,,,,,0,,,150,https://www.zimmo.be/fr/ixelles-1050/a-vendre/maison/JY1KF/
+5,Ixelles,Appartement,,380000,notariale,4,80,0,0,0,True,8,0,,,,2,0,,1960,279,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JY1DY/
+6,Anderlecht,Appartement,Studio,204990,notariale,0,55,0,0,0,,,0,,,,,0,,1958,357,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JY16C/
+7,Molenbeek-Saint-Jean,Bien professionnel,Espace de bureaux,235000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JY147/
+8,Molenbeek-Saint-Jean,Bien professionnel,Rez-de-chaussée commercial,235000,notariale,1,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/bien-professionnel/JY142/
+9,Bruxelles,Appartement,,249000,notariale,3,85,0,0,0,,,0,,,,2,0,,,244,https://www.zimmo.be/fr/bruxelles-1020/a-vendre/appartement/JY0WD/
+0,Etterbeek,Appartement,,750000,notariale,5,123,0,0,0,True,16,0,,,,2,0,new,,151,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX5AC/
+1,Uccle,Appartement,Penthouse,912500,notariale,6,63,0,0,0,True,73,0,,,,,0,old,2021,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JX5AE/
+2,Bruxelles,Appartement,,325000,notariale,4,65,0,1,0,True,7,0,,,,3,0,,,289,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX5AI/
+3,Etterbeek,Appartement,,1075000,notariale,7,173,0,0,0,True,14,0,,,,2,0,new,,151,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX5AG/
+4,Etterbeek,Appartement,Penthouse,980000,notariale,7,154,0,0,0,True,19,0,,,,2,0,new,,151,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX5AF/
+5,Bruxelles,Appartement,Studio,393000,notariale,0,55,0,0,0,,,0,,,000,,0,,,111,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57I/
+6,Bruxelles,Appartement,Studio,493000,notariale,0,74,0,0,0,,,0,,,74,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX57E/
+7,Bruxelles,Appartement,Studio,627000,notariale,0,100,0,0,0,,,0,,,000,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX576/
+8,Bruxelles,Appartement,Studio,496000,notariale,0,74,0,0,0,,,0,,,000,,0,old,2016,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX579/
+9,Bruxelles,Appartement,Studio,493000,notariale,1,74,0,0,0,,,0,,,000,,0,old,2016,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX578/
+0,Jette,Appartement,,175000,notariale,1,78,0,0,0,,,0,,,,2,0,,1932,642,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXXE6/
+1,Jette,Appartement,App. rez-de-chaussée,249000,notariale,2,70,0,0,0,True,20,0,,,,2,0,,1932,437,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXXE4/
+2,Jette,Appartement,,199000,notariale,2,63,0,0,0,True,2,0,,,,2,0,,1932,298,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXXE7/
+3,Jette,Appartement,,205000,notariale,4,77,0,0,0,True,50,0,,,,,0,,1997,390,https://www.zimmo.be/fr/jette-1090/a-vendre/appartement/JXX31/
+4,Schaerbeek,Appartement,,225000,notariale,1,70,0,0,0,True,60,0,,,,,0,,1904,196,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXWZZ/
+5,Schaerbeek,Appartement,,285000,notariale,2,86,0,0,0,,,1,,,,,0,,1904,451,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXWZY/
+6,Schaerbeek,Appartement,App. rez-de-chaussée,285000,notariale,2,86,0,0,0,,,1,,,,,0,,1904,451,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXX01/
+7,Schaerbeek,Appartement,,375000,notariale,4,132,0,0,0,,,0,,,,,0,,1904,497,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXX00/
+8,Schaerbeek,Appartement,Duplex,375000,notariale,4,132,0,0,0,,,0,,,,,0,,1904,497,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXX02/
+9,Forest,Appartement,Studio avec coin lit,137500,notariale,1,45,0,0,0,,,0,,,,,0,,1958,184,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXWWT/
+0,Uccle,Maison,Villa,1890000,notariale,9,330,0,0,0,True,40,1,,,117,4,0,new,1980,312,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JXCP6/
+1,Uccle,Appartement,,425000,notariale,4,,0,0,0,True,20,1,,,,,0,new,1965,184,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXCP4/
+2,Ixelles,Appartement,,750000,notariale,4,105,0,0,0,True,15,1,,,,2,0,new,1939,298,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXCP9/
+3,Ixelles,Appartement,,545000,notariale,3,111,0,0,0,,,0,,,,2,0,new,,149,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JXCPA/
+4,Anderlecht,Appartement,,189000,notariale,3,80,0,0,0,,,0,,,,4,0,,,179,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXCO4/
+5,Evere,Appartement,,365000,notariale,5,20,0,0,0,True,40,0,,,,,0,old,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXCCP/
+6,Evere,Appartement,,365000,notariale,3,120,0,0,0,True,28,0,,,120,4,0,old,2021,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JUI0Q/
+7,Haren,Bien professionnel,Bâtiment d’entreprise,427700,notariale,0,314,0,0,0,,,0,314,0,314,,0,old,2021,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JXBOW/
+8,Bruxelles,Appartement,,745000,notariale,7,225,0,0,0,True,6,0,,,,,0,new,1992,215,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXB9M/
+9,Woluwe-Saint-Lambert,Appartement,Penthouse,720000,notariale,4,70,0,0,0,True,81,0,,,,4,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JXB9J/
+0,Watermael-Boitsfort,Maison,,449000,notariale,4,148,0,0,0,,,1,,,,2,0,,,542,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JXR4K/
+1,Uccle,Appartement,,220000,notariale,3,75,0,0,1,,,0,,,,2,0,,,249,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JXPWH/
+2,Evere,Appartement,,270000,notariale,2,66,0,0,1,,,0,,,,2,0,,2011,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXPWC/
+3,Anderlecht,Appartement,,165000,notariale,2,50,0,0,0,,,0,,,,3,0,,1930,223,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXUE7/
+4,Anderlecht,Maison,,320000,notariale,4,112,0,0,0,,,1,,,,2,0,,1960,310,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JXUE6/
+5,Laeken,Maison,,595000,notariale,7,80,0,0,1,True,55,1,,,,2,0,,1961,263,https://www.zimmo.be/fr/laeken-1020/a-vendre/maison/JXUEY/
+6,,Projet,,292000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/laeken-1020/a-vendre/projet-immobilier/1003USV/
+7,,Projet,,185000,notariale,0,,0,0,0,,,0,,,,,0,,2018,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/projet-immobilier/1003ZHT/
+8,,Projet,,303175,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1130/a-vendre/projet-immobilier/100442V/
+9,,Projet,,231525,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/projet-immobilier/10044NC/
+0,Neder-over-Heembeek,Maison,,448000,notariale,3,138,0,0,0,,,0,,,,3,0,,1958,410,https://www.zimmo.be/fr/neder-over-heembeek-1120/a-vendre/maison/JXJVZ/
+1,Bruxelles,Appartement,,420000,notariale,4,102,0,0,0,True,12,0,,,,4,0,,2014,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXJVY/
+2,Evere,Appartement,,265000,notariale,2,63,0,0,0,True,7,0,,,,2,0,,2010,,https://www.zimmo.be/fr/evere-1140/a-vendre/appartement/JXJW2/
+3,Bruxelles,Appartement,,289500,notariale,3,98,0,0,0,True,10,0,,,,,0,,2012,273,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXJVT/
+4,Bruxelles,Appartement,,314500,notariale,2,69,0,0,0,,,0,,,,,0,,2015,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXJVU/
+5,Forest,Appartement,,350000,notariale,3,109,0,0,0,True,9,0,,,,3,0,,2010,226,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JXJU5/
+6,Molenbeek-Saint-Jean,Appartement,,795000,notariale,7,600,0,0,0,True,55,0,,,,2,0,,,133,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXJRR/
+7,Anderlecht,Bien professionnel,Bureaux,127000,notariale,0,30,0,0,0,,,0,,,,,0,,,529,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JXJS0/
+8,Anderlecht,Bien professionnel,Bien commercial,127000,notariale,0,30,0,0,0,,,0,,,,,0,,,529,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JXJRZ/
+9,Anderlecht,Appartement,,495000,notariale,4,160,0,0,1,,,0,,,,4,0,,1910,289,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JXJRQ/
+0,Schaerbeek,Appartement,,340000,notariale,3,100,0,0,0,True,3,0,,,,2,0,,1957,172,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXP27/
+1,Etterbeek,Appartement,Duplex,950000,notariale,5,,0,0,0,,,1,,,,,0,,,325,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JL03Z/
+2,Woluwe-Saint-Pierre,Appartement,Penthouse,685000,notariale,6,130,0,0,0,True,75,0,,,,,0,,1977,167,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JXOUJ/
+3,Etterbeek,Appartement,,269000,notariale,4,80,0,0,0,,,0,,,,2,0,,1968,399,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXOUI/
+4,,Projet,,476000,notariale,0,,0,0,0,,,0,,,,,0,,2020,,https://www.zimmo.be/fr/bruxelles-1130/a-vendre/projet-immobilier/10045HZ/
+5,Saint-Gilles,Appartement,,395000,notariale,7,115,0,0,0,,,0,,,,2,0,,2010,,https://www.zimmo.be/fr/saint-gilles-1060/a-vendre/appartement/JXOS9/
+6,Ixelles,Bien professionnel,Bâtiment commercial,595000,notariale,7,300,0,0,0,True,20,1,,,,3,0,,,725,https://www.zimmo.be/fr/ixelles-1050/a-vendre/bien-professionnel/JXOC0/
+7,Schaerbeek,Appartement,Studio avec coin lit,125000,notariale,0,28,0,1,0,,,0,,,,,0,,,278,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXODX/
+8,Berchem-Sainte-Agathe,Appartement,,299000,notariale,4,115,0,0,0,True,6,1,,,,2,0,,2005,,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JXODB/
+9,Ganshoren,Appartement,,299000,notariale,4,115,0,0,0,True,6,1,,,,2,0,,2005,,https://www.zimmo.be/fr/ganshoren-1083/a-vendre/appartement/JXODA/
+0,Ixelles,Appartement,Penthouse,749000,notariale,4,123,0,0,0,True,100,0,,,,2,0,new,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JW55E/
+1,Ixelles,Appartement,,849000,notariale,4,157,0,0,0,,,1,,,,2,0,new,,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JW55D/
+2,Forest,Appartement,,165000,notariale,1,45,0,0,0,True,6,1,,,,2,0,old,1992,246,https://www.zimmo.be/fr/forest-1190/a-vendre/appartement/JW4SE/
+3,Berchem-Sainte-Agathe,Appartement,,329000,notariale,5,129,0,0,0,,,0,,,138,2,0,old,1968,168,https://www.zimmo.be/fr/berchem-sainte-agathe-1082/a-vendre/appartement/JW47T/
+4,Anderlecht,Bien professionnel,Bâtiment commercial,400000,notariale,0,,0,0,0,,,0,,,,4,0,,,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JW3YB/
+5,Uccle,Appartement,,850000,notariale,8,185,0,0,0,,,1,,,,,0,new,1992,,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JW3US/
+6,Bruxelles,Appartement,,885000,notariale,6,180,0,0,0,,,0,,,,2,0,old,2012,141,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JW3UO/
+7,Uccle,Maison,Villa,3450000,notariale,11,500,0,0,1,,,1,,,237,4,0,old,1958,493,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JW3UP/
+8,Ixelles,Appartement,,695000,notariale,7,150,0,0,0,,,1,,,,,0,old,2014,,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JW3UU/
+9,Anderlecht,Maison,,349000,notariale,7,200,0,0,0,,,0,,,,2,0,,,357,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JW3JV/
+0,Woluwe-Saint-Pierre,Appartement,,1395000,notariale,7,217,0,0,0,True,68,0,,,,2,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/appartement/JV6PE/
+1,Watermael-Boitsfort,Maison,,1290000,notariale,9,445,0,0,0,,,1,,,463,2,0,,,,https://www.zimmo.be/fr/watermael-boitsfort-1170/a-vendre/maison/JV63G/
+2,Anderlecht,Appartement,,170000,notariale,4,76,0,0,0,True,9,1,76,7,83,2,0,new,1967,140,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JUXEK/
+3,Bruxelles,Garage,Place de stationnement,22500,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JV5KT/
+4,Laeken,Bien professionnel,Immeuble d’appartements,849000,notariale,11,352,0,0,0,True,30,0,,,149,2,0,,,364,https://www.zimmo.be/fr/laeken-1020/a-vendre/bien-professionnel/JV5AQ/
+5,Molenbeek-Saint-Jean,Maison,,335000,notariale,4,150,0,0,0,True,35,0,,,107,2,0,,,400,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/maison/JV55Q/
+6,Saint-Josse-ten-Noode,Maison,Maison de maître,2250000,notariale,8,041,0,0,0,,,0,,,,,0,old,1860,,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/maison/JV4UX/
+7,Woluwe-Saint-Lambert,Garage,,39000,notariale,3,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/garage/JV4MO/
+8,Etterbeek,Appartement,,325000,notariale,4,100,0,0,0,True,9,0,,,,,0,,,182,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JV4KV/
+9,Etterbeek,Appartement,Duplex,375000,notariale,4,82,0,0,0,,,1,,,,,0,old,1910,128,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JUTHX/
+0,Ixelles,Appartement,,280000,notariale,0,55,0,0,0,,,0,,,,,0,old,2020,115,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSVXM/
+1,Etterbeek,Maison,,675000,notariale,4,,0,0,0,,,1,,,325,,0,,,495,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/maison/JSVFD/
+2,Auderghem,Appartement,,475000,notariale,6,126,0,0,0,True,5,1,,,,2,0,old,2019,,https://www.zimmo.be/fr/auderghem-1160/a-vendre/appartement/JSUKZ/
+3,Anderlecht,Appartement,,150000,notariale,2,60,0,0,0,True,6,1,,,,2,0,new,1955,675,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/appartement/JSS8N/
+4,Schaerbeek,Bien professionnel,Bien commercial avec habitation,575000,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JSOFM/
+5,Bruxelles,Bien professionnel,Rez-de-chaussée commercial,295000,notariale,0,,0,0,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JSOFJ/
+6,Ixelles,Appartement,,975000,notariale,6,200,0,0,0,True,15,0,,,,3,0,old,1971,215,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JSMVX/
+7,Bruxelles,Appartement,,695000,notariale,5,190,0,0,0,True,20,0,,,,2,0,new,1968,168,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JSMVY/
+8,Uccle,Garage,Garage en sous-sol,21000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/garage/JSKL0/
+9,Haren,Bien professionnel,Entrepôt,845000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/haren-1130/a-vendre/bien-professionnel/JSJUX/
+0,Bruxelles,Appartement,,325000,notariale,4,85,0,0,0,,,0,,,,,0,,2008,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JXKJ9/
+1,Molenbeek-Saint-Jean,Appartement,,249000,notariale,5,100,0,0,0,True,12,0,,,,2,0,,2012,,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXKIZ/
+2,Koekelberg,Appartement,,420000,notariale,3,170,0,0,0,True,45,0,,,,2,0,,,413,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JXKJ0/
+3,Etterbeek,Appartement,,275000,notariale,3,60,0,0,0,,,0,,,,,0,,1963,456,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JXKIY/
+4,Saint-Josse-ten-Noode,Appartement,,325000,notariale,4,85,0,0,0,,,0,,,,,0,,2008,,https://www.zimmo.be/fr/saint-josse-ten-noode-1210/a-vendre/appartement/JXKIW/
+5,Etterbeek,Bien professionnel,Commerce,205000,notariale,3,50,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JXKIV/
+6,Woluwe-Saint-Lambert,Bien professionnel,Commerce,550000,notariale,3,120,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/bien-professionnel/JXKIS/
+7,Schaerbeek,Appartement,,215000,notariale,4,80,0,0,0,,,0,,,,,0,,,253,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/appartement/JXKIQ/
+8,Molenbeek-Saint-Jean,Appartement,,220000,notariale,4,80,0,0,0,True,10,0,,,,,0,,2006,207,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JXJW3/
+9,Bruxelles,Garage,,25000,notariale,0,90,0,0,0,,,0,,,,,0,,2014,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/garage/JXJW1/
+0,Anderlecht,Bien professionnel,Rez-de-chaussée commercial,389000.0,notariale,0,280,0,0,0,,,0,215,85,300,2,0,new,1928,,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/bien-professionnel/JX6G9/
+1,,Appartement,,,notariale,3,76,0,0,0,True,15,1,,,,2,0,old,2021,,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/appartement/JX6AV/
+2,Bruxelles,Bien professionnel,Bureaux,395000.0,notariale,1,144,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JX6AX/
+3,Etterbeek,Bien professionnel,Commerce,825000.0,notariale,1,440,0,0,0,,,0,,,342,,0,old,1930,250,https://www.zimmo.be/fr/etterbeek-1040/a-vendre/bien-professionnel/JX6AZ/
+4,Bruxelles,Bien professionnel,Bureaux,196500.0,notariale,1,67,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JX6AY/
+5,Bruxelles,Appartement,,285000.0,notariale,3,94,0,0,0,,,0,,,,4,0,new,2021,150,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JX6B3/
+6,Koekelberg,Appartement,,345000.0,notariale,5,117,0,0,0,True,40,0,,,,2,0,old,2021,,https://www.zimmo.be/fr/koekelberg-1081/a-vendre/appartement/JX6B2/
+7,Bruxelles,Bien professionnel,Bureaux,240500.0,notariale,1,82,0,0,0,,,0,,,,,0,old,2019,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/bien-professionnel/JX6AW/
+8,Woluwe-Saint-Lambert,Appartement,,481000.0,notariale,6,80,0,0,0,True,8,0,,,,,0,old,2020,,https://www.zimmo.be/fr/woluwe-saint-lambert-1200/a-vendre/appartement/JX6B1/
+9,Ixelles,Appartement,,1075000.0,notariale,6,170,0,0,0,,,1,,,,2,0,old,1964,265,https://www.zimmo.be/fr/ixelles-1050/a-vendre/appartement/JX6AT/
+0,Uccle,Appartement,,290000,notariale,3,90,0,0,0,True,65,0,,,,,0,old,1981,239,https://www.zimmo.be/fr/uccle-1180/a-vendre/appartement/JU33H/
+1,Bruxelles,Appartement,,660000,notariale,4,144,0,0,0,True,10,0,,,,4,0,old,2022,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JU178/
+2,Woluwe-Saint-Pierre,Bien professionnel,,3100000,notariale,22,600,0,0,0,,,1,,,900,4,0,old,1986,140,https://www.zimmo.be/fr/woluwe-saint-pierre-1150/a-vendre/bien-professionnel/JTZ7Y/
+3,Schaerbeek,Bien professionnel,,640000,notariale,5,372,0,0,0,,,0,,,177,,0,old,1907,395,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/bien-professionnel/JTZ2J/
+4,Molenbeek-Saint-Jean,Appartement,,249000,notariale,4,90,0,0,0,True,56,0,,,,,0,old,2008,160,https://www.zimmo.be/fr/molenbeek-saint-jean-1080/a-vendre/appartement/JTW1M/
+5,Uccle,Maison,Usage mixte,350000,notariale,0,347,0,0,0,,,1,,,171,,0,,,,https://www.zimmo.be/fr/uccle-1180/a-vendre/maison/JTVS0/
+6,Bruxelles,Appartement,,329000,notariale,4,80,0,0,0,,,0,,,,,0,old,2000,106,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/appartement/JTTFH/
+7,Anderlecht,Maison,,350000,notariale,7,206,0,0,0,True,18,1,206,-92,114,2,0,old,1932,591,https://www.zimmo.be/fr/anderlecht-1070/a-vendre/maison/JTT5G/
+8,Schaerbeek,Garage,,114000,notariale,0,,0,0,0,,,0,,,,,0,,,,https://www.zimmo.be/fr/schaerbeek-1030/a-vendre/garage/JTT3O/
+9,Bruxelles,Maison,Usage mixte,1500000,notariale,4,,0,1,0,,,0,,,,2,0,,,,https://www.zimmo.be/fr/bruxelles-1000/a-vendre/maison/JTSGE/
