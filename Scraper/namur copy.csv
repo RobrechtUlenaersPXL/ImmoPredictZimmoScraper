@@ -1,0 +1,43 @@
+,locality,type of property,subtype of property,price,sale type,number of rooms,area,kitchen equipment,furnished,open fire,terrace,terrace area,garden,garden area,surface land,surface plot land,number of facades,swimming pool,building state,build year,epc,full adress,url
+0,Beauraing,Maison,,185000,notariale,5,,0,0,0,,,1,,,,4,0,,,657,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JY2E6/
+1,Cul-des-Sarts,Maison,,225000,notariale,5,162,0,0,0,,,1,,,,4,0,,2005,239,,https://www.zimmo.be/fr/cul-des-sarts-5660/a-vendre/maison/JY279/
+2,Rochefort,Maison,,325000,notariale,6,169,0,0,0,,,1,,,,3,0,,,215,,https://www.zimmo.be/fr/rochefort-5580/a-vendre/maison/JY223/
+3,Namur,Appartement,,155000,notariale,1,70,0,0,0,,,0,,,,,0,,,260," de Louvain 296-298, 5000 Namur",https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JY20V/
+4,Villers-en-Fagne,Terrain,Terrain à bâtir,40000,notariale,0,,0,0,0,,,1,,,,,0,,,," Suisse / Lot 4, 5600 Villers-en-Fagne",https://www.zimmo.be/fr/villers-en-fagne-5600/a-vendre/terrain/JY1VA/
+5,Gembloux,Maison,Villa,310000,notariale,5,150,0,0,0,True,30,1,,,,4,0,,1946,323,,https://www.zimmo.be/fr/gembloux-5030/a-vendre/maison/JY1DR/
+6,Hastière,Maison,Maison exceptionnelle,1500000,notariale,18,,0,0,0,,,1,,,,4,0,,,343,,https://www.zimmo.be/fr/hastiere-5540/a-vendre/maison/JY1CS/
+7,Havelange,Maison,,425000,notariale,4,250,0,0,1,,,1,,,,4,0,,,355,,https://www.zimmo.be/fr/havelange-5370/a-vendre/maison/JY143/
+8,Moustier-sur-Sambre,Terrain,,109000,notariale,0,,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/moustier-sur-sambre-5190/a-vendre/terrain/JY13W/
+9,Moustier-sur-Sambre,Terrain,,149000,notariale,1,,0,0,0,,,0,,,,3,0,,,771,,https://www.zimmo.be/fr/moustier-sur-sambre-5190/a-vendre/terrain/JY13X/
+0,Agimont,Terrain,Bois,10000,notariale,0,,0,0,0,,,0,,,,,0,,,," de Philippeville, 5544 Agimont",https://www.zimmo.be/fr/agimont-5544/a-vendre/terrain/JY3N3/
+1,Assesse,Maison,Usage mixte,225000,notariale,0,388,0,0,0,,,0,,,,4,0,,,," Basse 7, 5330 Assesse",https://www.zimmo.be/fr/assesse-5330/a-vendre/maison/JY3LT/
+2,Ciney,Appartement,,232780,notariale,4,82,0,0,0,True,22,0,,,,2,0,,2020,," des Stations 19 / 2.1, 5590 Ciney",https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JY3BG/
+3,Ciney,Appartement,,180250,notariale,3,55,0,0,0,True,13,0,,,,2,0,,2020,," des Stations 19 / 1.2, 5590 Ciney",https://www.zimmo.be/fr/ciney-5590/a-vendre/appartement/JY3BF/
+4,Jemeppe-sur-Sambre,Maison,,67500,notariale,2,31,0,0,0,,,1,,,,3,0,,,792," Bas Werichet, 59, 5190 Jemeppe-sur-Sambre",https://www.zimmo.be/fr/jemeppe-sur-sambre-5190/a-vendre/maison/JY2X1/
+5,Somzée,Maison,,125000,notariale,0,85,0,0,0,,,1,,,,2,0,,,," Basse,àcôtédu 16, 5651 Somzée",https://www.zimmo.be/fr/somzee-5651/a-vendre/maison/JY2X2/
+6,Ham-sur-Sambre,Bien professionnel,Bâtiment commercial,599000,notariale,1,90,0,0,0,,,0,,,,4,0,,1920,," de la Glacerie 178, 5190 Ham-sur-Sambre",https://www.zimmo.be/fr/ham-sur-sambre-5190/a-vendre/bien-professionnel/JY2JI/
+7,Falmagne,Maison,Ferme,135000,notariale,3,116,0,0,0,,,1,,,,4,0,,,479," Bry 1, 5500 Falmagne",https://www.zimmo.be/fr/falmagne-5500/a-vendre/maison/JY2IU/
+8,Ciney,Maison,,365000,notariale,6,175,0,0,0,,,1,,,,4,0,,2008,216,,https://www.zimmo.be/fr/ciney-5590/a-vendre/maison/JY2G7/
+9,Beauraing,Maison,,199000,notariale,4,108,0,0,0,,,1,,,,4,0,,2021,,,https://www.zimmo.be/fr/beauraing-5570/a-vendre/maison/JY2G8/
+0,Falisolle,Maison,,600000,notariale,4,213,0,0,0,,,0,,,,4,0,,,211," du Gay 84, 5060 Falisolle",https://www.zimmo.be/fr/falisolle-5060/a-vendre/maison/JXZEJ/
+1,Nismes,Maison,,290000,notariale,8,255,0,0,0,True,11,1,,,,2,0,,,167,,https://www.zimmo.be/fr/nismes-5670/a-vendre/maison/JXZBS/
+0,Moustier-sur-Sambre,Maison,,119000,notariale,3,,0,0,0,,,0,,,,3,0,,,771,,https://www.zimmo.be/fr/moustier-sur-sambre-5190/a-vendre/maison/JY13Z/
+1,Blaimont,Maison,,66000,notariale,3,40,0,0,0,True,16,0,,,,4,0,,1975,646," du village 2 / 141, 5542 Blaimont",https://www.zimmo.be/fr/blaimont-5542/a-vendre/maison/JY12G/
+2,Lives-sur-Meuse,Maison,,290000,notariale,6,130,0,0,0,,,0,,,,4,0,,,771,,https://www.zimmo.be/fr/lives-sur-meuse-5101/a-vendre/maison/JY121/
+3,Namur,Bien professionnel,Bureaux,248500,notariale,0,164,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JY0Z1/
+4,Namur,Bien professionnel,Bureaux,298500,notariale,0,216,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/namur-5000/a-vendre/bien-professionnel/JY0YR/
+5,Jambes,Maison,,199900,notariale,5,168,0,0,1,,,1,,,,,0,,,369," de Géronsart 179, 5100 Jambes",https://www.zimmo.be/fr/jambes-5100/a-vendre/maison/JY0WW/
+6,Namur,Appartement,Duplex,239000,notariale,5,123,0,0,0,,,1,,,,3,0,,1935,621," des Carmes 54, 5000 Namur",https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JY0W1/
+7,Couvin,Terrain,Terrain à bâtir,53000,notariale,0,,0,0,0,,,0,,,,,0,,,," de Pernelle 1, 5660 Couvin",https://www.zimmo.be/fr/couvin-5660/a-vendre/terrain/JRKYQ/
+8,Neuville,Maison,Chalet,110000,notariale,4,47,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/neuville-5600/a-vendre/maison/JY0LU/
+9,Frasnes,Maison,,165000,notariale,11,117,0,0,0,,,0,,,,,0,,,827,,https://www.zimmo.be/fr/frasnes-5660/a-vendre/maison/JY0LT/
+0,Mohiville,Maison,,500000,notariale,9,272,0,0,0,,,1,,,,3,0,,,456,,https://www.zimmo.be/fr/mohiville-5361/a-vendre/maison/JY4I9/
+1,Namur,Appartement,Penthouse,495000,notariale,4,182,0,0,0,True,27,1,,,,4,0,,2021,124,,https://www.zimmo.be/fr/namur-5000/a-vendre/appartement/JY4HN/
+2,Mettet,Maison,Villa,229000,notariale,7,145,0,0,0,,,1,,,,4,0,,,,,https://www.zimmo.be/fr/mettet-5640/a-vendre/maison/JY47P/
+3,Thon,Maison,Villa,485000,notariale,8,215,0,0,0,,,0,,,,4,0,,,154,,https://www.zimmo.be/fr/thon-5300/a-vendre/maison/JY45P/
+4,Bouge,Bien professionnel,Bureaux,395000,notariale,0,360,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JY457/
+5,Bouge,Bien professionnel,Bureaux,395000,notariale,0,360,0,0,0,,,0,,,,,0,,,,,https://www.zimmo.be/fr/bouge-5004/a-vendre/bien-professionnel/JY456/
+6,Fraire,Maison,,299000,notariale,6,180,0,0,0,True,32,1,,,,,0,,1960,818," de Fairoul, 125, 5650 Fraire",https://www.zimmo.be/fr/fraire-5650/a-vendre/maison/JY3XG/
+7,Hanzinne,Maison,,135000,notariale,3,105,0,0,0,,,1,,,,2,0,,,503," des Combattants, 75, 5621 Hanzinne",https://www.zimmo.be/fr/hanzinne-5621/a-vendre/maison/JY3XI/
+8,Falmignoul,Maison,Ferme,165000,notariale,4,106,0,0,0,True,24,1,,,,4,0,,,587," Haute 25, 5500 Falmignoul",https://www.zimmo.be/fr/falmignoul-5500/a-vendre/maison/JY3NR/
+9,Florennes,Maison,,70000,agence,2,,0,0,0,,,0,,,,,0,,1850,354," Ruisseau des Forges 46, 5620 Florennes",https://www.zimmo.be/fr/florennes-5620/a-vendre/maison/JY3N2/

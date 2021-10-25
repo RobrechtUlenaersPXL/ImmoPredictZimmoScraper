@@ -38,7 +38,8 @@ class Scrapper(Thread):
             ScrapMoreInfo(function=self.__scrap_v_mark, title='Terrasse'),  # Swimming Pool
             ScrapMoreInfo(function=self.__scrap_building_state), # Building
             Scrap(function=self.__scrap_build_year),
-            Scrap(function=self.__scrap_epc_norm)
+            Scrap(function=self.__scrap_epc_norm),
+            Scrap(function=self.__scrap_full_address, tag='h2', clasz='section-title __full-address'),  # full address
             
         ]
 
@@ -81,13 +82,18 @@ class Scrapper(Thread):
                 result = scrap.function(scrap.tag, scrap.clasz, scrap.title, scrap.regex)
                 # Store it
                 house.append(result)
-            
-            
+                
+                 
 
             # Math the garden area, and insert it to the list
             garden_area = self.__math_garden_area(house[12], house[11])
+            lat = "placeholder"
+            lng = "placeholder"
             house.insert(12, garden_area)
+            house.append(lat)
+            house.append(lng)
             house.append(url)
+            
             self.real_estate_data.append(list(flatten(house)))
 
     @staticmethod
@@ -283,6 +289,23 @@ class Scrapper(Thread):
             # If a locality is found, return it
             if regex:
                 return regex.group("locality")
+
+        return None
+
+    def __scrap_full_address(self, tag, attributes, *args) -> Union[str, None]:
+        
+        # Retrieve the field
+        field = self.__get_text(self.__scrap_field(tag, attributes))
+        # Regex the full address
+        if field:
+            field.strip()
+            #print(field)
+            #address = re.search(r"^(?P<address>.*)\s\s", field)
+            address = re.search(r"( .*)", field)
+            # If a locality is found, return it
+            if address:
+                #print(address.group("address"))
+                return address.group(0)
 
         return None
 

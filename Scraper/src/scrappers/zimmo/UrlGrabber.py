@@ -29,7 +29,7 @@ class UrlGrabber(Thread):
         self.driver = WebDriver()
 
         # debug mode limits the amount of links that are pulled
-        self.debug_mode = False
+        self.debug_mode = True
         self.province = province
 
     def get_urls(self):
@@ -75,10 +75,11 @@ class UrlGrabber(Thread):
                     links = self.soup.find_all('a', {"class": 'property-item_link'}, href=True)
                     for link in links:
                         old_link = False
-                        link = link.get("href")
+                        # Filter links that are projects
+                        link = self.filter_projet(link.get("href"))
                         # if link is not in csv append otherwise do not 
 
-                        if exists(f'./data/{self.province}.csv'):
+                        if exists(f'./data/{self.province}.csv') and link:
                             with open(f'./data/{self.province}.csv', newline='') as csvfile:
                                 link_reader = csv.DictReader(csvfile)
                                 for row in link_reader:
@@ -97,13 +98,13 @@ class UrlGrabber(Thread):
                     print("found " + str(duplicates) + " duplicates ")
 
     @staticmethod
-    def filter_house_apartment(string):
-        """Filter and return the urls that are 'maison' or 'appartement'."""
+    def filter_projet(string):
+        "Filter and return the urls that are projects"
 
-        if "/maison/" in string or "/appartement/" in string:
-            return string
+        if "/projet/" in string :
+            return None
 
-        return None
+        return string
 
     def urls_saver(self):
         Saver(self.urls,self.province).save()

@@ -29,6 +29,9 @@ class Cleaner(Thread):
         "building state",
         'build year',
         'epc',
+        'full adress',
+        'lat',
+        'lng',
         "url"
         ])
 
